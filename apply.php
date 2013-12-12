@@ -1,36 +1,16 @@
 <?php $thisPage="How to Apply"; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="img/favicon.png">
-
-    <title>Osteo Engineering Lab | Dept. of Plastic Surgery</title>
 	
-	
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet"/>
-	
-	    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="js/html5shiv.js"></script>
-      <script src="js/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Custom styles for this template -->
-    <link href="css/osteo.css" rel="stylesheet"/>
-  
+	<?php include_once("includes/head.php") ?>
   
   </head>
   
-
-<!-- NAVBAR
-================================================== -->
   <body>
+  
+    <!-- Google Analytics -->
+  	<?php include_once("includes/analyticstracking.php") ?>
+     
      <div id="wrap">
     
     <?php include("includes/navigation.php"); ?>

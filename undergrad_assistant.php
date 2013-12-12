@@ -1,85 +1,21 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en"><head>
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="img/favicon.png">
-
-    <title>Dean Lab :: Dept. of Plastic Surgery</title>
-
-	<!-- CSS from Plastic Surgery-->
-	<link href="index_files/kmdata.css" rel="stylesheet" type="text/css" media="screen" />
-	<link href="index_files/osuwmc_print.css" rel="stylesheet" type="text/css" media="print" />
-	<link href="index_files/osuwmc_mobile.css" rel="stylesheet" type="text/css" media="screen" /><!-- SiteTool CSS --> 
-	<link href="index_files/plasticsurgery_id.css" rel="stylesheet" type="text/css" media="screen" /><!--[if IE 7]-->
-	<link type="text/css" href="index_files/jquery-ui-1.css" rel="stylesheet" />
-	<link href="index_files/slideshow_hero.css" rel="stylesheet" type="text/css" media="screen" />
 	
-	
-    <!-- Bootstrap core CSS -->
-    <link href="index_files/bootstrap.css" rel="stylesheet"/>
-	
-	    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="../../assets/js/html5shiv.js"></script>
-      <script src="../../assets/js/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Custom styles for this template -->
-    <link href="index_files/carousel.css" rel="stylesheet"/>
-  <style type="text/css" id="holderjs-style">.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}</style>
-  
+	<?php include_once("includes/head.php") ?>
   
   </head>
   
-<!-- NAVBAR
-================================================== -->
   <body>
-    <div class="navbar-wrapper">
-      <div class="container">
-        <div class="navbar navbar-inverse navbar-static-top">
-          <div class="container">
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="index.htm">Dean Lab</a>
-            </div>
-            <div class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li><a href="index.htm">Home</a></li>
-                <li class="active"><a href="faculty_and_staff.html">Faculty and Staff</a></li>
-                <li><a href="alumni.html">Alumni</a></li>
-				<li><a href="research.html">Research</a></li>
-				<li><a href="publications.html">Publications</a></li>
-				<li class="dropdown"><a href="positions.html" class="dropdown-toggle" data-toggle="dropdown">Positions <b class="caret"></b></a>
-				<ul class="dropdown-menu">
-					<li><a href="job_descriptions.html">Job Descriptions</a></li>
-                    <li><a href="how_to_apply.html">How to Apply</a></li>
-				</ul>
-				<li><a href="resources.html">Resources</a></li>
-				<li><a href="contact_us.html">Contact Us</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Connections <b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    <li><a target="_blank" href="http://medicalcenter.osu.edu/Pages/index.aspx">Ohio State Wexner Medical Center</a></li>
-                    <li><a target="_blank" href="http://cancer.osu.edu/Pages/index.aspx">OSUCCC - James</a></li>
-                    <li><a target="_blank" href="http://medicine.osu.edu/Pages/default.aspx">Ohio State's College of Medicine</a></li>
-					<li><a target="_blank" href="http://plasticsurgery.osu.edu/">Department of Plastic Surgery</a></li>
-					<li><a target="_blank" href="http://www.terpconnect.umd.edu/~jpfisher/index_files/Page325.htm">Fischell Department of Bioengineering - University of Maryland</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+  
+    <!-- Google Analytics -->
+  	<?php include_once("includes/analyticstracking.php") ?>
+    
+    <div id="wrap">
+    
+		<!-- NAVBAR
+		================================================== -->
+		<?php include("includes/navigation.php"); ?>
 
 		    <!-- infomation
     ================================================== --> 
@@ -193,81 +129,21 @@
 
       <!-- /END THE FEATURETTES -->
 	  	
-	    <!-- Footer
+		</div><!-- /.container -->
+	
+	   
+
+	</div><!-- /.wrap -->
+
+       <!-- Footer
     ================================================== --> 
-	
-	<hr>
-	
-		<table border="0" style="background-color:#d6d6d6; width: 100%; margin:auto">
-
-<tr> <!-- Row 1 -->
-
-<td> <!-- Column 1 -->
-
-<img alt="Dean_lab_logo" src="img/lab_logo.png" height="108" width="240" />
-            
-				<a title="Wexner Medical Center" href="http://medicalcenter.osu.edu/Pages/index.aspx">
-                <img alt="Wexner-Medical-Center" src="img/wmc_logo.png" height="60" width="240" />
-            </a>	
-			<br />	
-            Copyright The Ohio State's Wexner Medical Center
-
-</td>
-
-<td> <!-- Column 2 -->
-<ul>
-                <li>
-                    <a href="contact_us.html">Contact Us</a>
-                </li>     	                
-                
-                <li>
-                    <a href="http://medicalcenter.osu.edu/privacypolicy/Pages/index.aspx" target="_blank">
-                        Privacy Policy</a>
-                </li>
-                <li>
-                    <a href="http://medicalcenter.osu.edu/disclaimer/Pages/index.aspx" target="_blank">
-                        Disclaimer</a>
-                </li>
-            </ul></td>
-			
-<td> <!-- Column 3 -->
-
-<ul>
-                <li>
-                    <a href="https://onesource.osumc.edu/" target="_blank">
-                        OneSource</a>
-                </li>
-                <li>
-                    <a href="http://cancer.osu.edu/" target="_blank">
-                        OSUCCC - James</a>
-                </li>
-                <li>
-                    <a href="http://medicine.osu.edu/" target="_blank">
-                        Ohio State's College of Medicine</a>
-                </li>
-                <li>
-                    <a href="http://www.osu.edu/" target="_blank">
-                        Ohio State University</a>
-                </li>
-            </ul>
-
-</td>
-</tr>
-<tr> <!-- Row 2 -->
-<td colspan="3">
-Biomedical Research Tower, 460 West 12th Ave., Rm. 1004, Columbus, OH  43210 USA. Phone: (614) 688-9044
-</td>
-</tr>
-</table>
-	
-	</div><!-- /.container -->	
+	<?php include("includes/footer.php"); ?>
 	
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="index_files/jquery.js"></script>
-    <script src="index_files/bootstrap.js"></script>
-    <script src="index_files/holder.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/holder.js"></script>
   
-
 </body></html>
