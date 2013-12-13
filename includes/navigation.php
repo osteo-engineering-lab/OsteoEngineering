@@ -26,6 +26,9 @@ echo "../"; ?>alumni">Alumni</a></li>
 				</li>
 				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Research <b class="caret"></b></a>
 					<ul class="dropdown-menu">
+						<li<?php if ($thisPage=="Capabilities") 
+echo " class=\"active\""; ?>><a href="<?php if ($sub==1) 
+echo "../"; ?>capabilities">Capabilities</a></li>
 						<li<?php if ($thisPage=="Active Research") 
 echo " class=\"active\""; ?>><a href="<?php if ($sub==1) 
 echo "../"; ?>research">Active Research</a></li>
