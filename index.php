@@ -52,7 +52,7 @@
 							
 							<h2>Join The Team!</h2>
 							<p>We're always looking for great people to work with us.</p>
-							<p><a class="btn btn-lg btn-primary" href="job_descriptions.html" role="button">Learn More</a></p>
+							<p><a class="btn btn-lg btn-primary" href="jobs" role="button">Learn More</a></p>
 						
 						</div><!-- /.carousel-caption -->
 					</div><!-- /.container -->
