@@ -53,7 +53,7 @@
 
 		<div class="story">
 			<img class="story-image pull-left col-xs-12 col-md-6 col-lg-6" src="img/capabilities/capability-03.jpg" alt="Perfactory Micro Envisiontec DLP 3D printer">
-			<h2 class="story-heading">Profusion bioreactors. <span class="text-muted">In vitro just go a whole lot more in vivo.</span></h2>
+			<h2 class="story-heading">Profusion bioreactors. <span class="text-muted"><em>In vitro</em> just got a whole lot more <em>in vivo.</em></span></h2>
 			<p class="lead">We're still writing! Check back later for more of the story.</p>
 		</div>
 	
