@@ -31,7 +31,16 @@
 			<h3>Ruchi Mishra</h3>
 			<p>Ruchi Mishra completed her graduation as a Bachelor of Science (B.Sc.) from C.S.J.M. University, India in 2004. She received her Master of Science (M.Sc.) degree in Applied Microbiology and Biotechnology in 2006 from Banasthali Vidyapith, India. Thereafter, she did her doctoral research on bone tissue engineering at Indian Institute of Technology, India and was conferred on the Ph.D. degree in July, 2013. She further joined as a post doctoral researcher at Dr. Dean's lab in September, 2013. In this lab, she is working on the in vivo bone regeneration studies on rodent and canine models. </p>
 			<br>
-	  
+			<h4>Publications</h4>
+			<li><p><strong>Ruchi Mishra</strong>, Bikramjit Basu and Ashok Kumar (2009)
+			<a href="http://www.ncbi.nlm.nih.gov/pubmed/19588233">Physical and cytocompatibility properties of bioactive glass-polyvinyl alcohol-sodium alginate biocomposite foams prepared via sol-gel processing for trabecular bone regeneration.</a> Journal of Materials Science: Materials in Medicine 20 (12), 2493-2500 </p></li>
+			<li><p>Ashok Kumar, <strong>Ruchi Mishra</strong>, Yvonne Reinwald and Sumrita Bhat (2010)
+			<a href="http://www.sciencedirect.com/science/article/pii/S1369702110702029">: Freezing unveiled by thawing.</a> Materials Today 13 (11), 42-44</li></p>
+			<li><p><strong>Ruchi Mishra</strong> and Ashok Kumar (2011)
+			<a href="http://www.ncbi.nlm.nih.gov/pubmed/21067655">Inorganic/organic biocomposite cryogels for regeneration of bony tissues.</a> Journal of Biomaterial Science: Polymer Edition 22 (16), 2107-2126</li></p>
+			<li><p><strong>Ruchi Mishra</strong>, Sudhir Kumar Goel, Kailash Chand Gupta and Ashok Kumar (2013)
+			<a href="http://www.ncbi.nlm.nih.gov/pubmed/24147880">Biocomposite Cryogels as Tissue-Engineered Biomaterials for Regeneration of Critical-Sized Cranial Bone Defects.</a> Tissue Engineering Part A (DOI: 10.1089/ten.tea.2013.0072)</p></li>
+
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	

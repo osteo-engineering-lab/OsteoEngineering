@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="http://osteoengineering.com">Dean Lab</a>
+              <a class="navbar-brand" href="http://osteoengineering.com">Osteo Engineering Lab</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -56,7 +56,8 @@ echo "../"; ?>resources">Resources</a></li>
 						<li><a target="_blank" href="http://cancer.osu.edu/Pages/index.aspx">OSUCCC - James</a></li>
 						<li><a target="_blank" href="http://medicine.osu.edu/Pages/default.aspx">OSU College of Medicine</a></li>
 						<li><a target="_blank" href="http://plasticsurgery.osu.edu/">Department of Plastic Surgery</a></li>
-						<li><a target="_blank" href="http://www.terpconnect.umd.edu/~jpfisher/index_files/Page325.htm">Fischell Dept. of Bioengineering - Univ. of Maryland</a></li>
+						<li><a target="_blank" href="https://onesource.osumc.edu/">OneSource (OSUMC Account Required)</a></li>
+						<li><a target="_blank" href="http://medicine.osu.edu/REGENERATIVEMEDICINE/Pages/index.aspx">Center for Regenerative Medicine and Cell-Based Therapies</a></li>
 					  </ul>
                 </li>
                 <li<?php if ($thisPage=="Contact") 

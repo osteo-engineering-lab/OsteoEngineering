@@ -3,7 +3,7 @@ $field_name = $_POST['cf_name'];
 $field_email = $_POST['cf_email'];
 $field_message = $_POST['cf_message'];
 
-$mail_to = 'tram.2@osu.edu';
+$mail_to = 'tram.2@osu.edu';'eric.mott@osumc.edu';'david.dean@osumc.edu'
 $subject = 'Message from a site visitor '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
@@ -18,14 +18,14 @@ $mail_status = mail($mail_to, $subject, $body_message, $headers);
 if ($mail_status) { ?>
 	<script language="javascript" type="text/javascript">
 		alert('Thank you for the message. We will contact you shortly.');
-		window.location = 'contact_us.html';
+		window.location = 'contact.php';
 	</script>
 <?php
 }
 else { ?>
 	<script language="javascript" type="text/javascript">
-		alert('Message failed. Please, send an email to gordon@template-help.com');
-		window.location = 'contact_us.html';
+		alert('Message failed. Please, send an email to tram.2@osu.edu');
+		window.location = 'contact.php';
 	</script>
 <?php
 }
