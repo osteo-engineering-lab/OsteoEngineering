@@ -63,7 +63,7 @@
 					Your e-mail<br>
 					<input type="text" name="cf_email"><br>
 					Message<br>
-					<textarea name="cf_message"></textarea><br>
+					<textarea rows="10" cols="60" name="cf_message"></textarea><br>
 					<input type="submit" value="Send">
 					<input type="reset" value="Clear">
 				</form>
@@ -73,7 +73,7 @@
 				<h3> Dean Lab </h3>
 				<strong><a target="_blank" href="http://plasticsurgery.osu.edu/" id="ftr_division_name">Department of Plastic Surgery</a></strong>
 				<br />
-				Biomedical Research Tower
+				<a target="blank" href="http://www.osu.edu/map/building.php?building=112">Biomedical Research Tower</a>
 				<br />
 				460 West 12th Ave., Rm. 1004
 				<br />
@@ -81,7 +81,9 @@
 				<br />
 				Phone: 614-688-9044
 				<br />
-				
+				Fax: 614-688-2195
+				<br />
+				<a target="blank" href="http://www.campusparc.com/osu/">Campus Parking Information</a>
 				<hr>
 				
 			</div><!-- /span-->
