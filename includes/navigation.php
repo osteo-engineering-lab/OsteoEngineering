@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="http://osteoengineering.com">Osteo Engineering Lab</a>
+              <a class="navbar-brand" href="http://osteoengineering.com">Dean Lab</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
