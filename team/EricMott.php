@@ -23,7 +23,7 @@
 	<div class="row">
 		
 		<div class="col-xs-12 col-md-4 pull-right">
-			<img class="img-responsive" src="../img/eric_mott_full.jpg" alt="David Dean" />
+			<img class="img-responsive" src="../img/team/eric.jpg" alt="Eric Mott" />
 		</div><!-- /.span -->
 		
 		<div class="col-xs-12 col-md-8">
