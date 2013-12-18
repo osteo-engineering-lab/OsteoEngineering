@@ -26,7 +26,8 @@
       <div>
         <h2>How to Apply</h2>
         <p>Candidates should send a letter of interest, curriculum vitae, and the names of three references to David Dean, Ph.D., Department of Plastic Surgery, The Ohio State University, 460 West 12th Ave., Rm. 1004, Columbus, OH  43210 USA. Fax:(614) 688-2195; E-mail: David.Dean@Case.Edu. </p>
-        <p>In employment, as in education, Ohio State is committed to Equal Opportunity and Diversity.</p>
+        <hr>
+		<p align="center"><strong>In employment, as in education, Ohio State is committed to Equal Opportunity and Diversity.</strong></p>
       </div>
 
 	</div><!-- /.container -->
