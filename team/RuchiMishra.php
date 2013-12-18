@@ -23,7 +23,7 @@
 	<div class="row">
 		
 		<div class="col-xs-12 col-md-4 pull-right">
-			<img class="img-responsive" src="../img/individual_half/ruchi_mishra_half.jpg" alt="Ruchi Mishra" />
+			<img class="img-responsive" src="../img/team/ruchi.jpg" alt="Ruchi Mishra" />
 		</div><!-- /.span -->
 		
 		<div class="col-xs-12 col-md-8">

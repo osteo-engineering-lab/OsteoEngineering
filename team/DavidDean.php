@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-right">
-			<img src="../img/david_dean_full.jpg" alt="David Dean" style="float:right" width="223" height="300">
+			<img src="../img/team/david.jpg" alt="David Dean" style="float:right" width="223" height="300">
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-md-8">
