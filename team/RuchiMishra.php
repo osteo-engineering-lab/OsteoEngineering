@@ -35,7 +35,7 @@
 			<li><p><strong>Ruchi Mishra</strong>, Bikramjit Basu and Ashok Kumar (2009)
 			<a href="http://www.ncbi.nlm.nih.gov/pubmed/19588233">Physical and cytocompatibility properties of bioactive glass-polyvinyl alcohol-sodium alginate biocomposite foams prepared via sol-gel processing for trabecular bone regeneration.</a> Journal of Materials Science: Materials in Medicine 20 (12), 2493-2500 </p></li>
 			<li><p>Ashok Kumar, <strong>Ruchi Mishra</strong>, Yvonne Reinwald and Sumrita Bhat (2010)
-			<a href="http://www.sciencedirect.com/science/article/pii/S1369702110702029">: Freezing unveiled by thawing.</a> Materials Today 13 (11), 42-44</li></p>
+			<a href="http://www.sciencedirect.com/science/article/pii/S1369702110702029">: Cryogels: Freezing unveiled by thawing.</a> Materials Today 13 (11), 42-44</li></p>
 			<li><p><strong>Ruchi Mishra</strong> and Ashok Kumar (2011)
 			<a href="http://www.ncbi.nlm.nih.gov/pubmed/21067655">Inorganic/organic biocomposite cryogels for regeneration of bony tissues.</a> Journal of Biomaterial Science: Polymer Edition 22 (16), 2107-2126</li></p>
 			<li><p><strong>Ruchi Mishra</strong>, Sudhir Kumar Goel, Kailash Chand Gupta and Ashok Kumar (2013)
