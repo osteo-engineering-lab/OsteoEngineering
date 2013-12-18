@@ -117,7 +117,7 @@
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
-					<img class="img-circle" src="img/individual_head/tylerm_head.jpg" >
+					<img class="img-circle" src="img/team/tylerm_head.jpg" >
 					<h2>Tyler Meder</h2>
 					<p>Undergraduate Research Assistant.</p>
 					<p><a class="btn btn-default" href="team/TylerMeder">View details &raquo;</a></p>
@@ -128,7 +128,7 @@
 		<div class="col-xs-12 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
-					<img class="img-circle" src="img/individual_head/tylerb_head.jpg" >
+					<img class="img-circle" src="img/team/tylerb_head.jpg" >
 					<h2>Tyler Bishop</h2>
 					<p>Undergraduate Research Assistant.</p>
 					<p><a class="btn btn-default" href="team/TylerBishop">View details &raquo;</a></p>
