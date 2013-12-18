@@ -18,17 +18,27 @@
 
 
 
-		    <!-- Information
-    ================================================== --> 
-       
+	<!-- Information
+	================================================== --> 
+
 	<div class="container marketing no-carousel">  
-	   
-      <div>
-        <h2>How to Apply</h2>
-        <p>Candidates should send a letter of interest, curriculum vitae, and the names of three references to <a href="team/DavidDean">David Dean, Ph.D.</a>, Department of Plastic Surgery, The Ohio State University, 460 West 12th Ave., Rm. 1004, Columbus, OH  43210 USA. Fax:(614) 688-2195; E-mail: <a href="mailto:david.dean@osumc.edu">david.dean@osumc.edu</a>. </p>
-        <hr />
-		<p>In employment, as in education, Ohio State is committed to Equal Opportunity and Diversity.</p>
-      </div>
+
+		<div class="row">
+			<div class="col-xs-12 col-md-8">
+				
+				<h2>How to Apply</h2>
+				<p>Candidates should send a letter of interest, curriculum vitae, and the names of three references to:</p>
+				<p><a href="team/DavidDean">David Dean, Ph.D.</a>,</p>
+				<p>Department of Plastic Surgery, The Ohio State University,</p>
+				<p>460 West 12th Ave., Rm. 1004, </p>
+				<p>Columbus, OH  43210 USA.</p> 
+				<p>Fax: 614-688-2195</p>
+				<p>E-mail:<a href="mailto:david.dean@osumc.edu">david.dean@osumc.edu</a> </p>
+				<hr />
+				<p>In employment, as in education, The Ohio State University is committed to equal opportunity and diversity.</p>
+			 
+			</div><!-- /span -->
+		</div><!-- /.row -->
 
 	</div><!-- /.container -->
 	
