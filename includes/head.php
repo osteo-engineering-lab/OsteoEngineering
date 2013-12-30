@@ -3,6 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="The Dean Lab focuses on providing tools for the surgical reconstruction or regeneration of craniofacial skeletal tissues.">
 <meta name="author" content="Eric Mott, Archie Tram">
+<!-- Ensure use of the latest rendering mode for IE -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <link rel="shortcut icon" href="<?php if ($sub==1) 
