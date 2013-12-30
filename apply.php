@@ -27,7 +27,7 @@
 			<div class="col-xs-12 col-md-8">
 				
 				<h2>How to Apply</h2>
-				<p>Candidates should send a letter of interest, curriculum vitae, and the names of three references to:</p>
+				<p>Candidates should send a letter of interest, curriculum vitae, and three references to:</p>
 				<p><a href="team/DavidDean">David Dean, Ph.D.</a>,</p>
 				<p>Department of Plastic Surgery, The Ohio State University,</p>
 				<p>460 West 12th Ave., Rm. 1004, </p>
