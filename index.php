@@ -33,7 +33,7 @@
 
 				<!-- Item 1 -->
 				<div class="item active">
-					<img src="img/home/hero0.jpg">
+					<img alt="Osteo Engineering Team" src="img/home/hero0.jpg">
 					<div class="container">
 						<div class="carousel-caption">
 							
@@ -46,7 +46,7 @@
 
 				<!-- Item 2 -->
 				<div class="item">
-					<img src="img/home/hero1.jpg">
+					<img alt="Osteo Engineering Team" src="img/home/hero1.jpg">
 					<div class="container">
 						<div class="carousel-caption">
 							
@@ -60,7 +60,7 @@
 
 				<!-- Item 3 -->
 				<div class="item">
-					<img src="img/home/hero2.jpg">
+					<img alt="TiO2 Irgacure 819 PPF Scaffolds" src="img/home/hero2.jpg">
 					<div class="container">
 						<div class="carousel-caption">
 							
@@ -74,7 +74,7 @@
 
 				<!-- Item 4 -->
 				<div class="item">
-					<img src="img/home/hero3.jpg">
+					<img alt="Irgacure 784 Irgacure 819 PPF Scaffolds" src="img/home/hero3.jpg">
 					<div class="container">
 						<div class="carousel-caption">
 							
@@ -101,12 +101,17 @@
 		<div class="container marketing">  
 
 			<div class="row">
-				<div class="col-xs-12">
+				<div class="col-xs-12 col-md-8">
 			
 				<a id="anchor-01"></a>
 				<h2>About Us</h2>
 				<p>Welcome to the Dean Lab website. The Dean Lab focuses on providing tools for the surgical reconstruction or regeneration of craniofacial skeletal tissues. Our research includes the use of locally developed implant Computer Aided Design (CAD) software to prepare patient-specific implants, implant components, and surgical devices that are rendered via additive manufacturing (3D printing). We have used these techniques to prepare restorative but inert (i.e., non-resorbing) cranial implants for patients. However, a major focus of our preclinical research program has been the 3D printing of resorbable scaffolds. We then seed cells, for example Mesenchymal Stem Cells (MSCs) and/or vascular progenitor cells, onto those solid, 3D printed polymer scaffolds or within hydrogels. Those constructs are then cultured in a bioreactor before implantation with the intent of coating the scaffold with tissue that the body perceives as a “tissue engineered bone graft”.</p>
 			
+				</div><!-- /span -->
+				
+				<div class="col-xs-12 col-md-4">
+					<h4>Follow Us On Instagram!</h4>
+					<div id="instafeed" class="row"></div>
 				</div><!-- /span -->
 			</div><!-- /.row -->
 
@@ -123,8 +128,19 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/holder.js"></script>
-  
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/holder.js"></script>
+  	<script type="text/javascript" src="js/instafeed.min.js"></script>
+  	<script type="text/javascript">
+		var feed = new Instafeed({
+			limit: 12,
+			resolution: 'standard_resolution',
+			get: 'user',
+			userId: 819085045,
+			accessToken: '819085045.467ede5.00775a54fc3d4f218b7f637ea3d8d24d',
+			template: '<div class="col-xs-6 col-sm-3 col-md-4 insta"><a href="{{link}}"><img class="img-responsive" src="{{image}}" /></a></div>'
+		});
+		feed.run();
+	</script>
 </body></html>

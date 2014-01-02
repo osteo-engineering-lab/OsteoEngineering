@@ -269,6 +269,15 @@ body {
     margin-right: auto;
 }
 
+/* Instafeed
+------------------------- */
+#instafeed {
+	padding: 12px;
+}
+
+.insta {
+	padding: 3px;
+}
 
 
 /* RESPONSIVE CSS
