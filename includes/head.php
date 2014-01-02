@@ -9,7 +9,7 @@
 <link rel="shortcut icon" href="<?php if ($sub==1) 
 echo "../"; ?>img/logos/favicon.png">
 
-<title>Osteo Engineering Lab | <?php echo $thisPage; ?></title>
+<title><?php echo $thisPage; ?> | Osteo Engineering Lab</title>
 
 
 <!-- Bootstrap core CSS -->

@@ -19,6 +19,8 @@
     ================================================== --> 
 <div class="container marketing no-carousel"> 
 	
+	<!-- ======================================= Lab Essentials ======================================= -->
+	
 	<h3>Lab Essentials</h3>
 	
 	<ul>
@@ -30,6 +32,8 @@
 	
 	<hr />
 	
+	<!-- ======================================= Calibration ======================================= -->
+	
 	<h3>Calibration</h3>
 	<p>NIST traceable calibration is an essential part of good laboratory practices and should be done at regular intervals on necessary lab instruments and equipment. Calibration records are important for performing <a href="#uncertainty">uncertainty analyses.</a></p>
 	<ul>
@@ -37,6 +41,21 @@
 	</ul>
 	
 	<hr />
+	
+	<!-- ======================================= Certification ======================================= -->
+	
+	<h3>Certification</h3>
+	<p>The following lab equipment needs to be certified on site:<p>
+	<ul>
+		<li><a href="http://www.thermoscientific.com/en/product/heracell-150i-240i-co-sub-2-sub-incubators-stainless-steel-chambers.html" target="_blank">Thermo Scientific<sup>TM</sup> Heracell<sup>TM</sup> 150i CO<sub>2</sub> Incubators</a></li>
+		<li><a href="http://www.bakerco.com/products/class-ii-biosafety-cabinets/sterilchemgard.html" target="_blank">Baker SterilchemGARD<sup>&reg;</sup> III Advance  Class II B2 Biological Safety Cabinet</a></li>
+		<li><a href="" target="_blank">Fume Hood</a></li>
+	</ul>
+	<p><a href="http://www.brunercorp.com/">Bruner Corporation</a> is an on site contractor in the Biomedical Research Tower able to do this work. Contact <a href="mailto:srodriguez@brunercorp.com">Steve Rodriguez</a>.
+	
+	<hr /> 
+	
+	<!-- ======================================= Imaging ======================================= -->
 	
 	<h3>Imaging</h3>
 	<ul>
@@ -46,6 +65,8 @@
 			
 	
 	<hr />
+	
+	<!-- ======================================= Machine Shops ======================================= -->
 	
 	<h3>Machine Shops</h3>
 	<ul>
@@ -68,6 +89,22 @@
 	</ul>
 	
 	<hr />
+	
+	<!-- ======================================= Maintenance ======================================= -->
+	
+	<h3>Maintenance</h3>
+	<p>Simple maintenance such as fixing a leaky faucet or wall mounting something is done via a <a href="https://cms.osumc.edu/secure/WORequest.aspx?sid=e26b7401-4fe4-41e0-a7ed-17725571de92">work order</a> using OneSource (OSUMC login required).  Use the following for their respective fields:
+		<ul>
+		<li><strong>Requester Name:</strong> &#60;osumc id&#62; - FirstName LastName</li>
+		<li><strong>Cost Center:</strong> Plastic Surgery - 25940</li>
+		<li><strong>Business Unit/Location:</strong> College of Medicine</li>
+		<li><strong>Business Unit/Location (next field):</strong> Bio Research Tower 112</li>
+	</ul>
+	<p>For emergencies or urgent requests, call: <strong>614-293-8645</strong>.</p>
+	
+	<hr />
+	
+	<!-- ======================================= Mechanical Testing ======================================= -->
 	
 	<h3>Mechanical Testing</h3>
 	
@@ -95,6 +132,8 @@
 	
 	<hr />
 	
+	<!-- ======================================= Supplies ======================================= -->
+	
 	<h3>Supplies</h3>
 	<ul>
 		<li>On Campus
@@ -112,8 +151,19 @@
 		</li>
 	</ul>
 	
+	<!-- ======================================= Travel/Leave ======================================= -->
+	
+	<h3>Travel/Leave</h3>
+	<p>Lab related travel requests should be submitted as soon as travel is anticipated and/or at least a week in advance.  Notify <a href="mailto:jason.canham@osumc.edu">Jason Canham</a> and copy Dr. Dean (david.dean@osumc.edu) requesting travel.</p>
+	<p>Before you leave and for any other types of leave, you must submit the following leave form signed by you and Dr. Dean to <a href="mailto:jason.canham@osumc.edu">Jason Canham</a>:</p>
+	<ul>
+		<li><a href="http://hr.osu.edu/public/documents/forms/appleave.pdf">Form 5171-A [PDF]</a> (<a href="/downloads/resources/form-5171-A-rev-11-10.pdf">Alternate Download</a>)</li>
+	</ul>
+	
 	<hr />
 		
+	<!-- ======================================= Uncertainty Analysis ======================================= -->
+	
 	<h3 id="uncertainty">Uncertainty Analysis</h3>
 	<p>Perhaps everything you need to know about uncertainty analysis:</p>
 	<ul>
@@ -121,6 +171,8 @@
 	</ul>
 	
 	<hr />
+	
+	<!-- ======================================= Additional Resources ======================================= -->
 	
 	<h3>Additional Resources</h3>
 	<ul>
