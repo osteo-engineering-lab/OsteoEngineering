@@ -103,15 +103,21 @@
 			<div class="row">
 				<div class="col-xs-12 col-md-8">
 			
-				<a id="anchor-01"></a>
-				<h2>About Us</h2>
-				<p>Welcome to the Dean Lab website. The Dean Lab focuses on providing tools for the surgical reconstruction or regeneration of craniofacial skeletal tissues. Our research includes the use of locally developed implant Computer Aided Design (CAD) software to prepare patient-specific implants, implant components, and surgical devices that are rendered via additive manufacturing (3D printing). We have used these techniques to prepare restorative but inert (i.e., non-resorbing) cranial implants for patients. However, a major focus of our preclinical research program has been the 3D printing of resorbable scaffolds. We then seed cells, for example Mesenchymal Stem Cells (MSCs) and/or vascular progenitor cells, onto those solid, 3D printed polymer scaffolds or within hydrogels. Those constructs are then cultured in a bioreactor before implantation with the intent of coating the scaffold with tissue that the body perceives as a “tissue engineered bone graft”.</p>
+					<a id="anchor-01"></a>
+					<h2>About Us</h2>
+					<p>Welcome to the Dean Lab website. The Dean Lab focuses on providing tools for the surgical reconstruction or regeneration of craniofacial skeletal tissues. Our research includes the use of locally developed implant Computer Aided Design (CAD) software to prepare patient-specific implants, implant components, and surgical devices that are rendered via additive manufacturing (3D printing). We have used these techniques to prepare restorative but inert (i.e., non-resorbing) cranial implants for patients. However, a major focus of our preclinical research program has been the 3D printing of resorbable scaffolds. We then seed cells, for example Mesenchymal Stem Cells (MSCs) and/or vascular progenitor cells, onto those solid, 3D printed polymer scaffolds or within hydrogels. Those constructs are then cultured in a bioreactor before implantation with the intent of coating the scaffold with tissue that the body perceives as a “tissue engineered bone graft”.</p>
 			
 				</div><!-- /span -->
 				
 				<div class="col-xs-12 col-md-4">
-					<h4>Follow Us On Instagram!</h4>
-					<div id="instafeed" class="row"></div>
+					<div class="row">
+						<div class="col-xs-12">
+							<h4  class="pull-left">Follow Us On Instagram!</h4>
+							<a href="http://instagram.com/deanlab?ref=badge" class="ig-b- ig-b-32 pull-right"><img src="//badges.instagram.com/static/images/ig-badge-32.png" alt="Instagram" /></a>
+						</div><!-- /span -->
+					</div><!-- /.row -->
+					
+					<div id="instafeed" class="row"></div><!-- /.row -->
 				</div><!-- /span -->
 			</div><!-- /.row -->
 

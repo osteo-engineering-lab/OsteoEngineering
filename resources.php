@@ -49,7 +49,7 @@
 	<ul>
 		<li><a href="http://www.thermoscientific.com/en/product/heracell-150i-240i-co-sub-2-sub-incubators-stainless-steel-chambers.html" target="_blank">Thermo Scientific<sup>TM</sup> Heracell<sup>TM</sup> 150i CO<sub>2</sub> Incubators</a></li>
 		<li><a href="http://www.bakerco.com/products/class-ii-biosafety-cabinets/sterilchemgard.html" target="_blank">Baker SterilchemGARD<sup>&reg;</sup> III Advance  Class II B2 Biological Safety Cabinet</a></li>
-		<li><a href="" target="_blank">Fume Hood</a></li>
+		<li><a href="http://www.hamiltonscientific.com/products/fume-hoods/general/concept" target="_blank">Hamilton Scientific Concept 61L Fume Hood</a></li>
 	</ul>
 	<p><a href="http://www.brunercorp.com/">Bruner Corporation</a> is an on site contractor in the Biomedical Research Tower able to do this work. Contact <a href="mailto:srodriguez@brunercorp.com">Steve Rodriguez</a>.
 	
