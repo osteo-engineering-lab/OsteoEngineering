@@ -66,6 +66,24 @@
 	
 	<hr />
 	
+	<!-- ======================================= Laundry ======================================= -->
+	
+	<h3>Laundry</h3>
+	<p>EHS guidelines mandate lab coats not be washed at home. Please use the current OSU contractor for lab coat cleaning:</p>
+	<strong>Impressed Dry Cleaning </strong>
+	<ul>
+		<li>Contact: Vita Parker - at the store</li>
+		<li>Phone: 614-855-8847</li>
+		<li>Coats are picked up by Ron Williams Mon, Wed &amp; Friday. Turnaround time is 2 business days.</li>
+		<li>For pick up call Ron's cell at (740)919-1590.</li>
+		<li>Cost: $3/each.</li>
+		<li>Payment: PO or credit card.</li>
+	</ul>
+	<p>Note: He will stop at Graves, Rightmire Hall or the BRT for pick up.</p>
+
+	
+	<hr />
+	
 	<!-- ======================================= Machine Shops ======================================= -->
 	
 	<h3>Machine Shops</h3>
