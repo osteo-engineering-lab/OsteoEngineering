@@ -140,10 +140,10 @@
 				<li>Location: <a href="http://www.osu.edu/map/building.php?building=151">Fontana Laboratories</a> High Bay, 116 W Nineteenth Ave, Columbus, OH 43210 </li>
 			</ul>
 		</li>
-		<li><a href="http://dent.osu.edu/ortho/faculty/kim.php">Nanoindentation</a>
+		<li><a href="http://dent.osu.edu/ortho/faculty/kim.php">Nanoindentation and Small Load Compression and Tensile Testing</a>
 			<ul>
 				<li>Contact: <a href="mailto:kim.2508@osu.edu">Do-Gyoon "Do" Kim, Ph.D.</a> | 614-247-8089</li>
-				<li>Location: <a href="http://www.osu.edu/map/building.php?building=024">Postle Hall</a>, 305 W 12th Ave, Columbus, OH 43210</li>
+				<li>Location: <a href="http://www.osu.edu/map/building.php?building=024">Postle Hall</a> 4088, 305 W 12th Ave, Columbus, OH 43210</li>
 			</ul>
 		</li>
 	</ul>
@@ -213,9 +213,8 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/holder.js"></script>
+    <?php include("includes/loadlast.php"); ?>
+
   
 
 </body></html>
