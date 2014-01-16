@@ -28,7 +28,7 @@
       </div>
       <hr class="featurette-divider">
         <div class="col-md-8">
-          <h1>Postdoctoral or Graduate Research Assistant. <br><span class="text-muted">Resorbable Polymers for Scaffolds Investigation</span></h1>
+          <h1>Postdoctoral Researcher or Graduate Research Assistant. <br><span class="text-muted">Resorbable Polymers for Scaffolds Investigation</span></h1>
           <p>Position available June 1, 2014 in the Department of Plastic Surgery to INVESTIGATE AND DEVELOP RESORBABLE POLYMERS FOR THE 3D PRINTING OF SCAFFOLDS FOR CRANIAL (BONE) REPAIR AND REGENERATION. This individual is expected to have strong interest in, and experience relevant to, bioresorbable polymer synthesis, characterization, and light-based polymerization chemistry. Experience with mechanical material testing, bone tissue engineering, and resorbable implant materials is also desirable.</p>
         </div>
         <div class="col-md-4">
@@ -43,7 +43,7 @@
           <img class="featurette-image img-responsive" src="img/jobs/skull.png">
         </div>
         <div class="col-md-8">
-          <h1>Postdoctoral or Graduate Research Assistant. <br><span class="text-muted">Medical Image Data Investigation.</span></h1>
+          <h1>Postdoctoral Researcher or Graduate Research Assistant. <br><span class="text-muted">Medical Image Data Investigation.</span></h1>
           <p>Position available June 1, 2014 in the Department of Plastic Surgery to INVESTIGATE THE USE OF MEDICAL IMAGE DATA FOR THE DESIGN AND 3D PRINTING FABRICATION OF PATIENT-SPECIFIC CRANIAL AND FACIAL BONE TISSUE ENGINEERED IMPLANTS. This individual is expected to have strong interest in, and experience relevant to, medical imaging, computer graphics, computer programming, and biomechanics. Experience with visual programming, finite element analysis, 3D printing, and tissue engineering is also desirable.</p>
         </div>
       </div>
