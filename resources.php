@@ -59,9 +59,21 @@
 	
 	<h3>Imaging</h3>
 	<ul>
-		<li><a href="https://cmif.osu.edu/index.cfm" target="_blank"> Campus Microscopy & Imaging Facility (CMIF)</a> | Capabilities: SEM, TEM, Confocal, Live-Cell Confocal, Multiphoton Confocal, Nuance Camera, and Brightfield, Darkfield, Phase Contrast, & Fluorescence LM.</li>
-		<li><a href="http://cemas.osu.edu/ " target="_blank"> Center for Electron Microscopy and AnalysiS (CEMAS)</a> | Capabilities: SEM, TEM, FIB, and XRD.</li>
+		<li>Ohio State University
+			<ul>
+				<li><a href="https://cmif.osu.edu/index.cfm" target="_blank"> Campus Microscopy & Imaging Facility (CMIF)</a> | Capabilities: SEM, TEM, Confocal, Live-Cell Confocal, Multiphoton Confocal, Nuance Camera, and Brightfield, Darkfield, Phase Contrast, & Fluorescence LM.</li>
+				<li><a href="http://cemas.osu.edu/ " target="_blank"> Center for Electron Microscopy and AnalysiS (CEMAS)</a> | Capabilities: SEM, TEM, FIB, and XRD.</li>
+			</ul>
+		</li>
+		
+		<li>External Services
+			<ul>
+				<li><a href="http://www.schepens.harvard.edu/coreservices/core-services/core-services.html" target="_blank">Schepens Eye Research Institute, Harvard University</a> | Capabilities: SEM, Critical Point Drying, Confocal, and TEM.</li>
+				<li><a href="http://hsc.usf.edu/corefacilities/microscopy/Policies.htm" target="_blank">Lisa Muma Weitz Microscopy Core Laboratory at University of South Florida College of Medicine</a> | Capabilities: SEM, TEM, Critical Point Drying, LSM, and Confocal.</li>
+			</ul>
+		</li>
 	</ul>
+		
 			
 	
 	<hr />
