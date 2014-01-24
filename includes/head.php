@@ -1,8 +1,8 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="The Dean Lab focuses on providing tools for the surgical reconstruction or regeneration of craniofacial skeletal tissues.">
-<meta name="author" content="Eric Mott, Archie Tram">
+<meta name="description" content="The David Dean OsteoEngineering Lab at the Ohio State University focuses on providing tools for the surgical reconstruction or regeneration of craniofacial skeletal tissues.">
+<meta name="author" content="Eric J. Mott, Archie Tram">
 <!-- Ensure use of the latest rendering mode for IE -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
