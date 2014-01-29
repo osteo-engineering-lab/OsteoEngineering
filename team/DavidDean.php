@@ -52,9 +52,9 @@
 			<h4>Recent Publications</h4>
 			Publications since 2009:
 
-<li><p><b>Dean D</b>, Mott E, Luo X, Busso M, Wang MO, Vorwald C, Siblani A, Fisher JP: Multiple Initiators and Dyes for continuous Digital Light Processing (cDLP) Additive Manufacture of Resorbable Bone Tissue Engineering Scaffolds. Virtual and Physical Prototyping, in press.
-
 <li><p>Wallace J, Wang MO, Thompson P, Busso M, Belle V, Mammoser N, Kim K, Fisher JP, Siblani A, Xu Y, Welter JF, Lennon DP, Sun J, Caplan AI, <b>Dean D</b>: A Dye-Initiator package for the Highly Accurate Continuous Digital Light Processing (cDLP) Additive Manufacturing of Tissue Engineering Scaffolds. Biofabrication, in press. 
+
+<li><p><b>Dean D</b>, Mott E, Luo X, Busso M, Wang MO, Vorwald C, Siblani A, Fisher JP: Multiple Initiators and Dyes for continuous Digital Light Processing (cDLP) Additive Manufacture of Resorbable Bone Tissue Engineering Scaffolds. Virtual and Physical Prototyping, DOI: 10.1080/17452759.2013.873337, 2014.
 
 <li><p>Wang M, Etheridge J, Thompson J, Vorwald C, <b>Dean D</b>, Fisher J: <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3670822">Evaluation of the In Vitro Cytotoxicity of Cross-Linked Biomaterials.</a> Biomacromolecules 14:1321-1329, 2013. PMCID: PMC3670822
 
