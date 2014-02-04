@@ -105,7 +105,11 @@
 			
 					<a id="anchor-01"></a>
 					<h2>About Us</h2>
-					<p>Welcome to the Dean Lab website. The Dean Lab focuses on providing tools for the surgical reconstruction or regeneration of craniofacial skeletal tissues. Our research includes the use of locally developed implant Computer Aided Design (CAD) software to prepare patient-specific implants, implant components, and surgical devices that are rendered via additive manufacturing (3D printing). We have used these techniques to prepare restorative but inert (i.e., non-resorbing) cranial implants for patients. However, a major focus of our preclinical research program has been the 3D printing of resorbable scaffolds. We then seed cells, for example Mesenchymal Stem Cells (MSCs) and/or vascular progenitor cells, onto those solid, 3D printed polymer scaffolds or within hydrogels. Those constructs may then be cultured, perhaps in a bioreactor, before implantation. The intent of pre-culturing scaffold is to fill and/or coat them with tissue that the body perceives as a “tissue engineered bone graft”.</p>
+					<p>Welcome to the Dean Lab website. The Dean Lab focuses on providing tools for the surgical reconstruction or regeneration of craniofacial skeletal tissues. 
+					Our research includes the use of locally developed implant Computer Aided Design (CAD) software to prepare patient-specific implants, implant components, and surgical devices that are rendered via additive manufacturing (3D printing).
+					We have used these techniques to prepare restorative but inert (i.e., non-resorbing) cranial implants for patients. However, a major focus of our preclinical research program has been the 3D printing of resorbable scaffolds.
+					We then seed cells, for example Mesenchymal Stem Cells (MSCs) and/or vascular progenitor cells, onto those solid, 3D printed polymer scaffolds or within hydrogels. Those constructs may then be cultured, perhaps in a bioreactor, before implantation. 
+					The intent of pre-culturing scaffolds is to fill and/or coat them with tissue that the body perceives as a “tissue engineered bone graft”.</p>
 			
 				</div><!-- /span -->
 				
