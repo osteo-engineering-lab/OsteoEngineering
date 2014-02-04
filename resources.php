@@ -55,6 +55,14 @@
 	
 	<hr /> 
 	
+	<!-- ======================================= Certification ======================================= -->
+	
+	<h3>Construction</h3>
+	<p>For major construction of the lab or office space, use a general contractor. Blake Harrison, the facility manager, can help set this up.<p>
+	<p><a href="https://plus.google.com/106112452604821497450/about?gl=us&hl=en">Brocon Construction</a> was used in the past to cut-off the pass through boxes in 0015B and 0015C. Phone: <a href="tel:6148717300">614-871-7300</a>.
+	
+	<hr /> 
+	
 	<!-- ======================================= Imaging ======================================= -->
 	
 	<h3>Imaging</h3>
