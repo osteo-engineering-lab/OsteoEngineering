@@ -71,6 +71,8 @@
 			<ul>
 				<li><a href="https://cmif.osu.edu/index.cfm" target="_blank"> Campus Microscopy & Imaging Facility (CMIF)</a> | Capabilities: SEM, TEM, Confocal, Live-Cell Confocal, Multiphoton Confocal, Nuance Camera, and Brightfield, Darkfield, Phase Contrast, & Fluorescence LM.</li>
 				<li><a href="http://cemas.osu.edu/ " target="_blank"> Center for Electron Microscopy and AnalysiS (CEMAS)</a> | Capabilities: SEM, TEM, FIB, and XRD.</li>
+				<li><a href="http://bme.osu.edu/people/hart.322 " target="_blank"> Skyscan MicroCT in Bevis Hall (contact Dr. Richard Hart)</a> | Capabilities: mCT.</li>
+
 			</ul>
 		</li>
 		
