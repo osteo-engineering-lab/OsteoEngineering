@@ -1,4 +1,4 @@
-<?php $thisPage=""; $sub=1; ?>
+<?php $thisPage="SurajSuresh"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -22,21 +22,17 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img src="../img/alumni/.jpg" alt="" style="float:right" width="223" height="300">
+		<div style="float:right; width:image width px; font-size:80%; text-align:center">
+			<img src="../img/alumni/sureshs.jpg" alt="SurajSuresh" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			sxs1314@case.edu
+
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-md-8">
-			<h3></h3>
-			<p></p>
-
-			<hr>
-
-			<pre><em><b>Contact Information</b></em>
-	
-</pre>
-
-			<hr>
+			<h3>Suraj Suresh</h3>
+			<p>May 2013 - August 2013</p>
+			<p>He is a medical student at CWRU School of Medicine with an interest in neurology/neurosurgery. He graduated from UC San Diego with a bachelor's degree in Biochemistry and Cell Biology. He worked in the Dean Lab during the summer of 2013 on a tissue engineering project. 
+			</p>
 			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->

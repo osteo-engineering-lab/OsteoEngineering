@@ -1,4 +1,4 @@
-<?php $thisPage=""; $sub=1; ?>
+<?php $thisPage="MichaelSmith"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -22,21 +22,21 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img src="../img/alumni/.jpg" alt="" style="float:right" width="223" height="300">
+		<div style="float:right; width:image width px; font-size:80%; text-align:center">
+			<img src="../img/alumni/smithm.jpg" alt="MichaelSmith" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			msmith2@metrohealth.org
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-md-8">
-			<h3></h3>
-			<p></p>
-
-			<hr>
-
-			<pre><em><b>Contact Information</b></em>
-	
-</pre>
-
-			<hr>
+			<h3>Michael Smith</h3>
+			<p>June 2000 - June 2001</p>
+			<p>Mike Smith, MD, MBA, FACEP, Associate Professor, CWRU Co-Director, Emergency Medicine Simulation Program Clerkship Director, Emergency Medicine/Undifferentiated Patient Elective<br>
+MetroHealth Medical Center     :    msmith2@metrohealth.org    email   <br> 
+2500 MetroHealth Drive  BG6   :   216-778-2100                      office<br>
+Cleveland, Ohio  44109-1998   :   216-778-2400                       fax<br>
+www.metrohealth.org/em/    internet<br>
+ 
+			</p>
 			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->

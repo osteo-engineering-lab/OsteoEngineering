@@ -1,4 +1,4 @@
-<?php $thisPage=""; $sub=1; ?>
+<?php $thisPage="DavoodVarghai"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -22,21 +22,20 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img src="../img/alumni/.jpg" alt="" style="float:right" width="223" height="300">
+		<div style="float:right; width:image width px; font-size:80%; text-align:center">
+			<img src="../img/alumni/varghaid.jpg" alt="DavoodVarghai" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			asz25@case.edu
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-md-8">
-			<h3></h3>
-			<p></p>
-
-			<hr>
-
-			<pre><em><b>Contact Information</b></em>
-	
-</pre>
-
-			<hr>
+			<h3>Davood Varghai M.D.</h3>
+			<p>July 2005 - June 2008</p>
+			<p>Research Associate, Research lab Director <br>
+Plastic Surgery Division<br>
+University Hospitals of Cleveland and<br>
+Case Western Reserve University<br>
+ 
+			</p>
 			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->

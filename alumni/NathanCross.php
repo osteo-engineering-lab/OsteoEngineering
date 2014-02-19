@@ -1,4 +1,4 @@
-<?php $thisPage=""; $sub=1; ?>
+<?php $thisPage="NathanCross"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -22,21 +22,17 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img src="../img/alumni/.jpg" alt="" style="float:right" width="223" height="300">
+		<div style="float:right; width:image width px; font-size:80%; text-align:center">
+			<img src="../img/alumni/crossn.jpg" alt="NathanCross" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			nathan.cross@gmail.com<br>
+			https://www.nathancross.net
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-md-8">
-			<h3></h3>
-			<p></p>
-
-			<hr>
-
-			<pre><em><b>Contact Information</b></em>
-	
-</pre>
-
-			<hr>
+			<h3>Nathan Cross</h3>
+			<p>April 2005 - June 2011</p>
+			<p>He is a 3rd year Radiology Resident at the University of Washington applying for Neuroradiology fellowship. 
+			</p>
 			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->

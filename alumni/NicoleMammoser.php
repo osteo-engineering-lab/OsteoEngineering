@@ -1,4 +1,4 @@
-<?php $thisPage=""; $sub=1; ?>
+<?php $thisPage="NicoleMammoser"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -22,21 +22,16 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img src="../img/alumni/.jpg" alt="" style="float:right" width="223" height="300">
+		<div style="float:right; width:image width px; font-size:80%; text-align:center">
+			<img src="../img/alumni/mammosern.jpg" alt="NicoleMammoser" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			nicole.mammoser@case.edu
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-md-8">
-			<h3></h3>
-			<p></p>
-
-			<hr>
-
-			<pre><em><b>Contact Information</b></em>
-	
-</pre>
-
-			<hr>
+			<h3>Nicole Mammoser</h3>
+			<p>May 2012 - August 2013</p>
+			<p>Nicole Mammoser is currently at Case Western Reserve University pursuing a degree in biomedical engineering with a specialty in neural and cardiac engineering. She anticipates working closely within the research field of the brain after her graduation in May 2014. 
+			</p>
 			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->

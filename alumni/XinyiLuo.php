@@ -1,4 +1,4 @@
-<?php $thisPage=""; $sub=1; ?>
+<?php $thisPage="XinyiLuo"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -22,21 +22,16 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img src="../img/alumni/.jpg" alt="" style="float:right" width="223" height="300">
+		<div style="float:right; width:image width px; font-size:80%; text-align:center">
+			<img src="../img/alumni/luox.jpeg" alt="XinyiLuo" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			xxl336@case.edu
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-md-8">
-			<h3></h3>
-			<p></p>
-
-			<hr>
-
-			<pre><em><b>Contact Information</b></em>
-	
-</pre>
-
-			<hr>
+			<h3>Xinyi Luo</h3>
+			<p>September 2012 - August 2013</p>
+			<p>She is an undergraduate pre-medical student at Case majoring in biomedical engineering. She first joined the lab in the fall of 2012 and took part in the Scaffold Properties and 3D Printing Studies as a research assistant. Specifically, she was responsible for lab studies of polymer based resin for 3D printing. 
+			</p>
 			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->

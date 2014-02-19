@@ -1,4 +1,4 @@
-<?php $thisPage="AdahZhang"; $sub=1; ?>
+<?php $thisPage="KalieMarshall"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -22,16 +22,15 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img src="../img/alumni/zhanga.jpg" alt="AdahZhang" style="float:right; max-width: 230px; height: auto;">
-			
+		<div style="float:right; width:image width px; font-size:80%; text-align:center">
+			<img src="../img/alumni/marshallk.jpg" alt="KalieMarshall" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			krmarshall16@sbcglobal.net
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-md-8">
-			<h3>Adah Zhang</h3>
-			<p>asz25@case.edu</p>
-			<p>May 2013 - August 2013</p>
-			<p>Currently I'm in the BS/MS program at Case Western Reserve University, working on a BS in Applied Mathematics and an MS in Biostatistics.
+			<h3>Kalie Marshall</h3>
+			<p>May 2010 - January 2012</p>
+			<p>She graduated from Seton Hall University May 2013 with her B.S. in Biology and she is currently working for North Royalton Animal Hospital as a Veterinary Assistant. She will be attending The Ohio State University College of Veterinary Medicine starting in August of 2014. 
 			</p>
 			<br>
 		</div><!-- /.span -->
