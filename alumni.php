@@ -19,179 +19,97 @@
     ================================================== --> 
 <div class="container marketing no-carousel"> 
 <!-- Three columns of text below the carousel -->
-	<div class="row">
-		
-		<div class="col-xs-12">
-			<h1>Alumni</h1>
-		</div>
-		
-		<div class="col-xs-12 col-md-8">
-			<div class="row team">
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/alumni/david_head.jpg" >
-					<h2>William Baw</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/WilliamBaw">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-				
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/alumni/eric_head.jpg" >
-					<h2>Sasha Belotserkovskaya</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/SashaBelotserkovskaya">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/alumni/ruchi_head.jpg" >
-					<h2>James Cox</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/JamesCox">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-
-		<!-- Row 2 -->
-		<div class="col-xs-12 col-sm-6 col-md-4">     
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/alumni/archie_head.jpg" >
-					<h2>Nathan Cross, M.D.</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/NathanCross">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-md-8">
-			<div class="row team">
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/alumni/corey_head.jpg" >
-					<h2>Arvind Haran</h2>
-					<p>Test</p>
-					<p><a class="btn btn-default" href="alumni/ArvindHaran">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-				
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/alumni/ryan_head.jpg" >
-					<h2>Xinyi Lou</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/XinyiLou">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div>
-
-		<!-- Row 3 -->
-		<div class="col-xs-12 col-md-8">
-			<div class="row team">
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/alumni/megan_head.jpg" >
-					<h2>Nicole Mammoser</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/NicoleMammoser">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-				
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/alumni/lexi_head.jpg" >
-					<h2>Kyoung-June Min</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/KyoungJuneMin">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/alumni/bri_head.jpg" >
-					<h2>Rahul Sharman</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/RahulSharman">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/alumni/tylerm_head.jpg" >
-					<h2>Michael Smith, M.D.</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/MichaelSmith">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/alumni/tylerb_head.jpg" >
-					<h2>Suraj Suresh</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/SurajSuresh">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-				<!-- Row 4 -->
-		<div class="col-xs-12 col-md-8">
-			<div class="row team">
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/alumni/megan_head.jpg" >
-					<h2>Neal Topham M.D., FACS</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/NealTopham">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-				
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/alumni/lexi_head.jpg" >
-					<h2>Michael Wolfe, M.D.</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/MichaelWolfe">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/alumni/bri_head.jpg" >
-					<h2>Adah Zhang</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/AdahZhang">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/alumni/tylerm_head.jpg" >
-					<h2>Test</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/TylerMeder">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/alumni/tylerb_head.jpg" >
-					<h2>Test</h2>
-					<p>test</p>
-					<p><a class="btn btn-default" href="alumni/TylerBishop">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-	</div><!-- /.row -->
-		
-	</div><!-- /.row -->
 	
+	<table align=center width="100%" bgcolor="white" class="table">
+
+<tr>
+     
+<td valign=top><div class="middlecontent">
+	<table width="640" border="0" cellpadding="0" cellspacing="0" summary="layout" align="center">		 
+		<tr valign="top">
+			<td width="640" height="298" colspan="2" valign="top">
+		<table width="640" border="1" align="center">
+			<caption>
+			<br />
+				Click on the names below to view profiles.<br/>
+			<br />
+			</caption>
+            
+<tr>
+	<th colspan ="2" bgcolor="#7f1200" scope="col"><font color="#FFFFFF">Alumni</font></th>
+</tr>
+
+<tr>
+	<td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/WilliamBaw" target="new">William Baw</a></td>
+	<td bgcolor="#EBEBEB" align="center"></td>
+</tr>
+
+<tr>
+	<td><a style="text-decoration:none" href="alumni/SashaBelotserkovskaya" target="new">Sasha Belotserkovskaya</a></td>
+	<td align="center">September 2012 - June 2013</td>
+</tr>
+
+<tr>
+	<td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/JamesCox" target="new">James Cox</a></td>
+	<td bgcolor="#EBEBEB" align="center">May 2013 - September 2013</td>
+</tr> 
+
+<tr>
+	<td><a style="text-decoration:none" href="alumni/NathanCross" target="new">Nathan Cross, M.D.</a></td>
+	<td align="center">April 2005 - June 2011</td>
+</tr>		
+			
+<tr>
+<td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/ArvindHaran" target="new">Arvind Haran</a></td>
+<td bgcolor="#EBEBEB" align="center">September 2012 - August 2013</td>
+</tr>
+
+<tr>
+<td><a style="text-decoration:none" href="alumni/XinyiLuo" target="new">Xinyi Luo</a></td>
+<td align="center">September 2012 - August 2013</td>
+</tr> 
+
+<tr>
+	<td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/NicoleMammoser" target="new">Nicole Mammoser</a></td>
+	<td bgcolor="#EBEBEB" align="center">May 2012 - August 2013</td>
+</tr> 
+
+<tr>
+	<td><a style="text-decoration:none" href="alumni/KalieMarshall" target="new">Kalie Marshall</a></td>                         
+	<td align="center">January 2000 - March 2003; March 2004 - March 2005</td>
+</tr>
+                          
+<tr>
+    <td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/KyoungJuneMin" target="new">Kyoung-June Min</a></td>
+	<td bgcolor="#EBEBEB" align="center">Research Assistant</td>
+</tr>
+                          
+<tr>
+	<td><a style="text-decoration:none" href="alumni/RahulSharma" target="new">Rahul Sharma</a></td>
+	<td align="center">August 2005 - April 2010</td>
+</tr>
+                          
+<tr>
+	<td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/MichaelSmith" target="new">Michael Smith, M.D.</a></td>
+	<td bgcolor="#EBEBEB" align="center">June 2000 - June 2001</td>
+</tr>
+
+<tr> 
+	<td><a style="text-decoration:none" href="alumni/SurajSuresh" target="new">Suraj Suresh</a></td>
+	<td align="center"> May 2013 - August 2013</td>
+</tr>
+	
+<tr>
+	<td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/NealTopham" target="new">Neal Topham M.D., FACS</a></td>
+	<td bgcolor="#EBEBEB" align="center">Completed in June 2001 - Started working at Fox Chase Cancer Center in August, 2002</td>
+</tr>
+
+<tr>
+	<td><a style="text-decoration:none" href="alumni/AdahZhang" target="new">Adah Zhang</a></td>
+	<td align="center">May 2013 - August 2013</td>
+</tr>
+                          
+</table>	
 	
 </div><!-- /.container -->
 	
