@@ -71,7 +71,7 @@
 			<ul>
 				<li><a href="https://cmif.osu.edu/index.cfm" target="_blank"> Campus Microscopy & Imaging Facility (CMIF)</a> | Capabilities: SEM, TEM, Confocal, Live-Cell Confocal, Multiphoton Confocal, Nuance Camera, and Brightfield, Darkfield, Phase Contrast, & Fluorescence LM.</li>
 				<li><a href="http://cemas.osu.edu/ " target="_blank"> Center for Electron Microscopy and AnalysiS (CEMAS)</a> | Capabilities: SEM, TEM, FIB, and XRD.</li>
-				<li><a href="http://bme.osu.edu/people/hart.322 " target="_blank"> Skyscan MicroCT in Bevis Hall (contact Dr. Richard Hart)</a> | Capabilities: mCT.</li>
+				<li><a href="http://bme.osu.edu/people/hart.322 " target="_blank"> Skyscan MicroCT in 386 Bevis Hall , 1080 Carmack Rd, Columbus, OH 43210</a> | Contact Dr. Richard Hart (hart.322@osu.edu) | Capabilities: mCT.</li>
 
 			</ul>
 		</li>
@@ -179,11 +179,17 @@
 		<li>On Campus
 			<ul>
 				<li><a href="https://lcm.osu.edu/policies/stockroom/">Stockroom @ LCM Core</a></li>
+				<li><a href="http://osustores.osu.edu/stores/gascylinder.aspx"> Gas Cylinder Warehouse</a></li>
 			</ul>
-		</li>
+		</li>				
 		<li>General Lab
 			<ul>
 				<li><a href="http://www.fishersci.com/">Fisher Scientific</a></li>
+					<ul>
+						<li>Contact: Brenda Boyle | Senior Sales Representative
+						<li>Work: 614-292-2062 | Fax: 614-292-0390 | (800)955-6666 voice 1995538
+						<li>Location: OSU On-Site Office, 2650 Kenny Road, Columbus, OH 43210
+					</ul>
 				<li><a href="http://www.lifetechnologies.com/us/en/home.html">Life Technologies</a></li>
 				<li><a href="http://www.sigmaaldrich.com/united-states.html">Sigma Aldrich</a></li>
 				<li><a href="https://us.vwr.com/">VWR</a></li>
@@ -191,6 +197,23 @@
 		</li>
 	</ul>
 	
+	<hr />
+	
+	<!-- ======================================= Laboratory Techniques ======================================= -->
+	
+	<h3>Laboratory Techniques</h3>
+	<ul>
+		<li><a href="http://www.youtube.com/watch?v=uOvwDbNDdWA" target="_blank"> Using and Maintaining Gas Cylinders</a></li>
+		<li><a href="/downloads/resources/Fume_Hood_vs._Biosafety_Cabinet.pdf" target="_blank"> Using Open Flames in Hoods [PDF]</a></li>
+	</ul>
+	<hr />
+	
+	<!-- ======================================= Technical Supports ======================================= -->
+	
+	<h3>Technical Supports</h3>
+	<ul>
+		<li>Solidworks: 3D-Vision - Nathan Marsh at 800-745-3136 x236</li>
+	</ul>
 	<hr />
 	
 	<!-- ======================================= Travel/Leave ======================================= -->

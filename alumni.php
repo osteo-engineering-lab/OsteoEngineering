@@ -24,7 +24,7 @@
 
 <tr>
      
-<td valign=top><div class="middlecontent">
+<td valign=top>
 	<table width="640" border="0" cellpadding="0" cellspacing="0" summary="layout" align="center">		 
 		<tr valign="top">
 			<td width="640" height="298" colspan="2" valign="top">
@@ -36,7 +36,8 @@
 			</caption>
             
 <tr>
-	<th colspan ="2" bgcolor="#7f1200" scope="col"><font color="#FFFFFF">Alumni</font></th>
+	<td bgcolor="#7f1200" align="center"><font color="#FFFFFF"><strong>Alumni</strong></font></td>
+	<td bgcolor="#7f1200" align="center"><font color="#FFFFFF"><strong>Time</strong></font></td>
 </tr>
 
 <tr>
@@ -110,6 +111,14 @@
 </tr>
                           
 </table>	
+
+</td>
+</td>
+</tr>
+</tr>
+</table>
+</table>
+	
 	
 </div><!-- /.container -->
 	

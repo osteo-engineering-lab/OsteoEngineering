@@ -6,13 +6,8 @@
   
   <!----------------------------------------------------------- Google Map stuff ------------------------------------------------------------>
   <style>
-      #map-canvas {
-        height: 300px;
-        margin: 0px;
-        padding: 0px
-      }
-	  #pano{
-	  height: 300px;
+      html, body, #map-canvas {
+        height: 100px;
         margin: 0px;
         padding: 0px
       }
@@ -20,16 +15,14 @@
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
     <script>
 		function initialize() {
-		    <!---------Map------------>
 		  var BRT = new google.maps.LatLng(39.99601,-83.01944);
 		  var mapOptions = {
 			center: BRT,
-			zoom: 16,
+			zoom: 14,
 			mapTypeId: google.maps.MapTypeId.ROADMAP
 		  };
 		  var map = new google.maps.Map(
 			  document.getElementById('map-canvas'), mapOptions);
-			  <!---------Pano------------>
 		  var panoramaOptions = {
 			position: BRT,
 			pov: {
@@ -37,7 +30,7 @@
 			  pitch: 10
 			}
 		  };
-		  var panorama = new google.maps.StreetViewPanorama(document.getElementById('pano'),panoramaOptions);
+		  var panorama = new  google.maps.StreetViewPanorama(document.getElementById('pano'),panoramaOptions);
 		  map.setStreetView(panorama);
 		}
 
@@ -96,10 +89,10 @@
 			</div><!-- /span-->
 				
 			<!--Map -->
-			
-			<div id="map-canvas" class="col-xs-12 col-sm-6"></div><!-- /span-->
-			<div id="pano" class="col-xs-12 col-sm-6"></div><!-- /span-->
-			
+			<div class="col-xs-12">
+			<div id="map-canvas"></div><!-- /span-->
+			<div id="pano"></div><!-- /span-->
+			</div>
 		</div><!-- /.row -->
 
 	</div><!-- /.container -->   
