@@ -4,7 +4,7 @@
 	
 	<?php include_once("includes/head.php") ?>
   
-  <!----------------------------------------------------------- Google Map stuff ------------------------------------------------------------>
+  <!-- --------------------------------------------------------- Google Map stuff ---------------------------------------------------------- -->
   <style>
       #map-canvas {
         height: 300px;
@@ -20,7 +20,7 @@
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
     <script>
 		function initialize() {
-		    <!---------Map------------>
+		    <!-- -------Map---------- -->
 		  var BRT = new google.maps.LatLng(39.99601,-83.01944);
 		  var mapOptions = {
 			center: BRT,
@@ -29,7 +29,7 @@
 		  };
 		  var map = new google.maps.Map(
 			  document.getElementById('map-canvas'), mapOptions);
-			  <!---------Pano------------>
+			  <!-- -------Pano---------- -->
 		  var panoramaOptions = {
 			position: BRT,
 			pov: {
@@ -96,9 +96,10 @@
 			</div><!-- /span-->
 				
 			<!--Map -->
-			
-			<div id="map-canvas" class="col-xs-12 col-sm-6"></div><!-- /span-->
-			<div id="pano" class="col-xs-12 col-sm-6"></div><!-- /span-->
+			<div class="col-xs-12">
+					<div id="map-canvas" class="col-xs-12 col-sm-6"></div><!-- /span-->
+					<div id="pano" class="col-xs-12 col-sm-6"></div><!-- /span-->
+			</div><!-- /span-->
 			
 		</div><!-- /.row -->
 
@@ -116,6 +117,5 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/holder.js"></script>
-  
 
 </body></html>
