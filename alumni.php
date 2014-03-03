@@ -82,7 +82,7 @@
                           
 <tr>
     <td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/KyoungJuneMin" target="new">Kyoung-June Min</a></td>
-	<td bgcolor="#EBEBEB" align="center">Research Assistant</td>
+	<td bgcolor="#EBEBEB" align="center">Jan 2000 - May 2003; Mar 2004 - Mar 2005</td>
 </tr>
                           
 <tr>
