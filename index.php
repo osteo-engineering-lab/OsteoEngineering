@@ -1,6 +1,6 @@
 <?php $thisPage="Home"; ?>
 <!DOCTYPE html>
-<html lang="en"><head>
+<html prefix="og: http://ogp.me/ns#"><head>
 	
 	<?php include_once("includes/head.php") ?>
   
