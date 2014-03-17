@@ -31,14 +31,14 @@
 					<img class="img-circle" src="img/team/david_head.jpg" >
 					<h2>Dr. David Dean</h2>
 					<p>Primary Investigator</p>
-					<p><a class="btn btn-default" href="team/DavidDean">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/DavidDean" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 				
 				<div class="col-xs-12 col-sm-6">
 					<img class="img-circle" src="img/team/eric_head.jpg" >
 					<h2>Eric Mott</h2>
 					<p>Laboratory Manager</p>
-					<p><a class="btn btn-default" href="team/EricMott">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/EricMott" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
@@ -49,7 +49,7 @@
 					<img class="img-circle" src="img/team/ruchi_head.jpg" >
 					<h2>Dr. Ruchi Mishra</h2>
 					<p>Post Doctoral Investigator</p>
-					<p><a class="btn btn-default" href="team/RuchiMishra">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/RuchiMishra" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
@@ -61,7 +61,7 @@
 					<img class="img-circle" src="img/team/archie_head.jpg" >
 					<h2>Archie Tram</h2>
 					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/ArchieTram">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/ArchieTram" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
@@ -72,14 +72,14 @@
 					<img class="img-circle" src="img/team/corey_head.jpg" >
 					<h2>Corey Carroll</h2>
 					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/CoreyCarroll">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/CoreyCarroll" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 				
 				<div class="col-xs-12 col-sm-6">
 					<img class="img-circle" src="img/team/ryan_head.jpg" >
 					<h2>Ryan Sefcik</h2>
 					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/RyanSefcik">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/RyanSefcik" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div>
@@ -91,14 +91,14 @@
 					<img class="img-circle" src="img/team/megan_head.jpg" >
 					<h2>Megan Posukonis</h2>
 					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/MeganPosukonis">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/MeganPosukonis" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 				
 				<div class="col-xs-12 col-sm-6">
 					<img class="img-circle" src="img/team/lexi_head.jpg" >
 					<h2>Lexi Cantu</h2>
 					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/LexiCantu">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/LexiCantu" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
@@ -109,7 +109,7 @@
 					<img class="img-circle" src="img/team/bri_head.jpg" >
 					<h2>Briana Swan</h2>
 					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/BriSwan">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/BriSwan" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
@@ -120,7 +120,7 @@
 					<img class="img-circle" src="img/team/tylerm_head.jpg" >
 					<h2>Tyler Meder</h2>
 					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/TylerMeder">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/TylerMeder" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
@@ -131,7 +131,7 @@
 					<img class="img-circle" src="img/team/tylerb_head.jpg" >
 					<h2>Tyler Bishop</h2>
 					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/TylerBishop">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/TylerBishop" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
