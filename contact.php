@@ -64,7 +64,7 @@
 		<div class="row">
 			<div class="col-xs-12">	   
 				<h2>Contact Us</h2>
-				<form action="includes/contact.php" method="post">
+				<form action="includes/contactform.php" method="post">
 					Your name<br>
 					<input type="text" name="cf_name"><br>
 					Your e-mail<br>
