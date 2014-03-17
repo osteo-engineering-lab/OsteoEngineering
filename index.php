@@ -66,7 +66,7 @@
 							
 							<h2>Feature: Interview for nationwide conference on regenerative medicine.</h2>
 							<p>NBC4</p>
-							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.nbc4i.com/story/24968491/physicians-gather-in-columbus-for-nationwide-conference-on-regenerative-medicine" role="button">Learn More</a></p>
+							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.nbc4i.com/story/24968491/physicians-gather-in-columbus-for-nationwide-conference-on-regenerative-medicine" role="button">Watch Interview</a></p>
 						
 						</div><!-- /.carousel-caption -->
 					</div><!-- /.container -->
@@ -125,7 +125,7 @@
 					We then seed cells, for example Mesenchymal Stem Cells (MSCs) and/or vascular progenitor cells, onto those solid, 3D printed polymer scaffolds or within hydrogels. Those constructs may then be cultured, perhaps in a bioreactor, before implantation. 
 					The intent of pre-culturing scaffolds is to fill and/or coat them with tissue that the body perceives as a “tissue engineered bone graft”.</p>
 			
-					<div class="responsive-iframe-container">
+					<div class="responsive-iframe-container twit">
 						<a class="twitter-timeline" href="https://twitter.com/OsteoEngineer" data-widget-id="445647602290135040">Tweets by @OsteoEngineer</a>
 					</div>
 					<br />
