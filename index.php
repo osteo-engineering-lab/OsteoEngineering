@@ -125,6 +125,10 @@
 					We then seed cells, for example Mesenchymal Stem Cells (MSCs) and/or vascular progenitor cells, onto those solid, 3D printed polymer scaffolds or within hydrogels. Those constructs may then be cultured, perhaps in a bioreactor, before implantation. 
 					The intent of pre-culturing scaffolds is to fill and/or coat them with tissue that the body perceives as a “tissue engineered bone graft”.</p>
 			
+					<div class="responsive-iframe-container">
+						<a class="twitter-timeline" href="https://twitter.com/OsteoEngineer" data-widget-id="445647602290135040">Tweets by @OsteoEngineer</a>
+					</div>
+
 				</div><!-- /span -->
 				
 				<div class="col-xs-12 col-md-4">
@@ -158,7 +162,7 @@
   	<script type="text/javascript" src="js/instafeed.min.js"></script>
   	<script type="text/javascript">
 		var feed = new Instafeed({
-			limit: 12,
+			limit: 15,
 			resolution: 'standard_resolution',
 			get: 'user',
 			userId: 819085045,
@@ -167,4 +171,5 @@
 		});
 		feed.run();
 	</script>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </body></html>
