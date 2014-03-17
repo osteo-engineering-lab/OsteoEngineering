@@ -4,7 +4,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="author" content="Eric J. Mott, Archie Tram">
-<meta property="og:url" content="http://raginghope.com/" />
+<meta property="og:url" content="http://osteoengineering.com/" />
 <meta property="og:site_name" content="Osteo Engineering" />
 <meta property="og:title" content="Osteo Engineering Lab at The Ohio State University" />
 <meta property="og:description" content="The David Dean Osteo Engineering Lab at The Ohio State University (OSU) focuses on providing tools for the surgical reconstruction or regeneration of craniofacial skeletal tissues." />
