@@ -128,7 +128,7 @@
 					<div class="responsive-iframe-container">
 						<a class="twitter-timeline" href="https://twitter.com/OsteoEngineer" data-widget-id="445647602290135040">Tweets by @OsteoEngineer</a>
 					</div>
-
+					<br />
 				</div><!-- /span -->
 				
 				<div class="col-xs-12 col-md-4">
@@ -162,7 +162,7 @@
   	<script type="text/javascript" src="js/instafeed.min.js"></script>
   	<script type="text/javascript">
 		var feed = new Instafeed({
-			limit: 15,
+			limit: 24,
 			resolution: 'standard_resolution',
 			get: 'user',
 			userId: 819085045,
