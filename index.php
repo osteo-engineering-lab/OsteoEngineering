@@ -58,13 +58,27 @@
 					</div><!-- /.container -->
 				</div><!-- /.item -->
 
+				<!-- Item 2b -->
+				<div class="item">
+					<img alt="T2C regenerative medicine nbc nbc4" src="img/home/hero1b.png">
+					<div class="container">
+						<div class="carousel-caption">
+							
+							<h2>Feature: Interview for nationwide conference on regenerative medicine.</h2>
+							<p>NBC4</p>
+							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.nbc4i.com/story/24968491/physicians-gather-in-columbus-for-nationwide-conference-on-regenerative-medicine" role="button">Learn More</a></p>
+						
+						</div><!-- /.carousel-caption -->
+					</div><!-- /.container -->
+				</div><!-- /.item -->
+
 				<!-- Item 3 -->
 				<div class="item">
 					<img alt="TiO2 Irgacure 819 PPF Scaffolds" src="img/home/hero2.jpg">
 					<div class="container">
 						<div class="carousel-caption">
 							
-							<h2>Feature: 3-D printers help doctors custom-fit medical devices</h2>
+							<h2>Feature: 3-D printers help doctors custom-fit medical devices.</h2>
 							<p>The Plain Dealer</p>
 							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.cleveland.com/healthfit/index.ssf/2012/03/3-d_printers_help_doctors_cust.html" role="button">Learn More</a></p>
 						
