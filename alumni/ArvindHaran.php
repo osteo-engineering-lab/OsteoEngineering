@@ -22,7 +22,7 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div style="float:right; width:image width px; font-size:80%; text-align:center">
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
 			<img src="../img/alumni/harana.jpg" alt="ArvindHaran" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			akh44@case.edu
 		</div><!-- /.span -->
@@ -30,7 +30,7 @@
 		<div class="col-xs-12 col-md-8">
 			<h3>Arvind Haran</h3>
 			<p>September 2012 - August 2013</p>
-			<p>Arvind has been a research assistant in the lab since the beginning of 2013. He and <a href="SashaBelotserkovskaya" target="new"> Sasha Belotserkovskaya</a> are currently testing the effect of roughness on bone progenitor cell attachment and proliferation within biodegradable scaffolds. As a rising sophomore studying Systems Biology, Arvind hopes to pursue an M.D. Ph.D. in order to become a physician scientist. 
+			<p>Arvind was a research assistant in the lab since the beginning of 2013. He and <a href="SashaBelotserkovskaya"> Sasha Belotserkovskaya</a> worked on the effect of roughness on bone progenitor cell attachment and proliferation within biodegradable scaffolds. He is studying Systems Biology and hopes to pursue an M.D. Ph.D. in order to become a physician scientist. 
 			</p>
 			<br>
 		</div><!-- /.span -->

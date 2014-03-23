@@ -22,7 +22,7 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div style="float:right; width:image width px; font-size:80%; text-align:center">
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
 			<img src="../img/alumni/marshallk.jpg" alt="KalieMarshall" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			krmarshall16@sbcglobal.net
 		</div><!-- /.span -->

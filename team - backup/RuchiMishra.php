@@ -22,9 +22,8 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 		
-		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/mishrar.jpg" alt="Ruchi Mishra" />
-			<br>Email: Ruchi.Mishra@osumc.edu
+		<div class="col-xs-12 col-md-4 pull-right">
+			<img class="img-responsive" src="../img/team/ruchi.jpg" alt="Ruchi Mishra" />
 		</div><!-- /.span -->
 		
 		<div class="col-xs-12 col-md-8">

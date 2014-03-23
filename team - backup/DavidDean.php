@@ -22,27 +22,33 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/deand.jpg" alt="DavidDean" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
-			Department of Plastic Surgery
-	<br>The Ohio State University
-	<br>460 West 12th Ave., Rm. 1004
-	<br>Columbus, OH 43210 USA
-	<br>Telephone: (614) 688-9044
-	<br>Fax: (614) 688-2195
-	<br>E-mail: David.Dean@osumc.edu
-	<br>Department URL:
-	<br>http://plasticsurgery.osu.edu/about-us/ourfaculty/daviddean/index.cfm
-	<br>Lab URL: www.osteoengineering.com
-	<br>ResearchGate URL:
-	<br>https://www.researchgate.net/profile/David_Dean3/
+		<div class="col-xs-12 col-md-4 pull-right">
+			<img src="../img/team/david.jpg" alt="David Dean" style="float:right" width="223" height="300">
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-md-8">
 			<h3>David Dean, Ph.D.</h3>
-			<p> David Dean received the Ph.D. degree from the City University of New York in 1993. Following a two year Post-doctoral appointment in the Institute for Reconstructive Plastic Surgery at the New York University he joined the faculty of the School of Medicine at Case Western Reserve University (CWRU) in Cleveland, Ohio. In 2013 his primary appointment transferred from the Department of Neurological Surgery at CWRU to The Ohio State University where he is currently an Associate Professor in the Department of Plastic Surgery and a member of the Center for Regenerative Medicine and Cell-Based Therapies. His research has led to the development of computer aided design software for the additive manufacture, also referred to as 3D printing, of tissue engineered bone implants. His research program currently includes the seeding of bone marrow-derived mesenchymal stem cells in 3D printed bone tissue engineering scaffolds. These scaffolds are bioreactor pre-cultured prior to implantation. Much of this research has focused on the repair of critical size and larger cranial defects.</p>
-			<br>
+			<p> David Dean received the Ph.D. degree from the City University of New York in 1993. Following a two year Post-doctoral appointment in the Institute for Reconstructive Plastic Surgery at the New York University he joined the faculty of the School of Medicine at Case Western Reserve University (CWRU) in Cleveland, Ohio. In 2013 his primary appointment transferred from the Department of Neurological Surgery at CWRU to The Ohio State University where he is currently an Associate Professor in the Department of Plastic Surgery and a member of the Center for Regenerative Medicine and Cell-Based Therapies. His research has led to the development of computer aided design software for the additive manufacture, also referred to as 3D printing, of tissue engineered bone implants. His research program currently includes the seeding of bone marrow-derived mesenchymal stem cells in 3D printed bone tissue engineering scaffolds. These scaffolds are bioreactor pre-cultured prior to implantation. Much of this research has focused on the repair of critical size and larger cranial defects.
+</p>
+
 			<hr>
+
+			<pre><em><b>Contact Information</b></em>
+	Department of Plastic Surgery
+	The Ohio State University
+	460 West 12th Ave., Rm. 1004
+	Columbus, OH 43210 USA
+	Telephone: (614) 688-9044
+	Fax: (614) 688-2195
+	E-mail: David.Dean@osumc.edu
+	Department URL: http://plasticsurgery.osu.edu/about-us/ourfaculty/daviddean/index.cfm
+	Lab URL: www.osteoengineering.com
+	ResearchGate URL: https://www.researchgate.net/profile/David_Dean3/
+</pre>
+
+			<hr>
+
+			<br>
 			<h4>Recent Publications</h4>
 			Publications since 2009:
 

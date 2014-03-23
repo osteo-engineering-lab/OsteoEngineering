@@ -1,4 +1,4 @@
-<?php $thisPage="NealTopham"; $sub=1; ?>
+<?php $thisPage="Tyler Bishop"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -21,25 +21,16 @@
     ================================================== --> 
 <div class="container marketing no-carousel"> 
 	<div class="row">
-	
-		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/alumni/tophamn.jpg" alt="NealTopham" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
-			Neal S. Topham, M.D., FACS<br>
-50 Huntingdon Pike<br>
-3rd Floor<br>
-Rockledge, PA  19046<br>
-Tele: 215-728-2662<br>
-Fax:  215-728-5507<br>
-Email: neal.topham@fccc.edu<br>
-
+		
+		<div class="col-xs-12 col-md-4 pull-right">
+			<img class="img-responsive" src="../img/team/tylerb.jpg" alt="Tyler Bishop" />
 		</div><!-- /.span -->
-	
+		
 		<div class="col-xs-12 col-md-8">
-			<h3>Neal Topham M.D., FACS</h3>
-			<p>Completed in June 2001 - Started working at Fox Chase Cancer Center in August, 2002</p>
-			<p>Dr. Topham is the Chief of plastic Surgery at Fox Chase Cancer Center in Philadelphia and is fellowship trained in Micro Surgery. His current research interests include Head and Neck reconstruction using computer aided modeling, free tissue transfer for breast cancer, extremity sarcomas and skin malignancies. 
-			</p>
-			<br>
+      
+			<h3>Tyler Bishop</h3>
+<p>Tyler Bishop is a 2nd year student majoring in Biomedical Engineering at The Ohio State University. He was born and raised in Columbus for his whole life. Currently, he is a undergraduate research assistant in Dr. David Dean's lab. He is also working as a math tutor with Ohio State in the Math and Statistics Learning Center (MSLC). Tyler is also a member of Phi Sigma Kappa Fraternity at Ohio State.
+</p>
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	

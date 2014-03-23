@@ -1,4 +1,4 @@
-<?php $thisPage="Megan Posukonis"; $sub=1; ?>
+<?php $thisPage="MeganPosukonis"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -21,16 +21,18 @@
     ================================================== --> 
 <div class="container marketing no-carousel"> 
 	<div class="row">
-		
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img class="img-responsive" src="../img/team/megan.jpg" alt="Megan Posukonis" />
+	
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
+			<img src="../img/team/posukonism.jpg" alt="MeganPosukonis" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			Email: posukonis.1@osu.edu
 		</div><!-- /.span -->
-		
+	
 		<div class="col-xs-12 col-md-8">
-      
 			<h3>Megan Posukonis</h3>
-<p>Megan is a sophomore majoring biomedical engineering scheduled to graduate in 2016. She is from Sparks, NV and loves alpine ski racing at the many resorts around Lake Tahoe. 
-</p>
+			<p>Started: September 2013</p>
+			<p>Megan Posukonis is a Biomedical Engineering major at The Ohio State University, planning to graduate in Spring 2016. She is from Sparks, Nevada. In the lab, she involves in the SCID mouse study and the End-to-End 3D Printing study. Within the End-to-End 3D Printing, she works primarily on the wash method and adhesion studies. She is also involved in the laboratory administration (software installation, training management, and HR organization).
+			</p>
+			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	

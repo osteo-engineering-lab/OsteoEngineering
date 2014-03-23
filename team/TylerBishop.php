@@ -1,4 +1,4 @@
-<?php $thisPage="Tyler Bishop"; $sub=1; ?>
+<?php $thisPage="TylerBishop"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -21,16 +21,18 @@
     ================================================== --> 
 <div class="container marketing no-carousel"> 
 	<div class="row">
-		
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img class="img-responsive" src="../img/team/tylerb.jpg" alt="Tyler Bishop" />
+	
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
+			<img src="../img/team/bishopt.jpg" alt="TylerBishop" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			Email: bishop.465@osu.edu
 		</div><!-- /.span -->
-		
+	
 		<div class="col-xs-12 col-md-8">
-      
 			<h3>Tyler Bishop</h3>
-<p>Tyler Bishop is a 2nd year student majoring in Biomedical Engineering at The Ohio State University. He was born and raised in Columbus for his whole life. Currently, he is a undergraduate research assistant in Dr. David Dean's lab. He is also working as a math tutor with Ohio State in the Math and Statistics Learning Center (MSLC). Tyler is also a member of Phi Sigma Kappa Fraternity at Ohio State.
-</p>
+			<p>Started: September 2013</p>
+			<p>Tyler Bishop is a Biomedical Engineering major at The Ohio State University, planning to graduate in Spring 2016. He is from Columbus, Ohio. In the lab, he involves in the Extracellular Matrix Study with <a href="RuchiMishra">Ruchi Mishra</a>. He is a founding father for Phi Sigma Kappa Fratnerity and also a member of Ohio House of Science and Engineering (OHSE) Program, particularly involved in Wonders of Our World (WOW) elementary outreach program.
+			</p>
+			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	

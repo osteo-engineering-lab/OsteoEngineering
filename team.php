@@ -25,20 +25,25 @@
 			<h1>Meet the Team</h1>
 		</div>
 		
-		<div class="col-xs-12 col-md-8">
+		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/team/david_head.jpg" >
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/deand.jpg" >
 					<h2>Dr. David Dean</h2>
 					<p>Primary Investigator</p>
-					<p><a class="btn btn-default" href="team/DavidDean" target="_blank">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/DavidDean">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
-				
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/team/eric_head.jpg" >
+			</div><!-- /.row -->
+		</div><!-- /span -->
+		
+
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/motte.jpg" >
 					<h2>Eric Mott</h2>
 					<p>Laboratory Manager</p>
-					<p><a class="btn btn-default" href="team/EricMott" target="_blank">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/EricMott">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
@@ -46,92 +51,120 @@
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/ruchi_head.jpg" >
+					<img class="img-circle" src="img/team/mishrar.jpg" >
 					<h2>Dr. Ruchi Mishra</h2>
 					<p>Post Doctoral Investigator</p>
-					<p><a class="btn btn-default" href="team/RuchiMishra" target="_blank">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/RuchiMishra">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
 
-		<!-- Row 2 -->
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/bishopt.jpg" >
+					<h2>Tyler Bishop</h2>
+					<p>Undergraduate Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/TylerBishop">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->	
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/cantul.jpg" >
+					<h2>Lexi Cantu</h2>
+					<p>Undergraduate Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/LexiCantu">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/carrollc.jpg" >
+					<h2>Corey Carroll</h2>
+					<p>Undergraduate Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/CoreyCarroll">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->					
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/clevelandd.jpg" >
+					<h2>Daniel Cleveland</h2>
+					<p>Undergraduate Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/DanielCleveland">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->	
+
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/fishbeinr.jpg" >
+					<h2>Rachel Fishbein</h2>
+					<p>Undergraduate Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/RachelFishbein">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/medert.jpg" >
+					<h2>Tyler Meder</h2>
+					<p>Undergraduate Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/TylerMeder">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/posukonism.jpg" >
+					<h2>Megan Posukonis</h2>
+					<p>Undergraduate Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/MeganPosukonis">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/sefcikr.jpg" >
+					<h2>Ryan Sefcik</h2>
+					<p>Undergraduate Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/RyanSefcik">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/swanb.jpg" >
+					<h2>Bri Swan</h2>
+					<p>Undergraduate Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/BriSwan">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->
+		
 		<div class="col-xs-12 col-sm-6 col-md-4">     
 			<div class="row team">
 				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/archie_head.jpg" >
+					<img class="img-circle" src="img/team/trama.jpg" >
 					<h2>Archie Tram</h2>
 					<p>Undergraduate Research Assistant.</p>
 					<p><a class="btn btn-default" href="team/ArchieTram" target="_blank">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-md-8">
-			<div class="row team">
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/team/corey_head.jpg" >
-					<h2>Corey Carroll</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/CoreyCarroll" target="_blank">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-				
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/team/ryan_head.jpg" >
-					<h2>Ryan Sefcik</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/RyanSefcik" target="_blank">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div>
-
-		<!-- Row 3 -->
-		<div class="col-xs-12 col-md-8">
-			<div class="row team">
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/team/megan_head.jpg" >
-					<h2>Megan Posukonis</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/MeganPosukonis" target="_blank">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-				
-				<div class="col-xs-12 col-sm-6">
-					<img class="img-circle" src="img/team/lexi_head.jpg" >
-					<h2>Lexi Cantu</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/LexiCantu" target="_blank">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/bri_head.jpg" >
-					<h2>Briana Swan</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/BriSwan" target="_blank">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/tylerm_head.jpg" >
-					<h2>Tyler Meder</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/TylerMeder" target="_blank">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/tylerb_head.jpg" >
-					<h2>Tyler Bishop</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/TylerBishop" target="_blank">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
