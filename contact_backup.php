@@ -63,12 +63,22 @@
 	<div class="container marketing no-carousel"> 
 		<div class="row">
 			<div class="col-xs-12">	   
-				<h2>Osteo Engineering Laboratory</h2>
-<div class="col-sm-4">
-<h3>Contact Us</h3>
-<hr>
-<address>
-<strong><a target="_blank" href="http://plasticsurgery.osu.edu/" id="ftr_division_name">Department of Plastic Surgery</a></strong>
+				<h2>Contact Us</h2>
+				<form action="includes/contact" method="post">
+					Your name<br>
+					<input type="text" name="cf_name"><br>
+					Your e-mail<br>
+					<input type="text" name="cf_email"><br>
+					Message<br>
+					<textarea rows="10" cols="60" name="cf_message"></textarea><br>
+					<input type="submit" value="Send">
+					<input type="reset" value="Clear">
+				</form>
+
+				<hr>
+
+				<h3> Dean Lab </h3>
+				<strong><a target="_blank" href="http://plasticsurgery.osu.edu/" id="ftr_division_name">Department of Plastic Surgery</a></strong>
 				<br />
 				<a target="blank" href="http://www.osu.edu/map/building.php?building=112">Biomedical Research Tower</a>
 				<br />
@@ -81,32 +91,6 @@
 				Fax: 614-688-2195
 				<br />
 				<a target="blank" href="http://www.campusparc.com/osu/">Campus Parking Information</a>
-</address>
-</div>
-    
-<div class="col-sm-8 contact-form">
-<form id="contact" method="post" class="form" role="form">
-<div class="row">
-<div class="col-xs-6 col-md-6 form-group">
-<input class="form-control" id="name" name="name" placeholder="Name" type="text" required autofocus />
-</div>
-<div class="col-xs-6 col-md-6 form-group">
-<input class="form-control" id="email" name="email" placeholder="Email" type="email" required />
-</div>
-</div>
-<textarea class="form-control" id="message" name="message" placeholder="Message" rows="5"></textarea>
-<br />
-<div class="row">
-<div class="col-xs-12 col-md-12 form-group">
-<button class="btn btn-primary pull-right" type="submit">Submit</button>
-</form>
-</div>
-</div>
-</div>
-
-
-
-				
 				<hr>
 				
 			</div><!-- /span-->

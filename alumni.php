@@ -41,14 +41,19 @@
 </tr>
 
 <tr>
-	<td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/WilliamBaw">William Baw</a></td>
-	<td bgcolor="#EBEBEB" align="center"></td>
+	<td><a style="text-decoration:none" href="alumni/WilliamBaw">William Baw</a></td>
+	<td align="center"></td>
 </tr>
 
 <tr>
-	<td><a style="text-decoration:none" href="alumni/SashaBelotserkovskaya">Sasha Belotserkovskaya</a></td>
-	<td align="center">September 2012 - June 2013</td>
+	<td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/SashaBelotserkovskaya">Sasha Belotserkovskaya</a></td>
+	<td bgcolor="#EBEBEB" align="center">September 2012 - June 2013</td>
 </tr>
+
+<tr>
+	<td><a style="text-decoration:none" href="alumni/KatieColbaugh">Katie Colbaugh</a></td>
+	<td align="center">May 2009 - December 2013</td>
+</tr>	
 
 <tr>
 	<td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/JamesCox">James Cox</a></td>
@@ -64,6 +69,11 @@
 <td bgcolor="#EBEBEB"><a style="text-decoration:none" href="alumni/ArvindHaran">Arvind Haran</a></td>
 <td bgcolor="#EBEBEB" align="center">September 2012 - August 2013</td>
 </tr>
+
+<tr>
+<td><a style="text-decoration:none" href="alumni/XiaoliangHu">Xiaoliang Hu</a></td>
+<td align="center">2001 - 2007; 2010 - 2011</td>
+</tr> 
 
 <tr>
 <td><a style="text-decoration:none" href="alumni/XinyiLuo">Xinyi Luo</a></td>

@@ -1,4 +1,4 @@
-<?php $thisPage="JamesCox"; $sub=1; ?>
+<?php $thisPage="James Cox"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/alumni/coxj.jpg" alt="JamesCox" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			<img src="../img/alumni/coxj.jpg" alt="James Cox" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			jcc134@case.edu
 		</div><!-- /.span -->
 	

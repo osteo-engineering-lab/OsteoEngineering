@@ -1,4 +1,4 @@
-<?php $thisPage="RachelFishbein"; $sub=1; ?>
+<?php $thisPage="Lexi Cantu"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -23,14 +23,14 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/fishbeinr.jpg" alt="RachelFishbein" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
-			Email: fishbein.7@osu.edu
+			<img src="../img/team/cantul.jpg" alt="Lexi Cantu" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			Email: cantu.26@osu.edu
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-md-8">
-			<h3>Rachel Fishbein</h3>
-			<p>Started: </p>
-			<p>Rachel Fishbein is a Materials Science and Engineering major at The Ohio State University, planning to graduate in Spring 2015. She is from Dayton, Ohio. In the lab, she works primarily on the PPF Roughness Study. Rachel is also a member of the Ohio State University Marching Band (H-Row), Tau Beta Sigma Music Honorary, Engineering Scholars, Engineers for Community Service and Material Advantage Club. 
+			<h3>Lexi Cantu</h3>
+			<p>Started: October 2013</p>
+			<p>Lexi Cantu is a Chemical Engineering major at The Ohio State University, planning to graduate in Spring 2016. She is from Broadview Heights, Ohio. In the lab, she works primarily on the degradation study, laboratory protocols, and EHS documentation (MSDS binder, chemical hygiene plan, standard operating procedures. Lexi is also a member of Humanitarian Engineering Scholars. 
 			</p>
 			<br>
 		</div><!-- /.span -->

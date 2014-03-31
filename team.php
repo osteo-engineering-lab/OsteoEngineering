@@ -150,6 +150,17 @@
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/schroederm.jpg" >
+					<h2>Marissa Schroeder </h2>
+					<p>Undergraduate Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/MarissaSchroeder ">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
 					<img class="img-circle" src="img/team/swanb.jpg" >
 					<h2>Bri Swan</h2>
 					<p>Undergraduate Research Assistant.</p>

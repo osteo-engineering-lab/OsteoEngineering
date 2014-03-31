@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/deand.jpg" alt="DavidDean" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			<img src="../img/team/deand.jpg" alt="David Dean" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			Department of Plastic Surgery
 	<br>The Ohio State University
 	<br>460 West 12th Ave., Rm. 1004

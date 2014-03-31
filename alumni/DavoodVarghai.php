@@ -1,4 +1,4 @@
-<?php $thisPage="DavoodVarghai"; $sub=1; ?>
+<?php $thisPage="Davood Varghai"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/alumni/varghaid.jpg" alt="DavoodVarghai" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			<img src="../img/alumni/varghaid.jpg" alt="Davood Varghai" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			asz25@case.edu
 		</div><!-- /.span -->
 	

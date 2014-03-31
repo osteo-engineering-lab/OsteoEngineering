@@ -1,4 +1,4 @@
-<?php $thisPage="CoreyCarroll"; $sub=1; ?>
+<?php $thisPage="Corey Carroll"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/carrollc.jpg" alt="CoreyCarroll" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			<img src="../img/team/carrollc.jpg" alt="Corey Carroll" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			Email: carroll.574@osu.edu
 		</div><!-- /.span -->
 	

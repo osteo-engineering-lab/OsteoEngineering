@@ -1,4 +1,4 @@
-<?php $thisPage="RyanSefcik"; $sub=1; ?>
+<?php $thisPage="Ryan Sefcik"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/sefcikr.jpg" alt="RyanSefcik" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			<img src="../img/team/sefcikr.jpg" alt="Ryan Sefcik" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			Email: sefcik.16@osu.edu
 		</div><!-- /.span -->
 	

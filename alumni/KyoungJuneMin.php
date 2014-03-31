@@ -1,4 +1,4 @@
-<?php $thisPage="KyoungJuneMin"; $sub=1; ?>
+<?php $thisPage="Kyoung-June Min"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/alumni/minj.jpg" alt="KyoungJuneMin" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			<img src="../img/alumni/minj.jpg" alt="Kyoung-June Min" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			duffer.min@samsung.com; kjm11@case.edu<br>
 			Country: Republic of Korea (South Korea)
 		</div><!-- /.span -->

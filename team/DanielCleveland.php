@@ -1,4 +1,4 @@
-<?php $thisPage="DanielCleveland"; $sub=1; ?>
+<?php $thisPage="Daniel Cleveland"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/clevelandd.jpg" alt="DanielCleveland" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			<img src="../img/team/clevelandd.jpg" alt="Daniel Cleveland" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			Email: cleveland.86@osu.edu
 		</div><!-- /.span -->
 	

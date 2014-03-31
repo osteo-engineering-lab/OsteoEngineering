@@ -1,4 +1,4 @@
-<?php $thisPage="RachelFishbein"; $sub=1; ?>
+<?php $thisPage="Katie Colbaugh"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -23,14 +23,14 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/fishbeinr.jpg" alt="RachelFishbein" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
-			Email: fishbein.7@osu.edu
+			<img src="../img/alumni/colbaughk.jpg" alt="Katie Colbaugh" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			kec35@case.edu
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-md-8">
-			<h3>Rachel Fishbein</h3>
-			<p>Started: </p>
-			<p>Rachel Fishbein is a Materials Science and Engineering major at The Ohio State University, planning to graduate in Spring 2015. She is from Dayton, Ohio. In the lab, she works primarily on the PPF Roughness Study. Rachel is also a member of the Ohio State University Marching Band (H-Row), Tau Beta Sigma Music Honorary, Engineering Scholars, Engineers for Community Service and Material Advantage Club. 
+			<h3>Katie Colbaugh</h3>
+			<p>May 2009 - December 2013</p>
+			<p>She is currently a graduate student in the Department of Materials Science and Engineering at Case Western Reserve University.
 			</p>
 			<br>
 		</div><!-- /.span -->

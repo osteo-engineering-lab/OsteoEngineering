@@ -1,4 +1,4 @@
-<?php $thisPage="ArvindHaran"; $sub=1; ?>
+<?php $thisPage="Arvind Haran"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/alumni/harana.jpg" alt="ArvindHaran" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			<img src="../img/alumni/harana.jpg" alt="Arvind Haran" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			akh44@case.edu
 		</div><!-- /.span -->
 	

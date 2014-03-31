@@ -1,4 +1,4 @@
-<?php $thisPage="RahulSharma"; $sub=1; ?>
+<?php $thisPage="Rahul Sharma"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/alumni/sharmar.jpg" alt="RahulSharma" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			<img src="../img/alumni/sharmar.jpg" alt="Rahul Sharma" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			rxs202@case.edu
 		</div><!-- /.span -->
 	

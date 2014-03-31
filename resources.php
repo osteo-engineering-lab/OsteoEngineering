@@ -25,12 +25,22 @@
 	
 	<ul>
 		<li><a href="https://box.osu.edu/" target="_blank"> BuckeyeBox</a></li>
-		<li><a href="https://trello.com/" target="_blank"> Trello Organizer</a></li>
-		<li><a href="https://www.osumc.edu/applications/roomschedule/default.aspx" target="_blank"> Room Reservation in the BRT for Meetings (osumc account required)</a></li>
 		<li><a href="https://join.me" target="_blank"> Join.Me Screen Sharing and Conference Call Service</a></li>
+		<li><a href="https://www.osumc.edu/applications/roomschedule/default.aspx" target="_blank"> Room Reservation in the BRT for Meetings (OSUMC account required)</a></li>
+		<li><a href="https://trello.com/" target="_blank"> Trello Organizer</a></li>
+		<li><a href="http://whenisgood.net" target="_blank"> Whenisgood.net for Scheduling Meeting Times</a></li>
 	</ul>
 	
 	<hr />
+	
+	<!-- ======================================= Animations and Renderings ======================================= -->
+	
+	<h3>Animations and Renderings</h3>
+	<ul>
+		<li><a href="http://molecularviewbook.org" target="_blank">Molecular Flipbook</a></li>
+	</ul>
+	
+	<hr /> 
 	
 	<!-- ======================================= Calibration ======================================= -->
 	
@@ -51,15 +61,15 @@
 		<li><a href="http://www.bakerco.com/products/class-ii-biosafety-cabinets/sterilchemgard.html" target="_blank">Baker SterilchemGARD<sup>&reg;</sup> III Advance  Class II B2 Biological Safety Cabinet</a></li>
 		<li><a href="http://www.hamiltonscientific.com/products/fume-hoods/general/concept" target="_blank">Hamilton Scientific Concept 61L Fume Hood</a></li>
 	</ul>
-	<p><a href="http://www.brunercorp.com/">Bruner Corporation</a> is an on site contractor in the Biomedical Research Tower able to do this work. Contact <a href="mailto:srodriguez@brunercorp.com">Steve Rodriguez</a>.
+	<p><a href="http://www.brunercorp.com/" target="_blank">Bruner Corporation</a> is an on site contractor in the Biomedical Research Tower able to do this work. Contact <a href="mailto:srodriguez@brunercorp.com">Steve Rodriguez</a>.
 	
 	<hr /> 
 	
-	<!-- ======================================= Certification ======================================= -->
+	<!-- ======================================= Construction ======================================= -->
 	
 	<h3>Construction</h3>
 	<p>For major construction of the lab or office space, use a general contractor. Blake Harrison, the facility manager, can help set this up.<p>
-	<p><a href="https://plus.google.com/106112452604821497450/about?gl=us&hl=en">Brocon Construction</a> was used in the past to cut-off the pass through boxes in 0015B and 0015C. Phone: <a href="tel:6148717300">614-871-7300</a>.
+	<p><a href="https://plus.google.com/106112452604821497450/about?gl=us&hl=en" target="_blank">Brocon Construction</a> was used in the past to cut-off the pass through boxes in 0015B and 0015C. Phone: <a href="tel:6148717300">614-871-7300</a>.
 	
 	<hr /> 
 	
@@ -91,6 +101,16 @@
 	
 	<hr />
 	
+		<!-- ======================================= Laboratory Techniques ======================================= -->
+	
+	<h3>Laboratory Techniques</h3>
+	<ul>
+		<li><a href="http://www.youtube.com/watch?v=uOvwDbNDdWA" target="_blank"> Using and Maintaining Gas Cylinders</a></li>
+		<li><a href="/downloads/resources/Fume_Hood_vs._Biosafety_Cabinet.pdf" target="_blank"> Using Open Flames in Hoods [PDF]</a></li>
+	</ul>
+	<hr />
+	
+	
 	<!-- ======================================= Laundry ======================================= -->
 	
 	<h3>Laundry</h3>
@@ -113,20 +133,20 @@
 	
 	<h3>Machine Shops</h3>
 	<ul>
-		<li><a href="http://chemistry.osu.edu/rss/machineshop">Chemistry Department Machine Shop (Evans Lab)</a>
+		<li><a href="http://chemistry.osu.edu/rss/machineshop" target="_blank">Chemistry Department Machine Shop (Evans Lab)</a>
 			<ul>
 				<li>Contact: <a href="mailto:jhoff@chemistry.ohio-state.edu">Jerry Hoff, Lab Manager</a> | 614-292-2513</li>
 				<li>Contact: <a href="mailto:lantal@chemistry.ohio-state.edu">Larry Antal</a> | 614-292-0838</li>
 				<li>Contact: <a href="mailto:rshea@chemistry.ohio-state.edu">Ryan Shea</a> | 614-292-0838</li>
-				<li>Location: <a href="http://www.osu.edu/map/building.php?building=150">Evans Laboratory</a> 0041, 88 W 18th Ave, Columbus, OH 43210 </li>
+				<li>Location: <a href="http://www.osu.edu/map/building.php?building=150" target="_blank">Evans Laboratory</a> 0041, 88 W 18th Ave, Columbus, OH 43210 </li>
 			</ul>
 		</li>
-		<li><a href="http://physics.osu.edu/facilities">Physics Department Machine Shop (Smith Lab)</a>
+		<li><a href="http://physics.osu.edu/facilities" target="_blank">Physics Department Machine Shop (Smith Lab)</a>
 			<ul>
 				<li>Contact: <a href="mailto:gosser.5@osu.edu">John Gosser, Shop Supervisor</a> | 614-292-6363</li>
 				<li>Contact: <a href="mailto:gueth@mps.ohio-state.edu">Josh Gueth</a> | 614-292-6363</li>
 				<li>Contact: <a href="mailto:jshover@mps.ohio-state.edu">Jonathan Shover</a> | 614-292-6363</li>
-				<li>Location: <a href="http://www.osu.edu/map/building.php?building=065">Smith Laboratory</a> 0075, 174 W 18th Ave, Columbus, OH 43210</li>
+				<li>Location: <a href="http://www.osu.edu/map/building.php?building=065" target="_blank">Smith Laboratory</a> 0075, 174 W 18th Ave, Columbus, OH 43210</li>
 			</ul>
 		</li>
 	</ul>
@@ -136,7 +156,7 @@
 	<!-- ======================================= Maintenance ======================================= -->
 	
 	<h3>Maintenance</h3>
-	<p>Simple maintenance such as fixing a leaky faucet or wall mounting something is done via a <a href="https://cms.osumc.edu/secure/WORequest.aspx?sid=e26b7401-4fe4-41e0-a7ed-17725571de92">work order</a> using OneSource (OSUMC login required).  Use the following for their respective fields:
+	<p>Simple maintenance such as fixing a leaky faucet or wall mounting something is done via a <a href="https://cms.osumc.edu/secure/WORequest.aspx?sid=e26b7401-4fe4-41e0-a7ed-17725571de92" target="_blank">work order</a> using OneSource (OSUMC login required).  Use the following for their respective fields:
 		<ul>
 		<li><strong>Requester Name:</strong> &#60;osumc id&#62; - FirstName LastName</li>
 		<li><strong>Cost Center:</strong> Plastic Surgery - 25940</li>
@@ -155,24 +175,32 @@
 		<li><a href="">Small Load Compression and Tensile Testing (Powell Lab)</a>
 			<ul>
 				<li>Contact: <a href="mailto:powell.299@osu.edu">Heather Powell, Ph.D.</a> | 614-247-8673</li>
-				<li>Location: <a href="http://www.osu.edu/map/building.php?building=151">Fontana Laboratories</a> 243C, 116 W Nineteenth Ave, Columbus, OH 43210 </li>
+				<li>Location: <a href="http://www.osu.edu/map/building.php?building=151" target="_blank">Fontana Laboratories</a> 243C, 116 W Nineteenth Ave, Columbus, OH 43210 </li>
 			</ul>
 		</li>
-		<li><a href="http://mse.osu.edu/research/facilities#Mechanical_Testing_and_Forming">Mechanical Testing Facility (MTF) (Large Load Compression and Tensile Testing)</a>
+		<li><a href="http://mse.osu.edu/research/facilities#Mechanical_Testing_and_Forming" target="_blank">Mechanical Testing Facility (MTF) (Large Load Compression and Tensile Testing)</a>
 			<ul>
 				<li>Contact: <a href="mailto:kushner.8@osu.edu">Ken Kushner, MSE Laboratory and Facility Manager</a> | 614-292-7128</li>
 				<li>Training: <a href="mailto:baldwin.130@osu.edu">Ross Baldwin</a></li>
-				<li>Location: <a href="http://www.osu.edu/map/building.php?building=151">Fontana Laboratories</a> High Bay, 116 W Nineteenth Ave, Columbus, OH 43210 </li>
+				<li>Location: <a href="http://www.osu.edu/map/building.php?building=151" target="_blank">Fontana Laboratories</a> High Bay, 116 W Nineteenth Ave, Columbus, OH 43210 </li>
 			</ul>
 		</li>
-		<li><a href="http://dent.osu.edu/ortho/faculty/kim.php">Nanoindentation and Small Load Compression and Tensile Testing</a>
+		<li><a href="http://dent.osu.edu/ortho/faculty/kim.php" target="_blank">Nanoindentation and Small Load Compression and Tensile Testing</a>
 			<ul>
 				<li>Contact: <a href="mailto:kim.2508@osu.edu">Do-Gyoon "Do" Kim, Ph.D.</a> | 614-247-8089</li>
-				<li>Location: <a href="http://www.osu.edu/map/building.php?building=024">Postle Hall</a> 4088, 305 W 12th Ave, Columbus, OH 43210</li>
+				<li>Location: <a href="http://www.osu.edu/map/building.php?building=024" target="_blank">Postle Hall</a> 4088, 305 W 12th Ave, Columbus, OH 43210</li>
 			</ul>
 		</li>
 	</ul>
 	
+	<hr />
+	
+		<!-- ======================================= Recruitment ======================================= -->
+	
+	<h3>Recruitment</h3>
+	<ul>
+		<li><a href="https://osu.box.com/s/bpbt6uup6pebreh67e7v" target="_blank"> Recruitment Form (BuckeyeBox account required)</a></li>
+	</ul>
 	<hr />
 	
 	<!-- ======================================= Supplies ======================================= -->
@@ -181,43 +209,26 @@
 	<ul>
 		<li>On Campus
 			<ul>
-				<li><a href="https://lcm.osu.edu/policies/stockroom/">Stockroom @ LCM Core</a></li>
-				<li><a href="http://osustores.osu.edu/stores/gascylinder.aspx"> Gas Cylinder</a></li>
-				<li><<a href="http://osustores.osu.edu/prodservices/dryice.aspx"> Dry Ice</a></li>
+				<li><a href="https://lcm.osu.edu/policies/stockroom/" target="_blank">Stockroom @ LCM Core</a></li>
+				<li><a href="http://osustores.osu.edu/stores/gascylinder.aspx" target="_blank"> Gas Cylinder</a>. 50lb CO2 cylinder (Item 98255) for the incubators</li>
+				<li><a href="http://osustores.osu.edu/prodservices/dryice.aspx" target="_blank"> Dry Ice</a></li>
 			</ul>
 		</li>				
 		<li>General Lab
 			<ul>
-				<li><a href="http://www.fishersci.com/">Fisher Scientific</a></li>
+				<li><a href="http://www.fishersci.com/" target="_blank">Fisher Scientific</a></li>
 					<ul>
 						<li>Contact: Brenda Boyle | Senior Sales Representative
 						<li>Work: 614-292-2062 | Fax: 614-292-0390 | (800)955-6666 voice 1995538
 						<li>Location: OSU On-Site Office, 2650 Kenny Road, Columbus, OH 43210
 					</ul>
-				<li><a href="http://www.lifetechnologies.com/us/en/home.html">Life Technologies</a></li>
-				<li><a href="http://www.sigmaaldrich.com/united-states.html">Sigma Aldrich</a></li>
-				<li><a href="https://us.vwr.com/">VWR</a></li>
+				<li><a href="http://www.lifetechnologies.com/us/en/home.html" target="_blank">Life Technologies</a></li>
+				<li><a href="http://www.sigmaaldrich.com/united-states.html" target="_blank">Sigma Aldrich</a></li>
+				<li><a href="https://us.vwr.com/" target="_blank">VWR</a></li>
 			</ul>
 		</li>
 	</ul>
 	
-	<hr />
-	
-	<!-- ======================================= Laboratory Techniques ======================================= -->
-	
-	<h3>Laboratory Techniques</h3>
-	<ul>
-		<li><a href="http://www.youtube.com/watch?v=uOvwDbNDdWA" target="_blank"> Using and Maintaining Gas Cylinders</a></li>
-		<li><a href="/downloads/resources/Fume_Hood_vs._Biosafety_Cabinet.pdf" target="_blank"> Using Open Flames in Hoods [PDF]</a></li>
-	</ul>
-	<hr />
-	
-	<!-- ======================================= Technical Supports ======================================= -->
-	
-	<h3>Technical Supports</h3>
-	<ul>
-		<li>Solidworks: 3D-Vision - Nathan Marsh at 800-745-3136 x236</li>
-	</ul>
 	<hr />
 	
 	<!-- ======================================= Travel/Leave ======================================= -->
@@ -226,9 +237,17 @@
 	<p>Lab related travel requests should be submitted as soon as travel is anticipated and/or at least a week in advance.  Notify <a href="mailto:jason.canham@osumc.edu">Jason Canham</a> and copy Dr. Dean (david.dean@osumc.edu) requesting travel.</p>
 	<p>Before you leave and for any other types of leave, you must submit the following leave form signed by you and Dr. Dean to <a href="mailto:jason.canham@osumc.edu">Jason Canham</a>:</p>
 	<ul>
-		<li><a href="http://hr.osu.edu/public/documents/forms/appleave.pdf">Form 5171-A [PDF]</a> (<a href="/downloads/resources/form-5171-A-rev-11-10.pdf">Alternate Download</a>)</li>
+		<li><a href="http://hr.osu.edu/public/documents/forms/appleave.pdf" target="_blank">Form 5171-A [PDF]</a> (<a href="/downloads/resources/form-5171-A-rev-11-10.pdf">Alternate Download</a>)</li>
 	</ul>
 	
+	<hr />
+	
+		<!-- ======================================= Technical Supports ======================================= -->
+	
+	<h3>Technical Supports</h3>
+	<ul>
+		<li>Solidworks: 3D-Vision - Nathan Marsh at 800-745-3136 x236</li>
+	</ul>
 	<hr />
 		
 	<!-- ======================================= Uncertainty Analysis ======================================= -->
@@ -249,6 +268,15 @@
 		<li><a href="http://ular.osu.edu/forms/" target="_blank"> University Laboratory Animal Resources Forms</a></li>
 		<li><a href="http://osustores.osu.edu/aboutus.aspx" target="_blank"> Stores Receiving and Mail</a></li>
 		<li><a href="https://hsl.osu.edu/" target="_blank"> Health Science Library</a></li>
+		<li>Accessing De-identified Clinical Records/Patient Records: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815386/" target="_blank"> OSUMC's Honest Broker Program</a> | <a href="/downloads/resources/patient-records-access" target="_blank"> Process Flowchart</a></li>
+		<li>Poster Printing
+			<ul>
+				<li>Step 1: go to this <a href="https://hsl.osu.edu/medvis/medical-visuals-file-upload " target="_blank"> link</a> and upload poster, for payment method select e-request</li>
+				<li>Step 2: you will receive a quote (e-request) via email to send to Craig along with a notification to review a proof</li>
+				<li>Step 3: go to the HSL and review the proof</li>
+				<li>Step 4: pick up poster when ready</li>
+			</ul>
+		</li>
 	</ul>
 	
 </div><!-- /.container -->
