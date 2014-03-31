@@ -1,4 +1,4 @@
-<?php $thisPage="SurajSuresh"; $sub=1; ?>
+<?php $thisPage="Suraj Suresh"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -22,8 +22,8 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div style="float:right; width:image width px; font-size:80%; text-align:center">
-			<img src="../img/alumni/sureshs.jpg" alt="SurajSuresh" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
+			<img src="../img/alumni/sureshs.jpg" alt="Suraj Suresh" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			sxs1314@case.edu
 
 		</div><!-- /.span -->

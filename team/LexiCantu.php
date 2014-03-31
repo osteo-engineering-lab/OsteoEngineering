@@ -21,16 +21,18 @@
     ================================================== --> 
 <div class="container marketing no-carousel"> 
 	<div class="row">
-		
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img class="img-responsive" src="../img/team/lexi.jpg" alt="Lexi Cantu" />
+	
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
+			<img src="../img/team/cantul.jpg" alt="Lexi Cantu" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			Email: cantu.26@osu.edu
 		</div><!-- /.span -->
-		
+	
 		<div class="col-xs-12 col-md-8">
-      
 			<h3>Lexi Cantu</h3>
-<p>Lexi is a second year Chemical Engineering Major at the Ohio State University. She was born in Medina Ohio, then moved to Victoria Texas, then back to Broadview Hts. High School where she graduated High School. At Ohio State, she is a member of the Humanitarian Engineering Scholars, Women in Engineering, the American Red Cross Club, and she is working as an undergraduate research assistant at the Dean Lab.
-</p>
+			<p>Started: October 2013</p>
+			<p>Lexi Cantu is a Chemical Engineering major at The Ohio State University, planning to graduate in Spring 2016. She is from Broadview Heights, Ohio. In the lab, she works primarily on the degradation study, laboratory protocols, and EHS documentation (MSDS binder, chemical hygiene plan, standard operating procedures. Lexi is also a member of Humanitarian Engineering Scholars. 
+			</p>
+			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	

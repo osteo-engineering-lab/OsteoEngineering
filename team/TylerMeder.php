@@ -21,15 +21,18 @@
     ================================================== --> 
 <div class="container marketing no-carousel"> 
 	<div class="row">
-		
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img class="img-responsive" src="../img/team/tylerm.jpg" alt="Tyler Meder" />
+	
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
+			<img src="../img/team/medert.jpg" alt="Tyler Meder" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			Email: meder.14@osu.edu
 		</div><!-- /.span -->
-		
+	
 		<div class="col-xs-12 col-md-8">
-      
 			<h3>Tyler Meder</h3>
-<p>He is a second year Biomedical Engineering student, from the Cleveland area, Ohio.</p>
+			<p>Started: </p>
+			<p>Tyler Meder is a Biomedical Engineering major at The Ohio State University, planning to graduate in Spring 2016. He is from Cleveland, Ohio. In the lab, he works in the Degradation Study which involves creation of a bioreactor perfusion system, End-to-End 3D printing study (creation of push test apparatus). He is also a member of Biomedical Engineering Society, OSU Multicultural Center, and the Honors Program.
+			</p>
+			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	
