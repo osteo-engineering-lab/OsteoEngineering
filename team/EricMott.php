@@ -22,8 +22,9 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 		
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img class="img-responsive" src="../img/team/eric.jpg" alt="Eric Mott" />
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
+			<img src="../img/team/motte.jpg" alt="Eric Mott" />
+			<br>Email: Eric.Mott@osumc.edu
 		</div><!-- /.span -->
 		
 		<div class="col-xs-12 col-md-8">

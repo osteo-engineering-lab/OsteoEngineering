@@ -1,4 +1,4 @@
-<?php $thisPage="SashaBelotserkovskaya"; $sub=1; ?>
+<?php $thisPage="Sasha Belotserkovskaya"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -22,8 +22,8 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div style="float:right; width:image width px; font-size:80%; text-align:center">
-			<img src="../img/alumni/belotserkovskayas.jpg" alt="SashaBelotserkovskaya" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
+			<img src="../img/alumni/belotserkovskayas.jpg" alt="Sasha Belotserkovskaya" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			avb27@case.edu
 		</div><!-- /.span -->
 	

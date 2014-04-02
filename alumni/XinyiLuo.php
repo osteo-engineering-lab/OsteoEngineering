@@ -1,4 +1,4 @@
-<?php $thisPage="XinyiLuo"; $sub=1; ?>
+<?php $thisPage="Xinyi Luo"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -22,8 +22,8 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div style="float:right; width:image width px; font-size:80%; text-align:center">
-			<img src="../img/alumni/luox.jpeg" alt="XinyiLuo" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
+			<img src="../img/alumni/luox.jpeg" alt="Xinyi Luo" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
 			xxl336@case.edu
 		</div><!-- /.span -->
 	

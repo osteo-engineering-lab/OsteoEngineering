@@ -21,16 +21,18 @@
     ================================================== --> 
 <div class="container marketing no-carousel"> 
 	<div class="row">
-		
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img class="img-responsive" src="../img/team/ryan.jpg" alt="Ryan Sefcik" />
+	
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
+			<img src="../img/team/sefcikr.jpg" alt="Ryan Sefcik" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			Email: sefcik.16@osu.edu
 		</div><!-- /.span -->
-		
+	
 		<div class="col-xs-12 col-md-8">
-      
 			<h3>Ryan Sefcik</h3>
-<p>Ryan Sefcik is a 2nd year honors student majoring in Biochemistry at The Ohio State University. He grew up in Medina, Ohio. Currently, he is an undergraduate research assistant at the Dean Lab. 
-</p>
+			<p>Started: September 2013</p>
+			<p>Ryan Sefcik is a Biochemistry major at The Ohio State University, planning to graduate in Spring 2016. He is from Medina, Ohio. In the lab, Ryan involves in the ECM Thickness, Degradation and End-to-End 3-D Printing studies. He is also a member of Alpha Epsilon Delta Honorary. 
+			</p>
+			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	

@@ -21,17 +21,19 @@
     ================================================== --> 
 <div class="container marketing no-carousel"> 
 	<div class="row">
-		
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img class="img-responsive" src="../img/team/bri.jpg" alt="Bri Swan" />
+	
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
+			<img src="../img/team/swanb.jpg" alt="Bri Swan" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			Email: swan.397@osu.edu
 		</div><!-- /.span -->
-		
+	
 		<div class="col-xs-12 col-md-8">
-      
 			<h3>Bri Swan</h3>
-<p>Briana Swan is a freshman from Gahanna, Ohio majoring in Biology at The Ohio State University. She is an undergraduate research assistant at the Dean Lab as well as a Bioscience Scholar and member of the Glamour Gals club. 
-</p>
-	</div><!-- /.span -->
+			<p>Started: October 2013</p>
+			<p>Bri Swan is a Microbiology major at The Ohio State University, planning to graduate in Spring 2017. She is from Gahanna, Ohio. In the lab, she works primarily on the ECM Thickness and SCID Mouse studies. Bri is also a member of Bioscience Scholars and Glamour Gals Club, volunteering at nursing homes & giving makeovers. 
+			</p>
+			<br>
+		</div><!-- /.span -->
 	</div><!-- /.row -->
 	
 </div><!-- /.container -->

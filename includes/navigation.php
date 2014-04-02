@@ -52,6 +52,7 @@ echo "../"; ?>apply">How to Apply</a></li>
 						<li<?php if ($thisPage=="Resources") 
 echo " class=\"active\""; ?>><a href="<?php if ($sub==1) 
 echo "../"; ?>resources">Resources</a></li>
+						<li><a href="engineering">Engineering</a></li>
 						<li><a target="_blank" href="http://medicalcenter.osu.edu/Pages/index.aspx">Ohio State Wexner Medical Center</a></li>
 						<li><a target="_blank" href="http://cancer.osu.edu/Pages/index.aspx">OSUCCC - James</a></li>
 						<li><a target="_blank" href="http://medicine.osu.edu/Pages/default.aspx">OSU College of Medicine</a></li>

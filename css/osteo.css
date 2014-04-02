@@ -505,4 +505,11 @@ body {
 	#footer {
 		height: 310px;
 	}
+	
+	/* ----------- Contact Envelope ---------------------------- */
+
+	.contact-form {
+		margin-top:70px;
+}
+
 }
