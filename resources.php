@@ -73,6 +73,16 @@
 	
 	<hr /> 
 	
+	<!-- ======================================= Data ======================================= -->
+	
+	<h3>Data</h3>
+	<ul>
+		<li>Accessing De-identified Clinical Records/Patient Records: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815386/" target="_blank"> OSUMC's Honest Broker Program</a></li>
+		<img src="img/resources/patient-records-access.png" class="container-fluid" alt="Patient Records Access">
+		<br>
+	</ul>
+	<hr />
+	
 	<!-- ======================================= Imaging ======================================= -->
 	
 	<h3>Imaging</h3>
@@ -195,6 +205,22 @@
 	
 	<hr />
 	
+			<!-- ======================================= Printing ======================================= -->
+	
+	<h3>Printing</h3>
+		<ul>
+			<li>Poster Printing
+				<ul>
+					<li>Step 1: go to this <a href="https://hsl.osu.edu/medvis/medical-visuals-file-upload " target="_blank"> link</a> and upload poster, for payment method select e-request</li>
+					<li>Step 2: you will receive a quote (e-request) via email to send to Craig along with a notification to review a proof</li>
+					<li>Step 3: go to the HSL and review the proof</li>
+					<li>Step 4: pick up poster when ready</li>
+				</ul>
+			</li>
+		</ul>
+	<hr />
+	
+	
 		<!-- ======================================= Recruitment ======================================= -->
 	
 	<h3>Recruitment</h3>
@@ -246,6 +272,7 @@
 	
 	<h3>Technical Supports</h3>
 	<ul>
+		<li><a href="http://rogerdudler.github.io/git-guide/" target="_blank"> Github Overview</a></li>
 		<li>Solidworks: 3D-Vision - Nathan Marsh at 800-745-3136 x236</li>
 	</ul>
 	<hr />
@@ -268,15 +295,6 @@
 		<li><a href="http://ular.osu.edu/forms/" target="_blank"> University Laboratory Animal Resources Forms</a></li>
 		<li><a href="http://osustores.osu.edu/aboutus.aspx" target="_blank"> Stores Receiving and Mail</a></li>
 		<li><a href="https://hsl.osu.edu/" target="_blank"> Health Science Library</a></li>
-		<li>Accessing De-identified Clinical Records/Patient Records: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815386/" target="_blank"> OSUMC's Honest Broker Program</a> | <a href="/downloads/resources/patient-records-access" target="_blank"> Process Flowchart</a></li>
-		<li>Poster Printing
-			<ul>
-				<li>Step 1: go to this <a href="https://hsl.osu.edu/medvis/medical-visuals-file-upload " target="_blank"> link</a> and upload poster, for payment method select e-request</li>
-				<li>Step 2: you will receive a quote (e-request) via email to send to Craig along with a notification to review a proof</li>
-				<li>Step 3: go to the HSL and review the proof</li>
-				<li>Step 4: pick up poster when ready</li>
-			</ul>
-		</li>
 	</ul>
 	
 </div><!-- /.container -->
