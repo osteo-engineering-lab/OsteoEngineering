@@ -48,6 +48,11 @@
 	<p>NIST traceable calibration is an essential part of good laboratory practices and should be done at regular intervals on necessary lab instruments and equipment. Calibration records are important for performing <a href="#uncertainty">uncertainty analyses.</a></p>
 	<ul>
 		<li><a href="http://integratedservicesolutions.com/" target="_blank">Integrated Service Solutions</a></li>
+		<li>Steps and Requirements for Doing Calibration:
+			<ul>
+				<li>Micro-pipette tips must be packed with their respective pipetters.</li>
+			</ul>
+		</li>
 	</ul>
 	
 	<hr />
@@ -235,9 +240,10 @@
 	<ul>
 		<li>On Campus
 			<ul>
-				<li><a href="https://lcm.osu.edu/policies/stockroom/" target="_blank">Stockroom @ LCM Core</a></li>
-				<li><a href="http://osustores.osu.edu/stores/gascylinder.aspx" target="_blank"> Gas Cylinder</a>. 50lb CO2 cylinder (Item 98255) for the incubators</li>
 				<li><a href="http://osustores.osu.edu/prodservices/dryice.aspx" target="_blank"> Dry Ice</a></li>
+				<li><a href="http://osustores.osu.edu/stores/gascylinder.aspx" target="_blank"> Gas Cylinder</a>. 50lb CO2 cylinder (Item 98255) for the incubators</li>
+				<li><a href="https://lcm.osu.edu/policies/stockroom/" target="_blank">Stockroom @ LCM Core</a></li>
+				<li><a href="http://osustores.osu.edu/prodservices/water.aspx" target="_blank">Distilled Water</a></li>
 			</ul>
 		</li>				
 		<li>General Lab
