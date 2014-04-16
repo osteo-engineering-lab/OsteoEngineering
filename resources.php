@@ -48,6 +48,11 @@
 	<p>NIST traceable calibration is an essential part of good laboratory practices and should be done at regular intervals on necessary lab instruments and equipment. Calibration records are important for performing <a href="#uncertainty">uncertainty analyses.</a></p>
 	<ul>
 		<li><a href="http://integratedservicesolutions.com/" target="_blank">Integrated Service Solutions</a></li>
+		<li>Steps and Requirements for Doing Calibration:
+			<ul>
+				<li>Micro-pipette tips must be packed with their respective pipetters.</li>
+			</ul>
+		</li>
 	</ul>
 	
 	<hr />
@@ -72,6 +77,16 @@
 	<p><a href="https://plus.google.com/106112452604821497450/about?gl=us&hl=en" target="_blank">Brocon Construction</a> was used in the past to cut-off the pass through boxes in 0015B and 0015C. Phone: <a href="tel:6148717300">614-871-7300</a>.
 	
 	<hr /> 
+	
+	<!-- ======================================= Data ======================================= -->
+	
+	<h3>Data</h3>
+	<ul>
+		<li>Accessing De-identified Clinical Records/Patient Records: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815386/" target="_blank"> OSUMC's Honest Broker Program</a></li>
+		<img src="img/resources/patient-records-access.png" class="container-fluid" alt="Patient Records Access">
+		<br>
+	</ul>
+	<hr />
 	
 	<!-- ======================================= Imaging ======================================= -->
 	
@@ -195,6 +210,22 @@
 	
 	<hr />
 	
+			<!-- ======================================= Printing ======================================= -->
+	
+	<h3>Printing</h3>
+		<ul>
+			<li>Poster Printing
+				<ul>
+					<li>Step 1: go to this <a href="https://hsl.osu.edu/medvis/medical-visuals-file-upload " target="_blank"> link</a> and upload poster, for payment method select e-request</li>
+					<li>Step 2: you will receive a quote (e-request) via email to send to Craig along with a notification to review a proof</li>
+					<li>Step 3: go to the HSL and review the proof</li>
+					<li>Step 4: pick up poster when ready</li>
+				</ul>
+			</li>
+		</ul>
+	<hr />
+	
+	
 		<!-- ======================================= Recruitment ======================================= -->
 	
 	<h3>Recruitment</h3>
@@ -209,9 +240,10 @@
 	<ul>
 		<li>On Campus
 			<ul>
-				<li><a href="https://lcm.osu.edu/policies/stockroom/" target="_blank">Stockroom @ LCM Core</a></li>
-				<li><a href="http://osustores.osu.edu/stores/gascylinder.aspx" target="_blank"> Gas Cylinder</a>. 50lb CO2 cylinder (Item 98255) for the incubators</li>
 				<li><a href="http://osustores.osu.edu/prodservices/dryice.aspx" target="_blank"> Dry Ice</a></li>
+				<li><a href="http://osustores.osu.edu/stores/gascylinder.aspx" target="_blank"> Gas Cylinder</a>. 50lb CO2 cylinder (Item 98255) for the incubators</li>
+				<li><a href="https://lcm.osu.edu/policies/stockroom/" target="_blank">Stockroom @ LCM Core</a></li>
+				<li><a href="http://osustores.osu.edu/prodservices/water.aspx" target="_blank">Distilled Water</a></li>
 			</ul>
 		</li>				
 		<li>General Lab
@@ -246,6 +278,7 @@
 	
 	<h3>Technical Supports</h3>
 	<ul>
+		<li><a href="http://rogerdudler.github.io/git-guide/" target="_blank"> Github Overview</a></li>
 		<li>Solidworks: 3D-Vision - Nathan Marsh at 800-745-3136 x236</li>
 	</ul>
 	<hr />
@@ -268,15 +301,6 @@
 		<li><a href="http://ular.osu.edu/forms/" target="_blank"> University Laboratory Animal Resources Forms</a></li>
 		<li><a href="http://osustores.osu.edu/aboutus.aspx" target="_blank"> Stores Receiving and Mail</a></li>
 		<li><a href="https://hsl.osu.edu/" target="_blank"> Health Science Library</a></li>
-		<li>Accessing De-identified Clinical Records/Patient Records: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815386/" target="_blank"> OSUMC's Honest Broker Program</a> | <a href="/downloads/resources/patient-records-access" target="_blank"> Process Flowchart</a></li>
-		<li>Poster Printing
-			<ul>
-				<li>Step 1: go to this <a href="https://hsl.osu.edu/medvis/medical-visuals-file-upload " target="_blank"> link</a> and upload poster, for payment method select e-request</li>
-				<li>Step 2: you will receive a quote (e-request) via email to send to Craig along with a notification to review a proof</li>
-				<li>Step 3: go to the HSL and review the proof</li>
-				<li>Step 4: pick up poster when ready</li>
-			</ul>
-		</li>
 	</ul>
 	
 </div><!-- /.container -->
