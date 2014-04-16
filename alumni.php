@@ -102,7 +102,12 @@
 			<td><a href="alumni/SurajSuresh">Suraj Suresh</a></td>
 			<td> May 2013 - August 2013</td>
 		</tr>
-			
+		
+		<tr>
+			<td><a href="alumni/PaulThompson">Paul Thompson</a></td>
+			<td>September 2008 - July 2012</td>
+		</tr>
+		
 		<tr>
 			<td><a href="alumni/NealTopham">Neal Topham M.D., FACS</a></td>
 			<td>Completed in June 2001 - Started working at Fox Chase Cancer Center in August, 2002</td>
