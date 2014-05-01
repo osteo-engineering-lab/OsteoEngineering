@@ -1,4 +1,4 @@
-<?php $thisPage="Ryan Sefcik"; $sub=1; ?>
+<?php $thisPage="Paul Thompson"; $sub=1; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -21,16 +21,18 @@
     ================================================== --> 
 <div class="container marketing no-carousel"> 
 	<div class="row">
-		
-		<div class="col-xs-12 col-md-4 pull-right">
-			<img class="img-responsive" src="../img/team/ryan.jpg" alt="Ryan Sefcik" />
+	
+		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
+			<img src="../img/alumni/thompsonp.jpg" alt="Paul Thompson" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
+			pmt10@case.edu
 		</div><!-- /.span -->
-		
+	
 		<div class="col-xs-12 col-md-8">
-      
-			<h3>Ryan Sefcik</h3>
-<p>Ryan Sefcik is a 2nd year honors student majoring in Biochemistry at The Ohio State University. He grew up in Medina, Ohio. Currently, he is an undergraduate research assistant at the Dean Lab. 
-</p>
+			<h3>Paul Thompson</h3>
+			<p>September 2008 - July 2012</p>
+			<p>He is currently a MD/PhD student at Duke University. His graduate work is in biomedical engineering, studying brain computer interfaces.
+			</p>
+			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	

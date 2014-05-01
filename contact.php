@@ -63,10 +63,10 @@
 	<div class="container marketing no-carousel"> 
 		<div class="row">
 			<div class="col-xs-12">	   
-				<h2>Osteo Engineering Laboratory</h2>
+				<h2>Contact Us</h2>
 <div class="col-sm-4">
-<h3>Contact Us</h3>
 <hr>
+<h4>Osteo Engineering Laboratory</h4>
 <address>
 <strong><a target="_blank" href="http://plasticsurgery.osu.edu/" id="ftr_division_name">Department of Plastic Surgery</a></strong>
 				<br />
@@ -85,16 +85,16 @@
 </div>
     
 <div class="col-sm-8 contact-form">
-<form id="contact" method="post" class="form" role="form">
+<form id="contact" action="includes/contactform.php" method="post" class="form" role="form">
 <div class="row">
 <div class="col-xs-6 col-md-6 form-group">
-<input class="form-control" id="name" name="name" placeholder="Name" type="text" required autofocus />
+<input class="form-control" id="name" name="cf_name" placeholder="Name" type="text" required autofocus />
 </div>
 <div class="col-xs-6 col-md-6 form-group">
-<input class="form-control" id="email" name="email" placeholder="Email" type="email" required />
+<input class="form-control" id="email" name="cf_email" placeholder="Email" type="email" required />
 </div>
 </div>
-<textarea class="form-control" id="message" name="message" placeholder="Message" rows="5"></textarea>
+<textarea class="form-control" id="message" name="cf_message" placeholder="Message" rows="5"></textarea>
 <br />
 <div class="row">
 <div class="col-xs-12 col-md-12 form-group">
