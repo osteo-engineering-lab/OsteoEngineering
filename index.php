@@ -167,7 +167,7 @@
 			get: 'user',
 			userId: 819085045,
 			accessToken: '819085045.467ede5.00775a54fc3d4f218b7f637ea3d8d24d',
-			template: '<div class="col-xs-6 col-sm-3 col-md-4 insta"><a href="{{link}}" target="_blank"><img class="img-responsive" src="{{image}}" /></a></div>'
+			template: '<div class="col-xs-6 col-sm-3 col-md-4 insta"><a href="{{link}}"><img class="img-responsive" src="{{image}}" /></a></div>'
 		});
 		feed.run();
 	</script>
