@@ -171,14 +171,19 @@
 	<!-- ======================================= Maintenance ======================================= -->
 	
 	<h3>Maintenance</h3>
-	<p>Simple maintenance such as fixing a leaky faucet or wall mounting something is done via a <a href="https://cms.osumc.edu/secure/WORequest.aspx?sid=e26b7401-4fe4-41e0-a7ed-17725571de92" target="_blank">work order</a> using OneSource (OSUMC login required).  Use the following for their respective fields:
-		<ul>
-		<li><strong>Requester Name:</strong> &#60;osumc id&#62; - FirstName LastName</li>
-		<li><strong>Cost Center:</strong> Plastic Surgery - 25940</li>
-		<li><strong>Business Unit/Location:</strong> College of Medicine</li>
-		<li><strong>Business Unit/Location (next field):</strong> Bio Research Tower 112</li>
+	<ul>
+		<li><p>Simple maintenance such as fixing a leaky faucet or wall mounting something is done via a <a href="https://cms.osumc.edu/secure/WORequest.aspx?sid=e26b7401-4fe4-41e0-a7ed-17725571de92" target="_blank">work order</a> using OneSource (OSUMC login required).  Use the following for their respective fields:
+			<ul>
+			<li><strong>Requester Name:</strong> &#60;osumc id&#62; - FirstName LastName</li>
+			<li><strong>Cost Center:</strong> Plastic Surgery - 25940</li>
+			<li><strong>Business Unit/Location:</strong> College of Medicine</li>
+			<li><strong>Business Unit/Location (next field):</strong> Bio Research Tower 112</li>
+		</ul>
+		<p>For emergencies or urgent requests, call: <strong>614-293-8645</strong>.</p>
+		</p></li>
+	
+		<li>OSU Microscope Repair Service - Brian at 614-247-8291</a></li>
 	</ul>
-	<p>For emergencies or urgent requests, call: <strong>614-293-8645</strong>.</p>
 	
 	<hr />
 	

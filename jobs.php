@@ -26,12 +26,7 @@
 	 <div class="col-md-12">
 	 <h2>Job Openings</h2>
 		<h3>Recruitment Presentation</h3>
-		<video width=100% controls>
-		<source src="http://streaming.osu.edu/mediawww2/OSUMC14/Dean.mp4" type="video/mp4">
-		<source src="downloads/jobs/Dean.ogg" type="video/ogg">
-		Your browser does not support the video tag.
-		<br>
-		</video> 
+		<iframe src="//player.vimeo.com/video/94224626?color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 	</div>
 	  
 	<div class="row"><!--space holder -->
