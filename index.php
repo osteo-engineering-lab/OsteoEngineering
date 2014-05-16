@@ -27,6 +27,8 @@
 				<li data-target="#myCarousel" data-slide-to="1"></li>
 				<li data-target="#myCarousel" data-slide-to="2"></li>
 				<li data-target="#myCarousel" data-slide-to="3"></li>
+				<li data-target="#myCarousel" data-slide-to="4"></li>
+				<li data-target="#myCarousel" data-slide-to="5"></li>
 			</ol>
 			
 			<div class="carousel-inner">
@@ -72,6 +74,20 @@
 					</div><!-- /.container -->
 				</div><!-- /.item -->
 
+				<!-- Item 2c -->
+				<div class="item">
+					<img alt="T2C regenerative medicine nbc nbc4" src="img/home/hero1c.png">
+					<div class="container">
+						<div class="carousel-caption">
+							
+							<h2>Feature: Ohio State Researchers Lead 3D Printing Movement.</h2>
+							<p>WCMH-TV/4</p>
+							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://s3.amazonaws.com/TVEyesMediaCenter/UserContent/108334/3383369.2157/WCMH_05-15-2014_18.12.27.wmv" role="button">Watch the News</a></p>
+						
+						</div><!-- /.carousel-caption -->
+					</div><!-- /.container -->
+				</div><!-- /.item -->
+				
 				<!-- Item 3 -->
 				<div class="item">
 					<img alt="TiO2 Irgacure 819 PPF Scaffolds" src="img/home/hero2.jpg">
