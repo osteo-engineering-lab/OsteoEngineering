@@ -100,7 +100,9 @@
 						<li><a href="/downloads/resources/Facility_Online_Manager.pptx" target="_blank"> Facility Online Manager [PPT]</a></li>
 					</ul>
 				<li><a href="http://bme.osu.edu/people/hart.322 " target="_blank"> Skyscan MicroCT in 386 Bevis Hall , 1080 Carmack Rd, Columbus, OH 43210</a> | Contact Dr. Richard Hart (hart.322@osu.edu) | Capabilities: mCT.</li>
-
+					<ul>
+						<li>The Skyscan in Dr. Hart's lab is 150 hours and has a 90 minutes warmup time</li>
+					</ul>
 			</ul>
 		</li>
 		
@@ -236,6 +238,17 @@
 	<h3>Recruitment</h3>
 	<ul>
 		<li><a href="https://osu.box.com/s/bpbt6uup6pebreh67e7v" target="_blank"> Recruitment Form (BuckeyeBox account required)</a></li>
+	</ul>
+	<hr />
+	
+		<!-- ======================================= Software ======================================= -->
+	
+	<h3>Software</h3>
+	<ul>
+		<li><a href="http://fiji.sc/Fiji" target="_blank"> Fiji Image Analysis</a></li>
+		<ul>
+			<li>Do not install it to a system folder such as c:\Program Files. Instead, install to a local directory.</a></li>
+		</ul>
 	</ul>
 	<hr />
 	
