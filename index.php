@@ -60,19 +60,6 @@
 					</div><!-- /.container -->
 				</div><!-- /.item -->
 
-				<!-- Item 2b -->
-				<div class="item">
-					<img alt="T2C regenerative medicine nbc nbc4" src="img/home/hero1b.png">
-					<div class="container">
-						<div class="carousel-caption">
-							
-							<h2>Feature: Interview for nationwide conference on regenerative medicine.</h2>
-							<p>NBC4</p>
-							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.nbc4i.com/story/24968491/physicians-gather-in-columbus-for-nationwide-conference-on-regenerative-medicine" role="button">Watch Interview</a></p>
-						
-						</div><!-- /.carousel-caption -->
-					</div><!-- /.container -->
-				</div><!-- /.item -->
 
 				<!-- Item 2c -->
 				<div class="item">
@@ -82,7 +69,21 @@
 							
 							<h2>Feature: Ohio State Researchers Lead 3D Printing Movement.</h2>
 							<p>WCMH-TV/4</p>
-							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://s3.amazonaws.com/TVEyesMediaCenter/UserContent/108334/3383369.2157/WCMH_05-15-2014_18.12.27.wmv" role="button">Watch the News</a></p>
+							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.nbc4i.com/story/25530228/ohio-state-researchers-lead-3d-printing-movement" role="button">Watch the News</a></p>
+						
+						</div><!-- /.carousel-caption -->
+					</div><!-- /.container -->
+				</div><!-- /.item -->
+
+				<!-- Item 2b -->
+				<div class="item">
+					<img alt="T2C regenerative medicine nbc nbc4" src="img/home/hero1b.png">
+					<div class="container">
+						<div class="carousel-caption">
+							
+							<h2>Feature: Interview for nationwide conference on regenerative medicine.</h2>
+							<p>NBC4</p>
+							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.nbc4i.com/story/24968491/physicians-gather-in-columbus-for-nationwide-conference-on-regenerative-medicine" role="button">Watch Interview</a></p>
 						
 						</div><!-- /.carousel-caption -->
 					</div><!-- /.container -->
