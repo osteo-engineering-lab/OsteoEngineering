@@ -23,7 +23,7 @@
 	<div class="row">
 		
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/mishrar.jpg" alt="Ruchi Mishra" />
+			<img src="../img/team/mishrar.jpg" alt="Ruchi Mishra" style="max-width: 300px; height: auto; padding-bottom:0.5em"/>
 			<br>Email: Ruchi.Mishra@osumc.edu
 		</div><!-- /.span -->
 		
@@ -32,7 +32,7 @@
 			<h3>Ruchi Mishra</h3>
 			<p>Ruchi Mishra completed her graduation as a Bachelor of Science (B.Sc.) from C.S.J.M. University, India in 2004. She received her Master of Science (M.Sc.) degree in Applied Microbiology and Biotechnology in 2006 from Banasthali Vidyapith, India. Thereafter, she did her doctoral research on bone tissue engineering at Indian Institute of Technology, India and was conferred on the Ph.D. degree in July, 2013. She further joined as a post doctoral researcher at Dr. Dean's lab in September, 2013. In this lab, she is working on the in vivo bone regeneration studies on rodent and canine models. </p>
 			<br>
-			<h4>Publications</h4>
+			<h4>Recent Publications</h4>
 			<ul>
 			<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/19588233"><strong>Ruchi Mishra</strong>, Bikramjit Basu and Ashok Kumar (2009)
 			Physical and cytocompatibility properties of bioactive glass-polyvinyl alcohol-sodium alginate biocomposite foams prepared via sol-gel processing for trabecular bone regeneration. Journal of Materials Science: Materials in Medicine 20 (12), 2493-2500 </a></li>

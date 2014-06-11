@@ -36,6 +36,16 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->
 		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/kueselc.jpg" >
+					<h2>Courtney Kuesel</h2>
+					<p>Laboratory Manager</p>
+					<p><a class="btn btn-default" href="team/CourtneyKuesel">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->
 
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
@@ -58,6 +68,17 @@
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/walkerj.jpg" >
+					<h2>Jason Walker</h2>
+					<p>Post Doctoral Investigator</p>
+					<p><a class="btn btn-default" href="team/JasonWalker">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->
 
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
@@ -77,17 +98,6 @@
 					<h2>Lexi Cantu</h2>
 					<p>Undergraduate Research Assistant.</p>
 					<p><a class="btn btn-default" href="team/LexiCantu">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/carrollc.jpg" >
-					<h2>Corey Carroll</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/CoreyCarroll">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->					
@@ -158,6 +168,17 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->
 		
+		<div class="col-xs-12 col-sm-6 col-md-4">     
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/schwartzc.jpg" >
+					<h2>Cynthia Schwartz</h2>
+					<p>Medical Student Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/CynthiaSchwartz">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->
+		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
@@ -175,7 +196,7 @@
 					<img class="img-circle" src="img/team/trama.jpg" >
 					<h2>Archie Tram</h2>
 					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/ArchieTram" target="_blank">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/ArchieTram">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
