@@ -511,5 +511,21 @@ body {
 	.contact-form {
 		margin-top:70px;
 }
+	/* ----------- Alternate Picture ---------------------------- */
+	.alternate{
+	width:140px;
+	display: table;
+	margin: 0 auto;
+	}
+
+	.alternate img#alternate,
+	.alternate:active img#normal {
+			display: none;
+	}
+
+	.alternate img#normal,
+	.alternate:active  img#alternate {
+			display: block;
+	}
 
 }

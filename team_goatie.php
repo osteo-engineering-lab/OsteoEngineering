@@ -1,4 +1,4 @@
-<?php $thisPage="Current Team"; ?>
+<?php $thisPage="Special Current Team"; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -28,7 +28,10 @@
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/deand.jpg" >
+					<div class="alternate">
+						<img id="normal" class="img-circle" src="img/team/deand.jpg" >
+						<img id="alternate" class="img-circle" src="img/team/deandgoatie.jpg">
+					</div>
 					<h2>Dr. David Dean</h2>
 					<p>Primary Investigator</p>
 					<p><a class="btn btn-default" href="team/DavidDean">View details &raquo;</a></p>
