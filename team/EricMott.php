@@ -23,7 +23,7 @@
 	<div class="row">
 		
 		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/motte.jpg" alt="Eric Mott" />
+			<img src="../img/team/motte.jpg" alt="Eric Mott" style="max-width: 300px; height: auto; padding-bottom:0.5em"/>
 			<br>Email: Eric.Mott@osumc.edu
 		</div><!-- /.span -->
 		

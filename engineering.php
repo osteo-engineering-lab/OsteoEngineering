@@ -30,7 +30,13 @@
 				<h3>Material Chemical Resistances</h3>
 				<ul>
 					<li><a href="http://www.warco.com/pdf/Rubber-Elastomer-Chemical-Resistance-Guide-by-TLARGI-and-WARCO-BILTRITE.pdf" target="_blank">Elastomers [PDF]</a></li>
-				</ul>			 
+				</ul>	
+
+				<h3>Dynamic Mechanical Analysis (DMA)</h3>
+				<ul>
+					<li><a href="http://www.perkinelmer.com/CMSResources/Images/44-74546GDE_IntroductionToDMA.pdf" target="_blank">A Beginner’s Guide [PDF]</a></li>
+					<li><a href="http://depts.washington.edu/mseuser/Equipment/RefNotes/LinLiDma-SF.pdf" target="_blank">Basics and Beyond, Dr. Lin Li [PDF]</a></li>
+				</ul>	
 			</div><!-- /span -->
 		</div><!-- /.row -->
 

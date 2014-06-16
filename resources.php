@@ -26,6 +26,7 @@
 	<ul>
 		<li><a href="https://box.osu.edu/" target="_blank"> BuckeyeBox</a></li>
 		<li><a href="https://join.me" target="_blank"> Join.Me Screen Sharing and Conference Call Service</a></li>
+		<li><a href="http://www.ganttproject.biz/" target="_blank"> GanttProject Scheduling</a></li>
 		<li><a href="https://www.osumc.edu/applications/roomschedule/default.aspx" target="_blank"> Room Reservation in the BRT for Meetings (OSUMC account required)</a></li>
 		<li><a href="https://trello.com/" target="_blank"> Trello Organizer</a></li>
 		<li><a href="http://whenisgood.net" target="_blank"> Whenisgood.net for Scheduling Meeting Times</a></li>
