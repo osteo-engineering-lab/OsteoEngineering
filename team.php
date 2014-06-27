@@ -39,21 +39,21 @@
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/kueselc.jpg" >
-					<h2>Courtney Kuesel</h2>
-					<p>Laboratory Manager</p>
-					<p><a class="btn btn-default" href="team/CourtneyKuesel">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
 					<img class="img-circle" src="img/team/motte.jpg" >
 					<h2>Eric Mott</h2>
 					<p>Laboratory Manager</p>
 					<p><a class="btn btn-default" href="team/EricMott">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->	
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/kueselc.jpg" >
+					<h2>Courtney Kuesel</h2>
+					<p>Laboratory Manager</p>
+					<p><a class="btn btn-default" href="team/CourtneyKuesel">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->

@@ -30,22 +30,11 @@
 				<div class="col-xs-12">
 					<div class="alternate">
 						<img id="normal" class="img-circle" src="img/team/deand.jpg" >
-						<img id="alternate" class="img-circle" src="img/team/deandgoatie.jpg">
+						<img id="alternate" class="img-circle" src="img/team/deandgoatee.jpg">
 					</div>
 					<h2>Dr. David Dean</h2>
 					<p>Primary Investigator</p>
 					<p><a class="btn btn-default" href="team/DavidDean">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/kueselc.jpg" >
-					<h2>Courtney Kuesel</h2>
-					<p>Laboratory Manager</p>
-					<p><a class="btn btn-default" href="team/CourtneyKuesel">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
@@ -60,6 +49,17 @@
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/kueselc.jpg" >
+					<h2>Courtney Kuesel</h2>
+					<p>Laboratory Manager</p>
+					<p><a class="btn btn-default" href="team/CourtneyKuesel">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->		
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">

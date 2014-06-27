@@ -27,16 +27,22 @@
 			<div class="col-xs-12 col-md-8">
 				
 				<h2>Engineering</h2>
-				<h3>Material Chemical Resistances</h3>
-				<ul>
-					<li><a href="http://www.warco.com/pdf/Rubber-Elastomer-Chemical-Resistance-Guide-by-TLARGI-and-WARCO-BILTRITE.pdf" target="_blank">Elastomers [PDF]</a></li>
-				</ul>	
-
+				
 				<h3>Dynamic Mechanical Analysis (DMA)</h3>
 				<ul>
 					<li><a href="http://www.perkinelmer.com/CMSResources/Images/44-74546GDE_IntroductionToDMA.pdf" target="_blank">A Beginner’s Guide [PDF]</a></li>
 					<li><a href="http://depts.washington.edu/mseuser/Equipment/RefNotes/LinLiDma-SF.pdf" target="_blank">Basics and Beyond, Dr. Lin Li [PDF]</a></li>
 				</ul>	
+				
+				<h3>Material Chemical Resistances</h3>
+				<ul>
+					<li><a href="http://www.warco.com/pdf/Rubber-Elastomer-Chemical-Resistance-Guide-by-TLARGI-and-WARCO-BILTRITE.pdf" target="_blank">Elastomers [PDF]</a></li>
+				</ul>	
+				
+				<h3>Polymers for Medical Devices</h3>
+				<ul>
+					<li><a href="http://www.sciencedirect.com/science/book/9780323228053" target="_blank">Handbook of Polymer Applications in Medicine and Medical Devices</a></li>
+				</ul>					
 			</div><!-- /span -->
 		</div><!-- /.row -->
 
