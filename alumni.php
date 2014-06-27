@@ -122,10 +122,9 @@
 			<td><a href="alumni/AdahZhang">Adah Zhang</a></td>
 			<td>May 2013 - August 2013</td>
 		</tr> 
+		</tbody>
   </table>
 </div>
-
-<tr>
 	
 </div><!-- /.container -->
 	

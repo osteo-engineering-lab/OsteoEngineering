@@ -60,8 +60,7 @@
 					</div><!-- /.container -->
 				</div><!-- /.item -->
 
-
-				<!-- Item 2c -->
+				<!-- Item 2b -->
 				<div class="item">
 					<img alt="T2C regenerative medicine nbc nbc4" src="img/home/hero1c.png">
 					<div class="container">
@@ -69,13 +68,14 @@
 							
 							<h2>Feature: Ohio State Researchers Lead 3D Printing Movement.</h2>
 							<p>WCMH-TV/4</p>
-							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.nbc4i.com/story/25530228/ohio-state-researchers-lead-3d-printing-movement" role="button">Watch the News</a></p>
-						
+							<p><a target="_blank" class="btn btn-lg btn-primary" href="https://vimeo.com/99341505" role="button">Watch the Video</a>
+							<a target="_blank" class="btn btn-lg btn-primary" href="http://www.nbc4i.com/story/25530228/ohio-state-researchers-lead-3d-printing-movement" role="button">Read the News</a></p>
+													
 						</div><!-- /.carousel-caption -->
 					</div><!-- /.container -->
 				</div><!-- /.item -->
-
-				<!-- Item 2b -->
+				
+				<!-- Item 2c -->
 				<div class="item">
 					<img alt="T2C regenerative medicine nbc nbc4" src="img/home/hero1b.png">
 					<div class="container">
@@ -83,7 +83,8 @@
 							
 							<h2>Feature: Interview for nationwide conference on regenerative medicine.</h2>
 							<p>NBC4</p>
-							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.nbc4i.com/story/24968491/physicians-gather-in-columbus-for-nationwide-conference-on-regenerative-medicine" role="button">Watch Interview</a></p>
+							<p><a target="_blank" class="btn btn-lg btn-primary" href="https://vimeo.com/99341504" role="button">Watch the Video</a>
+							<a target="_blank" class="btn btn-lg btn-primary" href="http://www.nbc4i.com/story/24968491/physicians-gather-in-columbus-for-nationwide-conference-on-regenerative-medicine" role="button">Read the News</a></p>
 						
 						</div><!-- /.carousel-caption -->
 					</div><!-- /.container -->
@@ -95,9 +96,9 @@
 					<div class="container">
 						<div class="carousel-caption">
 							
-							<h2>Feature: 3-D printers help doctors custom-fit medical devices.</h2>
-							<p>The Plain Dealer</p>
-							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.cleveland.com/healthfit/index.ssf/2012/03/3-d_printers_help_doctors_cust.html" role="button">Learn More</a></p>
+							<h2>Feature: Advances in Stem Cell, Organ Printing, Tissue Engineering Changing Healthcare, Saving Lives</h2>
+							<p>Ohio State College of Medicine</p>
+							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.medicalcenter.osu.edu/mediaroom/releases/Pages/Advances-in-Stem-Cell,-Organ-Printing,-Tissue-Engineering-Changing-Healthcare,-Saving-Lives-.aspx#sthash.dxIIh6Bf.dpuf" role="button">Learn More</a></p>
 						
 						</div><!-- /.carousel-caption -->
 					</div><!-- /.container -->
