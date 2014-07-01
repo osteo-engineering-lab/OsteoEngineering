@@ -21,29 +21,6 @@
 	<!-- ======================================= Lab Essentials ======================================= -->
 	
 	<h3>Lab Essentials</h3>
-	
-	  <!-- Default panel contents -->
-	<div class="panel panel-default">
-	<div class="panel-heading">Phidget Readings</div>
-	<div class="panel-body">
-		<p>Real-time mass readings of PPF and other chemicals in the fridge</p>
-	</div>
-	<table class="table">
-		<thead>
-			<th>Time</th>
-			<th>Bridge0</th>
-			<th>Bridge1</th>
-		</thead>
-		<tbody>
-			<tr>
-				<td><div data-source="lightstreamer" data-grid="hellogrid" data-item="greetings" data-field="timestamp">loading...</div></td>
-				<td><div data-source="lightstreamer" data-grid="hellogrid" data-item="greetings" data-field="bridge0">loading...</div></td>
-				<td><div data-source="lightstreamer" data-grid="hellogrid" data-item="greetings" data-field="bridge1">loading...</div></td>
-			</tr>
-		</tbody>
-	</table>
-	</div>
-	
 	<ul>
 		<li><a href="https://box.osu.edu/" target="_blank"> BuckeyeBox</a></li>
 		<li><a href="https://join.me" target="_blank"> Join.Me Screen Sharing and Conference Call Service</a></li>
@@ -358,10 +335,11 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <?php include("includes/loadlast.php"); ?>
 
-      <script>
-      require(["LightstreamerClient","Subscription","StaticGrid"],function(LightstreamerClient,Subscription,StaticGrid) {
-        var client = new LightstreamerClient(null,"resources");
-        client.connect();
+    <script>
+		require(["LightstreamerClient", "StatusWidget","Subscription","StaticGrid"],function(LightstreamerClient, StatusWidget,Subscription,StaticGrid) {
+		var client = new LightstreamerClient("http://10.34.64.155:8080","HELLOWORLD");
+		client.addListener(new StatusWidget("left", "50%"));
+		client.connect();
          
         var grid = new StaticGrid("hellogrid",true);
         

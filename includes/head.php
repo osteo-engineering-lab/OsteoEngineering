@@ -27,12 +27,7 @@ echo "../"; ?>css/bootstrap.min.css" rel="stylesheet"/>
 <link href="<?php if ($sub==1) 
 echo "../"; ?>css/osteo.css" rel="stylesheet"/>
 
-<!-- LightStreamer for Real Time Posting -->
-<link href="<?php if ($sub==1) 
-echo "../"; ?>js/lightstreamer.js" rel="javascript"/>
-<link href="<?php if ($sub==1) 
-echo "../"; ?>http://cdnjs.cloudflare.com/ajax/libs/require.js/1.0.7/require.min.js" rel="javascript"/>
-
+<![endif]-->
 
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
