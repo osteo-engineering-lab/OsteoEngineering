@@ -131,17 +131,16 @@
 	
 	<h3>Laundry</h3>
 	<p>EHS guidelines mandate lab coats not be washed at home. Please use the current OSU contractor for lab coat cleaning:</p>
-	<strong>Impressed Dry Cleaning </strong>
+	<strong>Instructions: </strong>
 	<ul>
-		<li>Contact: Vita Parker - at the store</li>
-		<li>Phone: 614-855-8847</li>
-		<li>Coats are picked up by Ron Williams Mon, Wed &amp; Friday. Turnaround time is 2 business days.</li>
-		<li>For pick up call Ron's cell at (740)919-1590.</li>
-		<li>Cost: $3/each.</li>
-		<li>Payment: PO or credit card.</li>
+		<li>Collect all lab coats in need of cleaning and place in the red bag that is hanging with the coats in the lab.</li>
+		<li>Take coats to the lab coat cleaning service, located on the 5th floor of Rhodes Hall.</li>
+		<p>Directions:  From the BRT, take 12th down to the medical center entrance as if you’re going to Wendy’s.  From Wendy’s, turn right, and take the elevators to the 2nd floor. Once off the elevators, if looking at the Walgreens pharmacy, turn right and follow the hallway down until you see an opening on the left (lobby of Rhodes Hall).  Continue towards the front of the lobby to the elevators that are just past the gift shop to the right. Take these elevators to the 5th floor.  Exit the elevator (you can only exit in one direction).  There will be a sign for the “atrium”—do not go towards the atrium, but instead go the other way.  Follow this hallway and at the end you will see a set of double doors on the left (you are essentially going to a hallway behind the elevators).  Go through the double doors and there will be a small window/booth at the end of the hall where you can drop the coats off.</p>
+		<li>Take all coats out of the red bag and be sure to get the bag back.  If you leave the bag, they don’t guarantee that you will get it back.</li>
+		<li>You will be asked to fill out a separate slip for each coat that has a different name embroidered on it.  Note any stains or areas in need of attention on each specific coat.</li>
+		<li>Make sure you put a phone number on each slip that you fill out.  When the coats are ready, they will call you and tell you to come pick them up.  The coats are sent out to a cleaning facility, and it may take 1-2 weeks.</li>
+		
 	</ul>
-	<p>Note: He will stop at Graves, Rightmire Hall or the BRT for pick up.</p>
-
 	
 	<hr />
 	

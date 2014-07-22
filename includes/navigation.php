@@ -61,6 +61,9 @@ echo "../"; ?>resources">Resources</a></li>
 						<li><a target="_blank" href="http://medicine.osu.edu/REGENERATIVEMEDICINE/Pages/index.aspx">Center for Regenerative Medicine and Cell-Based Therapies</a></li>
 					  </ul>
                 </li>
+                <li<?php if ($thisPage=="Media") 
+echo " class=\"active\""; ?>><a href="http://osteoengineering.com/Media">Media</a></li>
+
                 <li<?php if ($thisPage=="Contact") 
 echo " class=\"active\""; ?>><a href="http://osteoengineering.com/contact">Contact Us</a></li>
               </ul>
