@@ -62,7 +62,7 @@ echo "../"; ?>resources">Resources</a></li>
 					  </ul>
                 </li>
                 <li<?php if ($thisPage=="Media") 
-echo " class=\"active\""; ?>><a href="http://osteoengineering.com/Media">Media</a></li>
+echo " class=\"active\""; ?>><a href="http://osteoengineering.com/media">Media</a></li>
 
                 <li<?php if ($thisPage=="Contact") 
 echo " class=\"active\""; ?>><a href="http://osteoengineering.com/contact">Contact Us</a></li>
