@@ -11,10 +11,6 @@ echo "../"; ?>img/logos/logo.png" /></a>
             	<a title="Wexner Medical Center" href="http://medicalcenter.osu.edu/Pages/index.aspx"><img class="img-responsive" alt="Wexner-Medical-Center" src="<?php if ($sub==1) 
 echo "../"; ?>img/logos/wmc_logo.png" /></a>	            
 			</div><!-- /span -->
-			<div class="col-xs-12">
-            	<a title="Wexner Medical Center" href="http://lightstreamer.com"><img class="img-responsive" alt="LightStreamer" src="<?php if ($sub==1) 
-echo "../"; ?>img/logos/lightstreamer_logo.png" /></a>	            
-			</div><!-- /span -->
 			</div><!-- /.row -->
 			</div><!-- /span -->
 			

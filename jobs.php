@@ -26,26 +26,25 @@
 	 <div class="col-md-12">
 	 <h2>Job Openings</h2>
 		<h3>Recruitment Presentation</h3>
-		<iframe src="//player.vimeo.com/video/94224626?color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<div class="video-container">
+			<iframe src="//player.vimeo.com/video/94224626?color=ffffff" height="100%" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		</div>
+		</div>
 	</div>
-	  
-	<div class="row"><!--space holder -->
-		<div class="col-xs-12"> 
 	
-		</div><!-- /span -->
-	</div><!-- /.row --> 
-	
-	
+	<br>
     <hr class="featurette-divider">
+	<div class="row featurette">
         <div class="col-md-8">
-          <h1>Postdoctoral Researcher<br> or Graduate Research Assistant. <br><span class="text-muted">Resorbable Polymers for Scaffolds Investigation</span></h1>
-          <p>Position available June 1, 2014 in the Department of Plastic Surgery to INVESTIGATE AND DEVELOP RESORBABLE POLYMERS FOR THE 3D PRINTING OF SCAFFOLDS FOR CRANIAL (BONE) REPAIR AND REGENERATION. This individual is expected to have strong interest in, and experience relevant to, bioresorbable polymer synthesis, characterization, and light-based polymerization chemistry. Experience with mechanical material testing, bone tissue engineering, and resorbable implant materials is also desirable.</p>
+          <h1>POSTDOCTORAL RESEARCHER. <br><span class="text-muted">BONE TISSUE ENGINEERING</span></h1>
+          <p>Postdoctoral Researcher position available July 1, 2015 in the Osteo Engineering Laboratory, Department of Plastic Surgery to STUDY POLYMER- AND CERAMIC-BASED TISSUE ENGINEERING SCAFFOLDS for craniofacial (bone) repair and regeneration. This individual is expected to have experience and strong interest in reconstructive craniofacial surgery and must have preclinical research training and experience involving: animal model surgery, bone marrow aspiration, cell culture, and preparation of histology relevant to bone tissue engineering. Experience with 3D printing, polymer scaffolds, ceramic scaffolds, clinical imaging, biomechanical material testing, and resorbable implant materials is also desirable. Candidates should send a letter of interest and curriculum vitae and have three letters of recommendation sent to David Dean, Ph.D., Department of Plastic Surgery, The Ohio State University, 460 West 12th Ave., 10th Floor, Rm. 1004, Columbus, OH  43210 USA. Fax:(614) 688-2195; E-mail: David.Dean@osumc.edu. In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
         </div>
-        <div class="col-md-4 col-xs-12 pull-left">
+        <div class="col-md-4 col-xs-12 pull-right">
           <img class="featurette-image img-responsive" src="img/jobs/scaffold.jpg" style="max-width: 350px; height: auto;">
         </div>
       </div>
 
+	  <br>
       <hr class="featurette-divider">
 
       <div class="row featurette">
@@ -53,24 +52,11 @@
           <img class="featurette-image img-responsive" src="img/jobs/skull.png" style="max-width: 350px; height: auto;">
         </div>
         <div class="col-md-8">
-          <h1>Postdoctoral Researcher<br> or Graduate Research Assistant. <br><span class="text-muted">Medical Image Data Investigation.</span></h1>
-          <p>Position available June 1, 2014 in the Department of Plastic Surgery to INVESTIGATE THE USE OF MEDICAL IMAGE DATA FOR THE DESIGN AND 3D PRINTING FABRICATION OF PATIENT-SPECIFIC CRANIAL AND FACIAL BONE TISSUE ENGINEERED IMPLANTS. This individual is expected to have strong interest in, and experience relevant to, medical imaging, computer graphics, computer programming, and biomechanics. Experience with visual programming, finite element analysis, 3D printing, and tissue engineering is also desirable.</p>
+          <h1>Postdoctoral Researcher<br> or Graduate Research Assistant. <br><span class="text-muted">RESORBABLE POLYMER SYNTHESIS.</span></h1>
+          <p>Graduate Research Assistant or Postdoctoral Researcher position available June 1, 2015 in the Osteo Engineering Lab of the Department of Plastic Surgery to DESIGN AND SYNTHESIZE 3D PRINTABLE RESORBABLE POLYMERS FOR THE 3D PRINTING OF SCAFFOLDS FOR BONE TISSUE ENGINEERING. This individual is expected to have strong interest in, and training and experience relevant to, bioresorbable polymer: synthesis, characterization, and light-based photocrosslinking chemistry. Experience with 3D printing, cytyotoxicity testing, mechanical material testing, bone tissue engineering, and resorbable implant materials is also desirable. Candidates should send a letter of interest and curriculum vitae and three letters of recommendation to David Dean, Ph.D., Department of Plastic Surgery, The Ohio State University, 460 West 12th Ave., 10th Floor, Rm. 1004, Columbus, OH  43210 USA. Fax:(614) 688-2195; E-mail: David.Dean@osumc.edu. In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
         </div>
       </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-8">
-          <h1>Research Associate I-B/H <br><span class="text-muted">Lab management.</span></h1>
-          <p>Position available immediately in the Department of Plastic Surgery to plan, design, and control research projects investigating BONE TISSUE ENGINEERING AND 3D PRINTING. This individual is expected to recruit and lead teams of undergraduate Research Assistants in collaboration with Graduate Assistants, Postdoctoral Researchers, and Faculty. These teams will accomplish the development and implementation of new and/or revised research methodologies and protocols including criteria for evaluating controls, test samples and performance standards; designs and executes complex laboratory experiments; performs advanced techniques and experiments to understand PRODUCTION AND PERFORMANCE OF TISSUE ENGINEERING CONSTRUCTS; reviews protocols; compiles, analyzes and interprets technical data and results for research papers, manuscripts, reports, proposals and/or presentations; maintains integrity of data; collaborates with PI to write manuscripts, research papers and abstracts for publication and presentation at workshops and conferences; attends and presents at scientific meetings; performs critical analyses of literature relevant to research undertaken; supervises graduate and undergraduate students in the laboratory; prioritizes lab workload and implements measures to ensure goals are met; maintains lab safety; assists with maintenance of equipment, lab inventory and overall lab organization; handles the purchasing of laboratory materials and supplies.</p>
-        </div>
-        <div class="col-md-4 col-xs-12 pull-left">
-          <img class="featurette-image img-responsive" src="img/jobs/lab_management.jpg" style="max-width: 350px; height: auto;">
-        </div>
-      </div>
-
-
+	  
 	</div><!-- /.container -->
 	
 	   

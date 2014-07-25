@@ -27,13 +27,12 @@
 				<li data-target="#myCarousel" data-slide-to="1"></li>
 				<li data-target="#myCarousel" data-slide-to="2"></li>
 				<li data-target="#myCarousel" data-slide-to="3"></li>
-				<li data-target="#myCarousel" data-slide-to="4"></li>
-				<li data-target="#myCarousel" data-slide-to="5"></li>
+
 			</ol>
 			
 			<div class="carousel-inner">
 
-				<!-- Item 1 -->
+				<!-- Item 0 -->
 				<div class="item active">
 					<img alt="Osteo Engineering Team" src="img/home/hero0.jpg">
 					<div class="container">
@@ -46,7 +45,7 @@
 					</div><!-- /.container -->
 				</div><!-- /.item -->
 
-				<!-- Item 2 -->
+				<!-- Item 1 -->
 				<div class="item">
 					<img alt="Osteo Engineering Team" src="img/home/hero1.jpg">
 					<div class="container">
@@ -60,9 +59,9 @@
 					</div><!-- /.container -->
 				</div><!-- /.item -->
 
-				<!-- Item 2b -->
+				<!-- Item 2 -->
 				<div class="item">
-					<img alt="T2C regenerative medicine nbc nbc4" src="img/home/hero1c.png">
+					<img alt="T2C regenerative medicine nbc nbc4" src="img/home/hero2.png">
 					<div class="container">
 						<div class="carousel-caption">
 							
@@ -75,9 +74,9 @@
 					</div><!-- /.container -->
 				</div><!-- /.item -->
 				
-				<!-- Item 2c -->
+				<!-- Item 3 -->
 				<div class="item">
-					<img alt="T2C regenerative medicine nbc nbc4" src="img/home/hero1b.png">
+					<img alt="T2C regenerative medicine nbc nbc4" src="img/home/hero3.png">
 					<div class="container">
 						<div class="carousel-caption">
 							
@@ -85,34 +84,6 @@
 							<p>NBC4</p>
 							<p><a target="_blank" class="btn btn-lg btn-primary" href="https://vimeo.com/99341504" role="button">Watch the Video</a>
 							<a target="_blank" class="btn btn-lg btn-primary" href="http://www.nbc4i.com/story/24968491/physicians-gather-in-columbus-for-nationwide-conference-on-regenerative-medicine" role="button">Read the News</a></p>
-						
-						</div><!-- /.carousel-caption -->
-					</div><!-- /.container -->
-				</div><!-- /.item -->
-				
-				<!-- Item 3 -->
-				<div class="item">
-					<img alt="TiO2 Irgacure 819 PPF Scaffolds" src="img/home/hero2.jpg">
-					<div class="container">
-						<div class="carousel-caption">
-							
-							<h2>Feature: Advances in Stem Cell, Organ Printing, Tissue Engineering Changing Healthcare, Saving Lives</h2>
-							<p>Ohio State College of Medicine</p>
-							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.medicalcenter.osu.edu/mediaroom/releases/Pages/Advances-in-Stem-Cell,-Organ-Printing,-Tissue-Engineering-Changing-Healthcare,-Saving-Lives-.aspx#sthash.dxIIh6Bf.dpuf" role="button">Learn More</a></p>
-						
-						</div><!-- /.carousel-caption -->
-					</div><!-- /.container -->
-				</div><!-- /.item -->
-
-				<!-- Item 4 -->
-				<div class="item">
-					<img alt="Irgacure 784 Irgacure 819 PPF Scaffolds" src="img/home/hero3.jpg">
-					<div class="container">
-						<div class="carousel-caption">
-							
-							<h2>Feature: Growing our cures cell by cell in the lab</h2>
-							<p>The Columbus Dispatch</p>
-							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://www.dispatch.com/content/stories/science/2013/11/17/1-growing-our-cures-cell-by-cell-in-the-lab.html" role="button">Learn More</a></p>
 						
 						</div><!-- /.carousel-caption -->
 					</div><!-- /.container -->
