@@ -24,6 +24,12 @@
 		<div class="col-xs-12">
 			<h1>Meet the Team</h1>
 		</div>	
+
+<!-- ================================================================================= -->
+<!-- ============================ TEAM MEMBERS ======================================= -->
+<!-- ================================================================================= -->
+		
+		<!-- ==================== David Dean ========================================= -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
@@ -36,41 +42,33 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->
 		
-
-
+		<!-- ==================== Eric Mott ========================================== -->
+		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
 					<img class="img-circle" src="img/team/motte.jpg" >
 					<h2>Eric Mott</h2>
-<<<<<<< HEAD
 					<p>Lab Operations Manager</p>
 					<p><a class="btn btn-default" href="team/EricMott">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
-=======
-					<p>Laboratory Manager</p>
-					<p><a class="btn btn-default" href="team/EricMott">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->	
->>>>>>> archietram-master
+		
+		<!-- ==================== Courtney Kuesel ==================================== -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
 					<img class="img-circle" src="img/team/kueselc.jpg" >
 					<h2>Courtney Kuesel</h2>
-<<<<<<< HEAD
 					<p>Research Associate</p>
-=======
-					<p>Laboratory Manager</p>
->>>>>>> archietram-master
 					<p><a class="btn btn-default" href="team/CourtneyKuesel">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
+		
+		<!-- ==================== Ruchi Mishra ======================================= -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
@@ -83,6 +81,8 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->
 		
+		<!-- ==================== Jason Walker ======================================= -->
+		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
@@ -93,6 +93,8 @@
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
+
+		<!-- ==================== Tyler Bishop  ====================================== -->
 
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
@@ -105,6 +107,8 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->	
 		
+		<!-- ==================== Alexis Cantu ======================================= -->
+		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
@@ -115,6 +119,8 @@
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->					
+		
+		<!-- ==================== Daniel Cleveland =================================== -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
@@ -127,6 +133,8 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->	
 
+		<!-- ==================== Rachel Fishbein ==================================== -->
+
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
@@ -137,6 +145,8 @@
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
+		
+		<!-- ==================== Tyler Meder ======================================== -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
@@ -149,6 +159,8 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->
 		
+		<!-- ==================== Megan Posukonis ==================================== -->
+		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
@@ -159,6 +171,8 @@
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
+		
+		<!-- ==================== Ryan Sefcik  ======================================= -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
@@ -171,6 +185,8 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->
 		
+		<!-- ==================== Marissa Schroeder ================================== -->
+		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
@@ -181,6 +197,8 @@
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
+		
+		<!-- ==================== Cynthia Schwartz =================================== -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">     
 			<div class="row team">
@@ -193,6 +211,8 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->
 		
+		<!-- ==================== Briana Swan ======================================== -->
+		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
@@ -203,6 +223,8 @@
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
+		
+		<!-- ==================== Nyugen Tram ======================================== -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">     
 			<div class="row team">
@@ -215,6 +237,9 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->
 		
+<!-- ================================================================================= -->
+<!-- ================================================================================= -->
+		
 	</div><!-- /.row -->
 </div><!-- /.container -->
 	
@@ -222,8 +247,10 @@
 
 </div><!-- /.wrap -->
 
-       <!-- Footer
-    ================================================== --> 
+<!-- =============================================================================================================== -->
+<!-- ============================== Footer ========================================================================= --> 
+<!-- =============================================================================================================== -->
+      
       <?php include("includes/footer.php"); ?>
 	
     <!-- Bootstrap core JavaScript
