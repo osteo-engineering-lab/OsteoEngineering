@@ -200,8 +200,8 @@
 		</li>
 		<li><a href="http://mse.osu.edu/research/facilities#Mechanical_Testing_and_Forming" target="_blank">Mechanical Testing Facility (MTF) (Large Load Compression and Tensile Testing)</a>
 			<ul>
+				<li>Primary Contact: <a href="mailto:baldwin.130@osu.edu">Ross Baldwin</a> | Office: 614-688-3487 | Cell: 614-832-9424 | Fax: (614)292-4668</li>
 				<li>Contact: <a href="mailto:kushner.8@osu.edu">Ken Kushner, MSE Laboratory and Facility Manager</a> | 614-292-7128</li>
-				<li>Training: <a href="mailto:baldwin.130@osu.edu">Ross Baldwin</a></li>
 				<li>Location: <a href="http://www.osu.edu/map/building.php?building=151" target="_blank">Fontana Laboratories</a> High Bay, 116 W Nineteenth Ave, Columbus, OH 43210 </li>
 			</ul>
 		</li>
@@ -238,6 +238,21 @@
 		<li><a href="https://osu.box.com/s/bpbt6uup6pebreh67e7v" target="_blank"> Recruitment Form (BuckeyeBox account required)</a></li>
 	</ul>
 	<hr />
+	
+			<!-- ======================================= Shipping ======================================= -->
+	
+	<h3>Shipping Details</h3>
+	<ul>
+		<li>Biomedical Research Tower</a></li>
+		<ul>
+			<li>460 West 12th Ave., Rm. 1004</li>
+			<li>Columbus, OH  43210 USA</li>
+			<li>Phone: 614-688-9044</li>
+			<li>Fax: 614-688-2195</li>
+		</ul>
+	</ul>
+	<hr />
+	
 	
 		<!-- ======================================= Software ======================================= -->
 	
