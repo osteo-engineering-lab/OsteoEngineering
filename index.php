@@ -27,6 +27,7 @@
 				<li data-target="#myCarousel" data-slide-to="1"></li>
 				<li data-target="#myCarousel" data-slide-to="2"></li>
 				<li data-target="#myCarousel" data-slide-to="3"></li>
+				<li data-target="#myCarousel" data-slide-to="4"></li>
 
 			</ol>
 			
@@ -89,6 +90,20 @@
 					</div><!-- /.container -->
 				</div><!-- /.item -->
 
+				<!-- Item 4 -->
+				<div class="item">
+					<img alt="How 3-D Printing Will Revolutionize Prosthetics" src="img/home/hero4.jpg">
+					<div class="container">
+						<div class="carousel-caption">
+							
+							<h2>Feature: How 3-D Printing Will Revolutionize Prosthetics.</h2>
+							<p>USNews</p>
+							<p><a target="_blank" class="btn btn-lg btn-primary" href="http://health.usnews.com/health-news/health-wellness/articles/2014/07/16/how-3-d-printing-will-revolutionize-prosthetics?int=98e708" role="button">Read the News</a></p>
+						
+						</div><!-- /.carousel-caption -->
+					</div><!-- /.container -->
+				</div><!-- /.item -->
+				
 			</div><!-- /.carousel-inner -->
 			
 			<!-- Carousel controls -->
