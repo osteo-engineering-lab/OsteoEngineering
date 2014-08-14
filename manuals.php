@@ -34,7 +34,10 @@
     </div>
     <div id="collapseOne" class="panel-collapse collapse">
       <div class="panel-body">
-		<a href="https://physics.ucsd.edu/neurophysics/Manuals/Nikon/Diaphot-TMD.pdf" target="_blank">Inverted Microscope DIAPHOT-TMD</a>
+		<a href="/downloads/resources/Diaphot-TMD.pdf" target="_blank">Inverted Microscope DIAPHOT-TMD</a>
+      </div>
+	  <div class="panel-body">
+		<a href="/downloads/resources/Nikon_Epi-Fluorescence_Attachment_TMD-EF_for_Inverted_Microscope_DIAPHOT-TMD.pdf" target="_blank">EPI-Fluorescence Attachment "TMD-EF" for Inverted Microscope DIAPHOT-TMD</a>
       </div>
     </div>
   </div>

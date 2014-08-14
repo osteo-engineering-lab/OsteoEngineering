@@ -34,13 +34,13 @@
 			<br>
 			<h4>Recent Publications</h4>
 			<ul>
-			<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/19588233"><strong>Ruchi Mishra</strong>, Bikramjit Basu and Ashok Kumar (2009)
-			Physical and cytocompatibility properties of bioactive glass-polyvinyl alcohol-sodium alginate biocomposite foams prepared via sol-gel processing for trabecular bone regeneration. Journal of Materials Science: Materials in Medicine 20 (12), 2493-2500 </a></li>
-			<li><a href="http://www.sciencedirect.com/science/article/pii/S1369702110702029">shok Kumar, <strong>Ruchi Mishra</strong>, Yvonne Reinwald and Sumrita Bhat (2010). Cryogels: Freezing unveiled by thawing. Materials Today 13 (11), 42-44</a></li>
-			<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/21067655"><strong>Ruchi Mishra</strong> and Ashok Kumar (2011)
-			Inorganic/organic biocomposite cryogels for regeneration of bony tissues. Journal of Biomaterial Science: Polymer Edition 22 (16), 2107-2126</a></li>
-			<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/24147880"><strong>Ruchi Mishra</strong>, Sudhir Kumar Goel, Kailash Chand Gupta and Ashok Kumar (2013)
-			Biocomposite Cryogels as Tissue-Engineered Biomaterials for Regeneration of Critical-Sized Cranial Bone Defects. Tissue Engineering Part A (DOI: 10.1089/ten.tea.2013.0072)</a></li>
+			<li>R. Mishra and A. Kumar. (2014) Effect of plasma polymerized allylamine modification on physico-chemical properties and behaviour of human osteoblasts on biocomposite cryogels. Journal of Colloid and Interface Science. 431:139-148</li>
+			<li>R. Mishra, Dr. S. K. Goel, Dr. K. C. Gupta and A. Kumar. (2014) PTAC biocomposite cryogels as bone tissue engineered biomaterial for in-vivo regeneration of critical-sized cranial bone defects. Tissue Engineering Part A. 20:751-62</li>
+			<li>R. Mishra and A. Kumar. (2014) Osteocompatibility and osteoinductive potential of supermacroporous polyvinyl alcohol-TEOS-agarose-CaCl2 (PTAgC) biocomposite cryogels. Journal of Materials Science: Materials in Medicine. 25:1327-37</li>
+			<li>R. Mishra and A. Kumar. (2014) Polymeric biomaterials for bone tissue engineering. Encyclopedia of Biomedical Polymers and Polymeric Biomaterials, Taylor & Francis, DOI: 10.1081/E-EBPP-120050565</li>
+			<li>R. Mishra and A. Kumar. (2011) Inorganic-Organic Biocomposite Cryogels for Regeneration of Bony Tissues. Journal of Biomaterials Science, Polymer Edition. 22:2107–126</li>
+			<li>A. Kumar, R. Mishra, Y. Reinwald, S. Bhat. (2010) CRYOGELS: Freezing Unveiled by Thawing. Materials Today. 13:42-4</li>
+			<li>R. Mishra, B. Basu and A. Kumar. (2009) Physical and cytocompatibility properties of bioactive glass-polyvinyl alcohol-sodium alginate biocomposite foams prepared via sol–gel processing for trabecular bone regeneration. Journal of Materials Science: Materials in Medicine. 20:2493-500</li>
 			</ul>
 
 		</div><!-- /.span -->
