@@ -87,6 +87,19 @@
 	</ul>
 	<hr />
 	
+		<!-- ======================================= Fluorescence ======================================= -->
+	
+	<h3>Fluorescence</h3>
+	<ul>
+		<li>Filter
+			<ul>
+				<li><a href="/downloads/resources/Fluorescence_Filter_Blocks.pdf" target="_blank"> Fluorescence Filter Blocks</a></li>
+				<br>
+			</ul>
+		</li>
+	</ul
+	<hr />
+	
 	<!-- ======================================= Imaging ======================================= -->
 	
 	<h3>Imaging</h3>
@@ -101,6 +114,7 @@
 				<li><a href="http://bme.osu.edu/people/hart.322 " target="_blank"> Skyscan MicroCT in 386 Bevis Hall , 1080 Carmack Rd, Columbus, OH 43210</a> | Contact Dr. Richard Hart (hart.322@osu.edu) | Capabilities: mCT.</li>
 					<ul>
 						<li>The Skyscan in Dr. Hart's lab is 150 hours and has a 90 minutes warmup time</li>
+						<li>On phantom: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2673671/" target="_blank"> A low-cost density reference phantom for computed tomography.</a></li>
 					</ul>
 			</ul>
 		</li>
@@ -263,6 +277,12 @@
 			<li>Do not install it to a system folder such as c:\Program Files. Instead, install to a local directory.</a></li>
 		</ul>
 	</ul>
+	<ul>
+		<li>Magics</li>
+		<ul>
+			<li>Contact: wbrady@sibcoinc.com</a></li>
+		</ul>
+	</ul>
 	<hr />
 	
 	<!-- ======================================= Supplies ======================================= -->
@@ -301,6 +321,15 @@
 	<p>Before you leave and for any other types of leave, you must submit the following leave form signed by you and Dr. Dean to <a href="mailto:jason.canham@osumc.edu">Jason Canham</a>:</p>
 	<ul>
 		<li><a href="http://hr.osu.edu/public/documents/forms/appleave.pdf" target="_blank">Form 5171-A [PDF]</a> (<a href="/downloads/resources/form-5171-A-rev-11-10.pdf">Alternate Download</a>)</li>
+	</ul>
+	
+	<hr />
+	
+		<!-- ======================================= Travel and Reimbursements ======================================= -->
+	
+	<h3>Travel and Reimbursements</h3>
+	<ul>
+		<li>Send Invoice to <a href="Rich.Scharschmidt@osumc.edu">Rich Scharschmidt</a></li>
 	</ul>
 	
 	<hr />
