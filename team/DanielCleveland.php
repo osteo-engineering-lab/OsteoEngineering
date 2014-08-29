@@ -1,4 +1,4 @@
-<?php $thisPage="Daniel Cleveland"; $sub=1; ?>
+<?php $thisPage="Daniel Cleveland"; $sub=1; $dot="dmc86" ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -60,22 +60,6 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
     <script src="../js/holder.js"></script>
-    <script type="text/javascript" src="../js/instafeed.min.js"></script>
-  	<script type="text/javascript">
-		var feed = new Instafeed({
-			limit: 60,
-			resolution: 'standard_resolution',
-			get: 'user',
-			userId: 819085045,
-			filter: function(image) {return image.tags.indexOf('dmc86') >= 0;},
-			accessToken: '819085045.467ede5.00775a54fc3d4f218b7f637ea3d8d24d',
-			template: '<div class="col-xs-6 col-sm-2 col-md-2 insta"><a href="{{link}}"><img class="img-responsive" src="{{image}}" /></a></div>'
-		});
-		feed.run();
-		feed.next();
-		feed.next();
-		feed.next();
-		feed.next();
-	</script>
+  	<?php include("../includes/teamjs.php"); ?>
 
 </body></html>

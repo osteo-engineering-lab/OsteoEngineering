@@ -1,4 +1,4 @@
-<?php $thisPage="Courtney Kuesel"; $sub=1; ?>
+<?php $thisPage="Courtney Kuesel"; $sub=1; $dot="cmk1"; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -39,6 +39,14 @@
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	
+	<div class="row">
+		<div class="col-xs-12">
+
+			<div id="instafeed" class="row"></div><!-- /.row -->
+		
+		</div><!-- /span -->
+	</div><!-- /.row -->
+	
 </div><!-- /.container -->
 	
 	   
@@ -55,6 +63,6 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
     <script src="../js/holder.js"></script>
-  
+  	<?php include("../includes/teamjs.php"); ?>
 
 </body></html>
