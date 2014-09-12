@@ -82,7 +82,7 @@
 	<h3>Data</h3>
 	<ul>
 		<li>Accessing De-identified Clinical Records/Patient Records: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815386/" target="_blank"> OSUMC's Honest Broker Program</a></li>
-		<img src="img/resources/patient-records-access.png" class="container-fluid" alt="Patient Records Access">
+		<img src="img/resources/patient-records-access.png" class="img-responsive" alt="Patient Records Access">
 		<br>
 	</ul>
 	<hr />
