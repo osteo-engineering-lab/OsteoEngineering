@@ -46,6 +46,14 @@
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	
+	<div class="row">
+		<div class="col-xs-12">
+
+			<div id="instafeed" class="row"></div><!-- /.row -->
+		
+		</div><!-- /span -->
+	</div><!-- /.row -->
+	
 </div><!-- /.container -->
 	
 	   
