@@ -1,4 +1,4 @@
-<?php $thisPage="Ruchi Mishra"; $sub=1; ?>
+<?php $thisPage="Ruchi Mishra"; $sub=1; $dot="rxm106"?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -62,6 +62,6 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
     <script src="../js/holder.js"></script>
-  
+    <?php include("../includes/teamjs.php"); ?>
 
 </body></html>
