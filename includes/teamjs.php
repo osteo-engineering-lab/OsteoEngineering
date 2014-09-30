@@ -1,7 +1,7 @@
 <script type="text/javascript" src="../js/instafeed.min.js"></script>
 <script type="text/javascript">
 	var foundImages = 0;
-	var maxImages = 6;
+	var maxImages = 12;
 	
 	var feed = new Instafeed({
 		limit: -1,
