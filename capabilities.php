@@ -56,6 +56,16 @@
 			<h2 class="story-heading">Profusion bioreactors. <span class="text-muted"><em>In vitro</em> just got a whole lot more <em>in vivo.</em></span></h2>
 			<p class="lead">We're still writing! Check back later for more of the story.</p>
 		</div>
+		
+		<!-- =============================== Capability 3 =============================== -->
+
+		<hr class="story-divider">
+
+		<div class="story">
+			<img class="story-image pull-right col-xs-12 col-sm-4 col-lg-4" src="img/capabilities/capability-04.gif" alt="Triply periodic minimal surface scaffold">
+			<h2 class="story-heading">Scaffold design.<span class="text-muted">Triply periodic minimal surfaces.</span></h2>
+			<p class="lead">We're still writing! Check back later for more of the story.</p>
+		</div>
 	
 </div><!-- /.container -->
 	
