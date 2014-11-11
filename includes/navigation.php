@@ -32,6 +32,9 @@ echo "../"; ?>capabilities">Capabilities</a></li>
 						<li<?php if ($thisPage=="Active Research") 
 echo " class=\"active\""; ?>><a href="<?php if ($sub==1) 
 echo "../"; ?>research">Active Research</a></li>
+						<li<?php if ($thisPage=="Presentations") 
+echo " class=\"active\""; ?>><a href="<?php if ($sub==1) 
+echo "../"; ?>presentations">Presentations</a></li>
 						<li<?php if ($thisPage=="Publications") 
 echo " class=\"active\""; ?>><a href="<?php if ($sub==1) 
 echo "../"; ?>publications">Publications</a></li>
