@@ -141,6 +141,14 @@
 	<hr />
 	
 	
+			<!-- ======================================= Literature Research ======================================= -->
+	
+	<h3>Literature Research</h3>
+	<ul>
+		<li><a href="http://library.osu.edu/find/borrowing-and-lending/interlibrary-services/" target="_blank"> Borrowing Periodicals Outside of OSU</a></li>
+	</ul>
+	<hr />
+	
 	<!-- ======================================= Laundry ======================================= -->
 	
 	<h3>Laundry</h3>
@@ -282,6 +290,14 @@
 		<ul>
 			<li>Contact: wbrady@sibcoinc.com</a></li>
 		</ul>
+	</ul>
+	<hr />
+	
+			<!-- ======================================= Standards ======================================= -->
+	
+	<h3>Standards</h3>
+	<ul>
+		<li><a href="http://bit.ly/YDc9if" target="_blank"> ASTM and ISO</a></li>
 	</ul>
 	<hr />
 	
