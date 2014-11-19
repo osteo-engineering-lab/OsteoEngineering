@@ -66,6 +66,35 @@
 			<h2 class="story-heading">Scaffold design.<span class="text-muted">Triply periodic minimal surfaces.</span></h2>
 			<p class="lead">We're still writing! Check back later for more of the story.</p>
 		</div>
+		
+		<!-- =============================== Capability 4 =============================== -->
+
+		<hr class="story-divider">
+
+		<div class="story">
+			<img class="story-image pull-left col-xs-12 col-sm-4 col-lg-4" src="img/capabilities/capability-05.jpg" alt="atp assay mesenchymal stem cells">
+			<h2 class="story-heading">ATP Assay. <span class="text-muted">If there's a cell, we'll find it.</span></h2>
+			<p class="lead">We're still writing! Check back later for more of the story.</p>
+			<h4>Relevant Literature</h4>
+			<ul>
+				<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK144065/">Cell viability assays.</a></li>
+				<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/7762413">Comparison of MTT and ATP-Based Assays for the Measurement of Viable Cell Number.</a></li>
+				<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/7680699">The use of ATP bioluminescence as a measure of cell proliferation and cytotoxicity.</a></li>
+				<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/16318872">Three-dimensional growth and function of neural tissue in degradable polyethylene glycol hydrogels.</a></li>
+				<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/17868648">Effects of high glucose on mesenchymal stem cell proliferation and differentiation.</a></li>
+				<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/18218821">Coordinated changes of mitochondrial biogenesis and antioxidant enzymes during osteogenic differentiation of human mesenchymal stem cells.</a></li>
+			</ul>
+		</div>
+		
+		<!-- =============================== Capability 5 =============================== -->
+
+		<hr class="story-divider">
+
+		<div class="story">
+			<img class="story-image pull-right col-xs-12 col-sm-6 col-lg-6" src="img/capabilities/capability-06.jpg" alt="inverted phase contrast microscopy">
+			<h2 class="story-heading">Fluorescence and Phase Contrast Microscopy. <span class="text-muted">Two imaging techniques, one scope.</span></h2>
+			<p class="lead">We're still writing! Check back later for more of the story.</p>
+		</div>
 	
 </div><!-- /.container -->
 	

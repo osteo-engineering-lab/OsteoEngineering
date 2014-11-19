@@ -190,12 +190,29 @@
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/schroederm.jpg" >
+					<!-- Carousel
+					================================================== -->
+					<div id="myCarousel" class="carousel slide team-carousel" data-interval="8000">
+						<div class="carousel-inner img-circle">
+
+							<!-- Item 0 -->
+							<div class="item active">
+								<img style="margin-top:0px;" class="" src="img/team/schroederm.jpg" alt="marissa schroeder">
+							</div><!-- /.item -->
+
+							<!-- Item 2 -->
+							<div class="item">
+								<img style="margin-top:0px;" class="" src="img/team/schroederm-2.jpg" alt="marissa schroeder">
+							</div><!-- /.item -->
+							
+						</div><!-- /.carousel-inner -->		
+					</div><!-- /.carousel -->
 					<h2>Marissa Schroeder </h2>
 					<p>Undergraduate Research Assistant.</p>
 					<p><a class="btn btn-default" href="team/MarissaSchroeder ">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
+			
 		</div><!-- /span -->
 		
 		<!-- ==================== Cynthia Schwartz =================================== -->
@@ -261,8 +278,11 @@
     <script src="js/holder.js"></script> 	
 	<script src="js/ion.sound.js"></script>
 	<script src="js/td4w.js"></script>
-	
-  
+	<script type="text/javascript">
+    $(document).ready(function(){
+        $('.carousel').carousel();
+    });
+</script>
   
   
   

@@ -143,7 +143,7 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 175px;
-  background-color: #777;
+  background-color: #fff;
   overflow: hidden;
 }
 
@@ -167,6 +167,29 @@ body {
 
 .no-carousel {
 	margin-top: 80px;
+}
+
+/* Fade transition for carousel items */
+.carousel .item {
+    left: 0 !important;
+      -webkit-transition: opacity 1s; /*adjust timing here */
+         -moz-transition: opacity 1s;
+           -o-transition: opacity 1s;
+              transition: opacity 1s;
+}
+.carousel-control {
+    background-image: none !important; /* remove background gradients on controls */
+}
+/* Fade controls with items */
+.next.left,
+.prev.right img {
+    opacity: 1;
+    z-index: 1;
+}
+.active.left,
+.active.right img {
+    opacity: 0;
+    z-index: 2;
 }
 
 
@@ -230,6 +253,25 @@ body {
 	letter-spacing: -1px;
 }
 
+.team-carousel {
+
+	margin-top: 40px;
+}
+
+.team-carousel .carousel-inner {
+	width: 140px;
+	margin: 0px auto;
+	z-index: 5;
+}
+
+/* Declare heights because of positioning of img element */
+.team-carousel .item {
+  	height: 140px;
+  	width: 140px;
+  	background-color: #fff;
+  	overflow: hidden;
+}
+
 .team p, .team h1, .team h2, .team h3 {
 	text-align: center;
 }
@@ -242,6 +284,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
 
 /* Instafeed
 ------------------------- */
@@ -336,6 +379,10 @@ body {
 		margin-bottom: 20px;
 	}
 	
+	.team-carousel .item {
+		height: 140px;
+	}
+	
 	#wrap {
 	  /* Negative indent footer by its height */
 	  margin: 0 auto -750px;
@@ -353,6 +400,10 @@ body {
 
 	.carousel .item {
 		height: 300px;
+	}
+	
+	.team-carousel .item {
+		height: 140px;
 	}
 
 
@@ -404,7 +455,6 @@ body {
   .carousel {
 	  margin-top: 0px;
 	  margin-bottom: 50px;
-	  background-color: #777;
 	}
 	
 	.carousel .item {
@@ -420,6 +470,15 @@ body {
     font-size: 21px;
     line-height: 1.4;
   }
+  
+	.team-carousel {
+		margin-top: 40px;
+		margin-bottom: 0px;
+	}
+
+	.team-carousel .item {
+		height: 140px;
+	}
   
 	.twit {
 		height: 600px;
@@ -465,6 +524,10 @@ body {
 		margin: 80px 0; /* Space out the Bootstrap <hr> more */
 	}
 	
+	.team-carousel .item {
+		height: 140px;
+	}
+	
 	.twit {
 		height: 580px;
 	}
@@ -496,6 +559,13 @@ body {
 
 	.story-image {
 		margin-top: -10px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
+	}
+	
+	.team-carousel .item {
+  		height: 140px;
+  		width: 140px;
+  		background-color: none;
+  		overflow: hidden;
 	}
 	
 	.twit {
