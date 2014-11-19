@@ -86,7 +86,23 @@
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/walkerj.jpg" >
+					<!-- Carousel
+					================================================== -->
+					<div id="myCarousel" class="carousel slide team-carousel" data-interval="8000">
+						<div class="carousel-inner img-circle">
+
+							<!-- Item 0 -->
+							<div class="item active">
+								<img style="margin-top:0px;" class="" src="img/team/walkerj.jpg" alt="jason walker">
+							</div><!-- /.item -->
+
+							<!-- Item 2 -->
+							<div class="item">
+								<img style="margin-top:0px;" class="" src="img/team/walkerj-2.jpg" alt="jason walker">
+							</div><!-- /.item -->
+							
+						</div><!-- /.carousel-inner -->		
+					</div><!-- /.carousel -->
 					<h2>Jason Walker</h2>
 					<p>Post Doctoral Investigator</p>
 					<p><a class="btn btn-default" href="team/JasonWalker">View details &raquo;</a></p>
