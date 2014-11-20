@@ -333,8 +333,8 @@
 	<!-- ======================================= Travel/Leave ======================================= -->
 	
 	<h3>Travel/Leave</h3>
-	<p>Lab related travel requests should be submitted as soon as travel is anticipated and/or at least a week in advance.  Notify <a href="mailto:jason.canham@osumc.edu">Jason Canham</a> and copy Dr. Dean (david.dean@osumc.edu) requesting travel.</p>
-	<p>Before you leave and for any other types of leave, you must submit the following leave form signed by you and Dr. Dean to <a href="mailto:jason.canham@osumc.edu">Jason Canham</a>:</p>
+	<p>Lab related travel requests should be submitted as soon as travel is anticipated and/or at least a week in advance.  Notify <a href="mailto:rebecca.crisp@osumc.edu">Rebecca Crisp</a> and copy Dr. Dean (david.dean@osumc.edu) requesting travel.</p>
+	<p>Before you leave and for any other types of leave, you must submit the following leave form signed by you and Dr. Dean to <a href="mailto:rebecca.crisp@osumc.edu">Rebecca Crisp</a>:</p>
 	<ul>
 		<li><a href="http://hr.osu.edu/public/documents/forms/appleave.pdf" target="_blank">Form 5171-A [PDF]</a> (<a href="/downloads/resources/form-5171-A-rev-11-10.pdf">Alternate Download</a>)</li>
 	</ul>
@@ -364,6 +364,7 @@
 	<h3 id="uncertainty">Uncertainty Analysis</h3>
 	<p>Perhaps everything you need to know about uncertainty analysis:</p>
 	<ul>
+		<li><a href="http://www.wmo.int/pages/prog/gcos/documents/gruanmanuals/UK_NPL/mgpg11.pdf">A Beginner's Guide to Uncertainty of Measurement</a></li>
 		<li><a href="http://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf" target="_blank">Guide to the expression of uncertainty in measurement (JCGM 100:2008)</a></li>
 	</ul>
 	
