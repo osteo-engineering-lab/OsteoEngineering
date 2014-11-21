@@ -298,7 +298,7 @@
     $(document).ready(function(){
         $('.carousel').carousel();
     });
-</script>
+	</script>
   
   
   
