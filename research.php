@@ -27,34 +27,73 @@
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" id="brain_tumors">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+		
+<strong>Department of Defense Armed Forces Institute of Regenerative Medicine: W81XWH-14-2-0004: </strong><em>"Craniomaxillofacial Tissue Engineered Bone Grafts"</em> (D. Dean, Project Leader)
+
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse">
+      <div class="panel-body">   
+	  
+		<p><strong>Department of Defense Armed Forces Institute of Regenerative Medicine: W81XWH-14-2-0004: </strong><em>"Craniomaxillofacial Tissue Engineered Bone Grafts"</em> (D. Dean, Project Leader)</p>         
+		 <p>The goal of this project is to develop a complete process to model, design, and generate implants to repair and improve outcomes following Craniomaxillofacial injury. The methods utilized in this project include 3D printing of resorbable implants that are precultured in a bioreactor using allogeneic bone progenitor cells. The precultured implant is placed in the defect site in order to draw in host tissue that will form bone of sufficient strength to bear dental implants. The project is working on the following specific aims in order to achieve these goals: Specific Aim 1: To determine the best use of the following data for tissue engineered implants that regenerate critical size maxillary and mandibular post-canine defects: (a) 3D CT images of the area to be repaired, (b) 3D surface templates of the area to be repaired and the surrounding CMF anatomy, (c) 3D printing PPF maxillary and mandibular implants, and (d) scaffold pore architecture that facilitates cell loading and scaffold resorption. Specific Aim 2: To determine the best means of promoting neobone formation in the implants designed in Aim 1 through: (a) bioreactor pre-culturing of bone marrow-derived MSCs, (b) facilitation of the vascularization of that neobone through proper care of the overlying periosteum and gingival tissue flap, and (c) determination of the pull-out strength of titanium dental posts implanted in the resulting maxillary and mandibular neobone. Specific Aim 3: To determine the protocol for a human clinical trial utilizing 3D printed PPF maxillary and mandibular implants, seeding those implants with (i.e., use of banked) cGMP human MSCs, and bioreactor culturing those implants to have a sufficient bone ECM coating to heal a critical size defect.</p> 
+
+      </div>
+    </div>
+  </div>
+  
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+		
+<strong>National Center for Regenerative Medicine: Demonstrator Project:</strong><em>"Mesenchymal Stem Cells (MSCs) for Tissue Engineered Bone Grafts"</em> (D. Dean, Principal Investigator)
+
+        </a>
+      </h4>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse">
+      <div class="panel-body">
+		<p><strong>National Center for Regenerative Medicine: Demonstrator Project:</strong><em>"Mesenchymal Stem Cells (MSCs) for Tissue Engineered Bone Grafts"</em> (D. Dean, Principal Investigator)</p>   		
+         <p>The goal of this project is to determine the best strategy to allow us to (a) receive a 3D CT scan from anywhere in the world, (b) plan the reconstructive surgical procedure, (c) where there was insufficient bone for transplantation in the patient’s body we could design a porous patient specific implant, (c) 3D print a porous resorbable scaffold for that patient, (d) use banked, MSCs to seed that scaffold, (e) preculture the MSC-seeded scaffold, and send a tissue-engineered bone graft to the prescribing surgeon for implantation. The project is an OH-Alive Demonstrator Project of the National Center for Regenerative Medicine's Ohio Alive Program. OH-Alive is a one-stop Stem Cell Innovator Platform that will enable for-profit entities, clinicians and academic researchers to better understand their cell culture protocols so that when they advance their cutting edge therapies from the bench to the bedside they can report to the FDA their manufacturing tolerances and sound scientific rationale for the methods they use in preparing their cell products. Ohio Alive's goals are: First, to transform medical therapy through the use of cells rather than drugs to heal tissues and organs. Second, to create the commercial and academic infrastructure in Ohio to establish a self-sufficient, vibrant biotechnology industry and support services that will attract cell therapy institutions across the US. (Information on “Ohio Alive” adapted from: http://ncrm.us/ohalive/landing.cfm)</p> 
+
+      </div>
+    </div>
+  </div>
+	
+	
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" id="brain_tumors">
 		
 <strong>National Institutes of Health: 5R01AR061460-02:</strong><em>"Application of tubular perfusion system (TPS) generated prevascularized bone tissue"</em> (J. Fisher, Principal Investigator; D. Dean, Co-Investigator)
 
         </a>
       </h4>
     </div>
-    <div id="collapseOne" class="panel-collapse collapse">
+    <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
-
-<p><strong>National Institutes of Health: 5R01AR061460-02:</strong><em>"Application of tubular perfusion system (TPS) generated prevascularized bone tissue"</em> (J. Fisher, Principal Investigator; D. Dean, Co-Investigator)</p>
-         
-         <p>In vitro and in vivo nutrient transfer limits must be overcome in order to increase the feasibility of cell based therapeutic strategies. To enhance in vitro nutrient transport, the tubular perfusion system (TPS), a novel bioreactor recently developed by our laboratory, will dynamically culture human mesenchymal stem cells (hMSCs) in three dimensional scaffolds. This system utilizes an elegant design to create an effective cell culture environment without the drawbacks often associated with more complicated perfusion systems. The TPS design consists of hMSCs encapsulated in alginate beads which are tightly packed in a tubular growth chamber. Perfusing media through this growth chamber enhances nutrient transfer while exposing the cells to shear stress. To enhance in vivo vascularization, a prevascular network will be templated within the engineered tissue prior to implantation. To accomplish this, the TPS bioreactor will be optimized to support a coculture of endothelial cells and hMSCs. To examine this strategy of enhanced in vitro nutrient transport and in vivo vascularization, we propose first to investigate the TPS culture environment, particularly alginate bead size, bead composition, and media perfusion rate, that promotes hMSC proliferation and subsequent osteoblastic differentiation. Second, we propose to investigate the impact of endothelial cell coculture parameters, specifically coculture ratio, on the development of a prevascular network as well as the proliferation and differentiation of hMSCs. Third, we propose to implement a synthetic polymer sleeve system to support successful implantation of the in vitro cultured tissue. This strategy allows for the in vitro culture of functional engineered tissue, provides an elegant method for the in vivo implantation of the tissue, and fosters rapid integration of the implanted tissue into the host vasculature. Successful completion of these studies will demonstrate the feasibility of this fundamental technology for enhanced in vitro and in vivo nutrient transfer within cell based devices. </p> 
+		<p><strong>National Institutes of Health: 5R01AR061460-02:</strong><em>"Application of tubular perfusion system (TPS) generated prevascularized bone tissue"</em> (J. Fisher, Principal Investigator; D. Dean, Co-Investigator)</p>          
+		 <p>In vitro and in vivo nutrient transfer limits must be overcome in order to increase the feasibility of cell based therapeutic strategies. To enhance in vitro nutrient transport, the tubular perfusion system (TPS), a novel bioreactor recently developed by our laboratory, will dynamically culture human mesenchymal stem cells (hMSCs) in three dimensional scaffolds. This system utilizes an elegant design to create an effective cell culture environment without the drawbacks often associated with more complicated perfusion systems. The TPS design consists of hMSCs encapsulated in alginate beads which are tightly packed in a tubular growth chamber. Perfusing media through this growth chamber enhances nutrient transfer while exposing the cells to shear stress. To enhance in vivo vascularization, a prevascular network will be templated within the engineered tissue prior to implantation. To accomplish this, the TPS bioreactor will be optimized to support a coculture of endothelial cells and hMSCs. To examine this strategy of enhanced in vitro nutrient transport and in vivo vascularization, we propose first to investigate the TPS culture environment, particularly alginate bead size, bead composition, and media perfusion rate, that promotes hMSC proliferation and subsequent osteoblastic differentiation. Second, we propose to investigate the impact of endothelial cell coculture parameters, specifically coculture ratio, on the development of a prevascular network as well as the proliferation and differentiation of hMSCs. Third, we propose to implement a synthetic polymer sleeve system to support successful implantation of the in vitro cultured tissue. This strategy allows for the in vitro culture of functional engineered tissue, provides an elegant method for the in vivo implantation of the tissue, and fosters rapid integration of the implanted tissue into the host vasculature. Successful completion of these studies will demonstrate the feasibility of this fundamental technology for enhanced in vitro and in vivo nutrient transfer within cell based devices. </p> 
 
       </div>
     </div>
   </div>
+  
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" id="skull_implants">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" id="skull_implants">
 		
 <strong>National Institutes of Health: 2R01DE013740-06A1:</strong><em>"Strength and Resorption of Biodegradable Skull Implants"</em> (D. Dean, Principal Investigator)
 
         </a>
       </h4>
     </div>
-    <div id="collapseTwo" class="panel-collapse collapse">
+    <div id="collapseFour" class="panel-collapse collapse">
       <div class="panel-body">
 	  
 <p><strong><img src="img/research/bonescaffold.png" alt="bone scaffold" style="float:right">National Institutes of Health: 2R01DE013740-06A1:</strong><em>"Strength and Resorption of Biodegradable Skull Implants"</em> (D. Dean, Principal Investigator)</p>
@@ -63,10 +102,11 @@
       </div>
     </div>
   </div>
+  
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="http://bme.case.edu/Research/cctrp/CCTRPPreviousAwardees.html">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion">
           <strong>Tomosurgery Validation: Automated Radiosurgery Treatment Planning and Delivery - </strong> - Grant #FY12-P315
         </a>
       </h4>
@@ -83,13 +123,13 @@
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
 		
 <strong>National Institutes of Health 5P01CA043892-18:</strong><em> Project 2: "Photodynamic Therapy - Basic Science Studies"</em> (D. Dean, Co-Investigator)
         </a>
       </h4>
     </div>
-    <div id="collapseFour" class="panel-collapse collapse">
+    <div id="collapseFive" class="panel-collapse collapse">
       <div class="panel-body">
 
 <p><strong><img src="img/research/u87.jpg" alt="u87 cells photo-dynamic therapy PDT" style="float:right">National Institutes of Health 5P01CA043892-18:</strong><em> Project 2: "Photodynamic Therapy - Basic Science Studies"</em> (D. Dean, Co-Investigator)</p>
@@ -103,14 +143,14 @@
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
 		
 <strong>State of Ohio Third Frontier:</strong><em>"Clinical Tissue Engineering Center", Project 4: "Rapid Fabrication of BioScaffolds with Light Polymerizeable Polymers"</em> (D. Dean, Co-Investigator)
 
         </a>
       </h4>
     </div>
-    <div id="collapseFive" class="panel-collapse collapse">
+    <div id="collapseSix" class="panel-collapse collapse">
       <div class="panel-body">
 	  
 <p><strong>State of Ohio Third Frontier:</strong><em>"Clinical Tissue Engineering Center", Project 4: "Rapid Fabrication of BioScaffolds with Light Polymerizeable Polymers"</em> (D. Dean, Co-Investigator)</p>
