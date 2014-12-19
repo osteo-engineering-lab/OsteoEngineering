@@ -214,7 +214,7 @@
 	<h3>Mechanical Testing</h3>
 	
 	<ul>
-		<li><a href="">Small Load Compression and Tensile Testing (Powell Lab)</a>
+		<li><a href="https://mse.osu.edu/people/powell.299">Small Load Compression and Tensile Testing (Powell Lab)</a>
 			<ul>
 				<li>Contact: <a href="mailto:powell.299@osu.edu">Heather Powell, Ph.D.</a> | 614-247-8673</li>
 				<li>Location: <a href="http://www.osu.edu/map/building.php?building=151" target="_blank">Fontana Laboratories</a> 243C, 116 W Nineteenth Ave, Columbus, OH 43210 </li>
@@ -229,7 +229,8 @@
 		</li>
 		<li><a href="http://dent.osu.edu/ortho/faculty/kim.php" target="_blank">Nanoindentation and Small Load Compression and Tensile Testing</a>
 			<ul>
-				<li>Contact: <a href="mailto:kim.2508@osu.edu">Do-Gyoon "Do" Kim, Ph.D.</a> | 614-247-8089</li>
+				<li>Primary Contact: <a href="mailto:jeong.186@osu.edu">Yonghoon Jeong, Ph.D.</a></li>
+				<li>P.I.: <a href="mailto:kim.2508@osu.edu">Do-Gyoon "Do" Kim, Ph.D.</a> | 614-247-8089</li>
 				<li>Location: <a href="http://www.osu.edu/map/building.php?building=024" target="_blank">Postle Hall</a> 4088, 305 W 12th Ave, Columbus, OH 43210</li>
 			</ul>
 		</li>
