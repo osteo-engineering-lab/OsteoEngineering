@@ -26,6 +26,7 @@
 			<div class="col-xs-12">
 				<h3>Poly(Propylene Fumarate)</h3>
 				Most research our lab currently focuses on revolves around the use of the biomaterial called poly(propylene fumarate), or PPF for short.  PPF is a linear unsaturated polyester that is biocompatible and has shown promise as a viable scaffold for bone regeneration. The references organized herein have been distilled from work done internal and external to this lab and serve to provide information on the various important and sought after properties of the material.
+				<h4>We have made available a comprehensive EndNotes Library on PPF for Bone Tissue Engineering, which can be downloaded <a href="/downloads/bibliographies/MRS-PPF-Library-2014.enl">here.</a></h4>
 			</div><!-- /span -->
 		</div><!-- /.row -->
 		<br />
