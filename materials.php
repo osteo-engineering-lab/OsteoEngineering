@@ -46,7 +46,7 @@
     
    				 <div id="collapseOne" class="panel-collapse collapse">
       				<div class="panel-body">
-      					<h4>Mask Projection Stereolithography</h4>
+      					<h4>Projection Stereolithography</h4>
       					<ul>
 							<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/23066427" target="_blank">Continuous digital light processing (cDLP): Highly accurate additive manufacturing of tissue engineered bone scaffolds.</a></li>
 							<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/24429508" target="_blank">Validating continuous digital light processing (cDLP) additive manufacturing accuracy and tissue engineering utility of a dye-initiator package.</a></li>
@@ -60,6 +60,7 @@
 							<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/17326677" target="_blank">Poly(propylene fumarate) bone tissue engineering scaffold fabrication using stereolithography: effects of resin formulations and laser parameters.</a></li>
 							<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/18335437" target="_blank">Fabrication and characteristic analysis of a poly(propylene fumarate) scaffold using micro-stereolithography technology.</a></li>
       						<li><a href="http://iopscience.iop.org/0960-1317/21/5/054007" target="_blank">Rigid biodegradable photopolymer structures of high resolution using deep-UV laser photocuring.</a></li> 
+      						<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/22696484" target="_blank">Towards excimer-laser-based stereolithography: a rapid process to fabricate rigid biodegradable photopolymer scaffolds.</a></li>
       					</ul>
       					<h4>3D-Printing</h4>
 						<ul>
