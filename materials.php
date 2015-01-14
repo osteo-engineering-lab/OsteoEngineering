@@ -33,7 +33,8 @@
 		<div class="row">		
 		<div class="col-xs-12">
 		<div class="panel-group" id="accordion">
-  			
+  		
+  			<!-- ================================ Additive Manufacturing =========================================== -->	
   			<div class="panel panel-default">
     			<div class="panel-heading">
       				<h4 class="panel-title">
@@ -74,6 +75,7 @@
    				 </div><!-- /.collapse -->
 			</div><!-- /.panel -->
 			
+			<!-- ================================ Degradation =========================================== -->	
 			<div class="panel panel-default">
     			<div class="panel-heading">
       				<h4 class="panel-title">
@@ -98,6 +100,7 @@
    				 </div><!-- /.collapse -->
 			</div><!-- /.panel -->
 			
+			<!-- ================================ Synthesis =========================================== -->	
 			<div class="panel panel-default">
     			<div class="panel-heading">
       				<h4 class="panel-title">
@@ -115,6 +118,27 @@
 							<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/19325548" target="_blank">Synthesis of poly(propylene fumarate).</a></li>
 							<li><a href="https://www.google.com/patents/US5733951" target="_blank">Poly(propylene fumarate) [patent]</a></li>
 							<li><a href="https://www.google.com/patents/US4888413" target="_blank">Poly(propylene glycol fumarate) compositions for biomedical applications (origin of PPF) [patent]</a></li>
+						</ul>
+      				</div><!-- /.panel-body -->
+      				
+   				 </div><!-- /.collapse -->
+			</div><!-- /.panel -->
+			
+			<!-- ================================ Cell Response =========================================== -->	
+			<div class="panel panel-default">
+    			<div class="panel-heading">
+      				<h4 class="panel-title">
+        				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" id="brain_tumors">
+							<strong>Cell Response</strong>
+        				</a>
+      				</h4>
+    			</div><!-- /.panel-heading -->
+    
+   				 <div id="collapseFour" class="panel-collapse collapse">
+      				
+      				<div class="panel-body">
+						<ul>
+							<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/20822174" target="_blank">Distinct cell responses to substrates consisting of poly(ε-caprolactone) and poly(propylene fumarate) in the presence or absence of cross-links.</a></li>
 						</ul>
       				</div><!-- /.panel-body -->
       				
