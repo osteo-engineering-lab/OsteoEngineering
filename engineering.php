@@ -39,6 +39,11 @@
 					<li><a href="http://www.warco.com/pdf/Rubber-Elastomer-Chemical-Resistance-Guide-by-TLARGI-and-WARCO-BILTRITE.pdf" target="_blank">Elastomers [PDF]</a></li>
 				</ul>	
 				
+				<h3>Polymer Selection and Common Uses</h3>
+				<ul>
+					<li><a href="http://www.grainger.com/content/qt-types-of-plastics-213">Types of Plastics</a></li>
+				</ul>
+				
 				<h3>Polymers for Medical Devices</h3>
 				<ul>
 					<li><a href="http://www.sciencedirect.com/science/book/9780323228053" target="_blank">Handbook of Polymer Applications in Medicine and Medical Devices</a></li>
