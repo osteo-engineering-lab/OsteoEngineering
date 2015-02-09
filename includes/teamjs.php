@@ -4,7 +4,7 @@
 	var maxImages = 36;
 	
 	var feed = new Instafeed({
-		limit: -1,
+		limit: 30,
 		resolution: 'standard_resolution',
 		get: 'user',
 		userId: 819085045,
