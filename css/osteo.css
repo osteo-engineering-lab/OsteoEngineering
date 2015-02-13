@@ -605,11 +605,19 @@ body {
 	.carousel .item {
 		height: 900px;
 	}
+	
+	.team-carousel .item {
+		height: 140px;
+	}
 }
 
 @media (min-width: 1600px) {
 	.carousel .item {
 		height: 1000px;
+	}
+	
+	.team-carousel .item {
+		height: 140px;
 	}
 }
 	
