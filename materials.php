@@ -95,6 +95,7 @@
 							<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/9641618" target="_blank">In vivo degradation of a poly(propylene fumarate)/beta-tricalcium phosphate injectable composite scaffold.</a></li>
       						<li><a href="http://online.liebertpub.com/doi/abs/10.1089/ten.1997.3.207" target="_blank">In vitro degradation of a poly(propylene fumarate)/ β-tricalcium phosphate composite orthopaedic scaffold.</a></li>
       						<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/17580323" target="_blank">Degradation and biocompatibility of a poly(propylene fumarate)-based/alumoxane nanocomposite for bone tissue engineering.</a></li>
+      						<li><a href="http://www.hindawi.com/journals/ijbm/2009/486710/" target="_blank">Studies on Poly(propylene fumarate-co-caprolactone diol) Thermoset Composites towards the Development of Biodegradable Bone Fixation Devices</a></li>
       					</ul>
       				</div><!-- /.panel-body -->
       				
