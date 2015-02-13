@@ -123,15 +123,15 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->	
 		
-		<!-- ==================== Alexis Cantu ======================================= -->
+		<!-- ==================== Emily Bodamer ======================================= -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/cantul.jpg" >
-					<h2>Lexi Cantu</h2>
+					<img class="img-circle" src="img/team/bodamere.jpg" >
+					<h2>Emily Bodamer</h2>
 					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/LexiCantu">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/EmilyBodamer">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->					
