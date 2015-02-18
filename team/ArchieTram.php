@@ -24,7 +24,10 @@
 	
 		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
 			<img src="../img/team/trama.jpg" alt="Archie Tram" class="img-responsive">
-			<p>Email: tram.2@osu.edu</p>
+			<address>
+  				<br>
+  				<a href="mailto:tram.2@osu.edu">tram.2@osu.edu</a>
+			</address> 
 		</div><!-- /.span -->
 	
 		<div class="col-xs-12 col-sm-8 col-md-9">
