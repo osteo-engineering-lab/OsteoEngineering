@@ -82,17 +82,3 @@ var displayInstaBlocks = function(response, params) {
 //     midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
 //   });
 }
-
-// $(function() {
-//   // Get an instance of a fetcher
-//   var fetcher = new Instafetch('81e3d3f35c8a4438964001decaa5a31f');
-// 
-//   // Fetch results
-//   fetcher.fetch({
-//     user: 259220806, // This is the ID for 9gag, you can get the ID from username using http://jelled.com/instagram/lookup-user-id
-//     tag: '9gag',
-//     limit: 88,
-//     callback: displayInstaBlocks, // You can customize your own functionality by building from the logResults method
-//     params: '9gagBlock'
-//   });
-// });
