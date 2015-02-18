@@ -22,7 +22,7 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div class="col-xs-12 col-sm-4 col-md-3 pull-left" style="font-size:80%; text-align:center">
+		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
 			<img src="../img/team/trama.jpg" alt="Archie Tram" class="img-responsive">
 			<p>Email: tram.2@osu.edu</p>
 		</div><!-- /.span -->
