@@ -1,9 +1,3 @@
-// Bare bone callback
-var logResults = function(response, params) {
-  console.log(response);
-  console.log(params);
-};
-
 // Will display the results in square divs
 var displayInstaBlocks = function(response, params) {
   console.log(response);
@@ -18,6 +12,7 @@ var displayInstaBlocks = function(response, params) {
 	
       // Anchor
        var anchor = document.createElement('a');
+       anchor.href = response.data[i].link;
 //       anchor.className += ' instaPop';
 //       anchor.href = "#instaPop-" + params + i.toString();
 
