@@ -22,12 +22,15 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/bishopt.jpg" alt="Tyler Bishop" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
-			Email: bishop.465@osu.edu
+		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
+			<img src="../img/team/bishopt.jpg" alt="Tyler Bishop" class="img-responsive">
+			<address>
+  				<br>
+  				<a href="mailto:bishop.465@osu.edu">bishop.465@osu.edu</a>
+			</address> 
 		</div><!-- /.span -->
 	
-		<div class="col-xs-12 col-md-8">
+		<div class="col-xs-12 col-sm-8 col-md-9">
 			<h3>Tyler Bishop</h3>
 			<p>Started: September 2013</p>
 			<p>Tyler Bishop is a Biomedical Engineering major at The Ohio State University, planning to graduate in Spring 2016. He is from Columbus, Ohio. In the lab, he involves in the Extracellular Matrix Study with <a href="RuchiMishra">Ruchi Mishra</a>. He is a founding father for Phi Sigma Kappa Fratnerity and also a member of Ohio House of Science and Engineering (OHSE) Program, particularly involved in Wonders of Our World (WOW) elementary outreach program.
@@ -36,13 +39,7 @@
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	
-	<div class="row">
-		<div class="col-xs-12">
-
-			<div id="instafeed" class="row"></div><!-- /.row -->
-		
-		</div><!-- /span -->
-	</div><!-- /.row -->
+	<?php include("../includes/instafetches.php"); ?>
 	
 </div><!-- /.container -->
 	
