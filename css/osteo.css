@@ -293,7 +293,16 @@ body {
 }
 
 .insta {
+	
 	padding: 3px;
+}
+
+.instaBlock ul {
+	-webkit-padding-start: 0px;
+}
+
+.instaBlock li {
+	display: inline-block;
 }
 
 .ig-b- { display: inline-block; }

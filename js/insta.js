@@ -14,7 +14,8 @@ var displayInstaBlocks = function(response, params) {
   for(var i = 0; i < response.data.length; i++) {
     // List Item
     var listItem = document.createElement('li');
-
+    listItem.className += 'col-xs-6 col-sm-2 col-md-2 insta'
+	
       // Anchor
        var anchor = document.createElement('a');
 //       anchor.className += ' instaPop';
@@ -65,6 +66,7 @@ var displayInstaBlocks = function(response, params) {
 
         // Image
         var instaImg = document.createElement('img');
+        instaImg.className += 'img-responsive'
         instaImg.src = response.data[i].images.low_resolution.url;
 
     anchor.appendChild(instaImg);
