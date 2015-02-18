@@ -22,12 +22,15 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 		
-		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/motte.jpg" alt="Eric Mott" style="max-width: 300px; height: auto; padding-bottom:0.5em"/>
-			<br>Email: Eric.Mott@osumc.edu
+		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
+			<img src="../img/team/motte.jpg" alt="Eric Mott" class="img-responsive">
+			<address>
+  				<br>
+  				<a href="mailto:Eric.Mott@osumc.edu">Eric.Mott@osumc.edu</a>
+			</address> 
 		</div><!-- /.span -->
 		
-		<div class="col-xs-12 col-md-8">
+		<div class="col-xs-12 col-sm-8 col-md-9">
       
 			<h3>Eric Mott</h3>
 			<p>Eric Mott has been with the lab since the fall of 2008.  He largely contributed to the success of the PDT project during his undergraduate time.  Now with a B.S. in Mechanical and Aerospace Engineering ('11) along with a Master of Engineering and Management ('12), he serves as a part-time research assistant managing the lab's Bone Tissue Engineering work, namely, the fabrication of bioresorbable poly(propylene-fumarate) PPF scaffolds via additive manufacturing.  His work on this led to a major break through surrounding dye-initiator packages for polymer resins, which led to a large reduction in labor needed to create high resolution parts from PPF.  A patent application has been submitted regarding this finding.</p>
@@ -41,13 +44,7 @@
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	
-	<div class="row">
-		<div class="col-xs-12">
-
-			<div id="instafeed" class="row"></div><!-- /.row -->
-		
-		</div><!-- /span -->
-	</div><!-- /.row -->
+	<?php include("../includes/instafetches.php"); ?>
 	
 </div><!-- /.container -->
 	

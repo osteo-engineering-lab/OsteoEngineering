@@ -22,12 +22,15 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 		
-		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/walkerj.jpg" alt="Jason Walker" style="max-width: 300px; height: auto; padding-bottom:0.5em"/>
-			<br>Email: jason.walker2@osumc.edu
+		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
+			<img src="../img/team/walkerj.jpg" alt="Jason Walker" class="img-responsive">
+			<address>
+  				<br>
+  				<a href="mailto:jason.walker2@osumc.edu">jason.walker2@osumc.edu</a>
+			</address> 
 		</div><!-- /.span -->
 		
-		<div class="col-xs-12 col-md-8">
+		<div class="col-xs-12 col-sm-8 col-md-9">
       
 			<h3>Jason Walker</h3>
 			<p>Jason Walker joined the Dean Lab as a Postdoctoral Researcher in the summer of 2014. He received his B.S in Mechanical and Aerospace Engineering from Case Western Reserve University in 2010 and his Ph.D. from the University of Toledo in 2014. The focus of his Ph.D. was additive manufacturing of porous and stiffness-tailored NiTi components for use in medical implants. As part of the Dean Lab, Jason is investigating the use of medical image data for designing and 3-D printing patient-specific cranial and facial bone tissue engineered implants.</p>
@@ -43,13 +46,7 @@
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	
-	<div class="row">
-		<div class="col-xs-12">
-
-			<div id="instafeed" class="row"></div><!-- /.row -->
-		
-		</div><!-- /span -->
-	</div><!-- /.row -->
+	<?php include("../includes/instafetches.php"); ?>
 	
 </div><!-- /.container -->
 	
@@ -67,6 +64,6 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
     <script src="../js/holder.js"></script>
-  	<?php include("../includes/teamjs.php"); ?>
+	<?php include("../includes/teamjs.php"); ?>
 
 </body></html>

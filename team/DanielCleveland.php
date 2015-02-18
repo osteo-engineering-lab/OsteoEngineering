@@ -22,12 +22,15 @@
 <div class="container marketing no-carousel"> 
 	<div class="row">
 	
-		<div class="col-xs-12 col-md-4 pull-left" style="font-size:80%; text-align:center">
-			<img src="../img/team/clevelandd.jpg" alt="Daniel Cleveland" style="max-width: 300px; height: auto; padding-bottom:0.5em"><br>
-			Email: cleveland.86@osu.edu
+		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
+			<img src="../img/team/clevelandd.jpg" alt="Daniel Cleveland" class="img-responsive">
+			<address>
+  				<br>
+  				<a href="mailto:cleveland.86@osu.edu">cleveland.86@osu.edu</a>
+			</address> 
 		</div><!-- /.span -->
 	
-		<div class="col-xs-12 col-md-8">
+		<div class="col-xs-12 col-sm-8 col-md-9">
 			<h3>Daniel Cleveland</h3>
 			<p>Started: March 2014</p>
 			<p>Daniel Cleveland is a Biomedical Engineering major at The Ohio State University, planning to graduate in Spring 2016. He is from Hudson, Ohio. He is also a member of the Fishbowl Improv student organization at Ohio State.
@@ -36,13 +39,7 @@
 		</div><!-- /.span -->
 	</div><!-- /.row -->
 	
-	<div class="row">
-		<div class="col-xs-12">
-
-			<div id="instafeed" class="row"></div><!-- /.row -->
-		
-		</div><!-- /span -->
-	</div><!-- /.row -->
+	<?php include("../includes/instafetches.php"); ?>
 	
 </div><!-- /.container -->
 	
@@ -60,6 +57,6 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
     <script src="../js/holder.js"></script>
-  	<?php include("../includes/teamjs.php"); ?>
+	<?php include("../includes/teamjs.php"); ?>
 
 </body></html>
