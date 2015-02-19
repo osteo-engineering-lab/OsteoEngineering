@@ -34,12 +34,29 @@
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/deand.jpg" >
-					<h2>Dr. David Dean</h2>
+					<!-- Carousel
+					================================================== -->
+					<div id="myCarousel" class="carousel slide team-carousel" data-interval="8000">
+						<div class="carousel-inner img-circle">
+
+							<!-- Item 0 -->
+							<div class="item active">
+								<img style="margin-top:0px;" class="" src="img/team/deand.jpg" alt="david dean">
+							</div><!-- /.item -->
+
+							<!-- Item 2 -->
+							<div class="item">
+								<img style="margin-top:0px;" class="" src="img/team/deand-2.jpg" alt="david dean">
+							</div><!-- /.item -->
+							
+						</div><!-- /.carousel-inner -->		
+					</div><!-- /.carousel -->
+					<h2>David Dean, Ph.D. </h2>
 					<p>Primary Investigator</p>
 					<p><a class="btn btn-default" href="team/DavidDean">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
+			
 		</div><!-- /span -->
 		
 		<!-- ==================== Eric Mott ========================================== -->
