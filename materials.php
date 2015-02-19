@@ -141,6 +141,7 @@
       				<div class="panel-body">
 						<ul>
 							<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/20822174" target="_blank">Distinct cell responses to substrates consisting of poly(ε-caprolactone) and poly(propylene fumarate) in the presence or absence of cross-links.</a></li>
+							<li><a href="http://www.sciencedirect.com/science/article/pii/S0167931708006643" target="_blank">Estimation of cell proliferation by various peptide coating at the PPF/DEF 3D scaffold</a></li>
 						</ul>
       				</div><!-- /.panel-body -->
       				
