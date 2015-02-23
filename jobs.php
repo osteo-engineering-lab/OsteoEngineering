@@ -51,33 +51,47 @@
 					<h4>Description of the Job</h4>
 					<p>A full-time manager is needed to oversee and execute the operations of the Core, which includes but is not limited to hiring and training assistants, assisting researchers and clinicians, computer aided design, design and fabrication analysis, purchasing, accounting, fabricating, material analysis, marketing, and scheduling.  The ideal candidate is highly flexible in the type of work he or she is doing and has strong technical and communication skills and excels in customer facing roles.  Strong attention to detail and organization are musts. A background in engineering is preferred with work experience.</p>
 
-<h4>Requirements</h4>
-<ul>
-	<li>Technical bachelor’s degree, engineering preferred.</li>
-	<li>2 years minimum work experience including co-ops, internships, and other relevant experience.</li>
-	<li>Strong communication skills.</li>
-	<li>Strong organization skills.</li>
-	<li>Excels at self-directed learning, able to learn a wide array of software quickly.</li>
-	<li>Able to lift 50 lbs.</li>
-</ul>
+					<h4>Requirements</h4>
+					<ul>
+						<li>Technical bachelor’s degree, engineering preferred.</li>
+						<li>2 years minimum work experience including co-ops, internships, and other relevant experience.</li>
+						<li>Strong communication skills.</li>
+						<li>Strong organization skills.</li>
+						<li>Excels at self-directed learning, able to learn a wide array of software quickly.</li>
+						<li>Able to lift 50 lbs.</li>
+					</ul>
 
-<h4>Desired Qualifications</h4>
-<ul>
-	<li>Experience with CAD (computer aided design), preferably SolidWorks.</li>
-	<li>Experience with fabrication techniques, preferably additive manufacturing (3D printing).</li>
-	<li>Programming, preferably C, C++, Java, MATLAB, or Python.</li>
-	<li>Experience with basic website design and upkeep including HTML, JS, and CSS.</li>
-	<li>Experience with graphic design, preferably Adobe creative suite and MS PowerPoint.</li>
-	<li>Experience with budgeting, including cost estimation and tracking.</li>
-	<li>Experience managing a small team.</li>
-</ul>
+					<h4>Desired Qualifications</h4>
+					<ul>
+						<li>Experience with CAD (computer aided design), preferably SolidWorks.</li>
+						<li>Experience with fabrication techniques, preferably additive manufacturing (3D printing).</li>
+						<li>Programming, preferably C, C++, Java, MATLAB, or Python.</li>
+						<li>Experience with basic website design and upkeep including HTML, JS, and CSS.</li>
+						<li>Experience with graphic design, preferably Adobe creative suite and MS PowerPoint.</li>
+						<li>Experience with budgeting, including cost estimation and tracking.</li>
+						<li>Experience managing a small team.</li>
+					</ul>
 
-<h4>Benefits</h4>
-<ul>
-	<li>Please visit <a href="http://hr.osu.edu/benefits/">hr.osu.edu/benefits/</a> for full benefits information.</li>
-</ul>
-
-<p>Candidates should send a letter of interest and resume that includes contact information, relevant experiences, career goals, and three references to Ms. Courtney Dolder, Department of Plastic Surgery, The Ohio State University, 460 West 12th Ave., 10th Floor, Rm. 1009, Columbus, OH 43210 USA. Fax:(614) 688-2195; E-mail: Courtney.Dolder@osumc.edu. In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
+					<h4>Benefits</h4>
+					<ul>
+						<li>Please visit <a href="http://hr.osu.edu/benefits/">hr.osu.edu/benefits/</a> for full benefits information.</li>
+					</ul>
+					
+					<h4>Respond</h4>
+					<p>Candidates should send a letter of interest and resume that includes contact information, relevant experiences, career goals, and three references to:</p>
+					<address>
+						<strong>Mrs. Courtney Dolder</strong><br />
+						Lab Manager<br />
+						Department of Plastic Surgery, <br />
+						The Ohio State University <br />
+						460 West 12th Ave., <br />
+						10th Floor, Rm. 1009 <br />
+						Columbus, OH 43210 USA <br />
+						<abbr title="Phone">P:</abbr> (614) 688-9043 <br />
+						<abbr title="Fax">F:</abbr> (614) 688-2195 <br />
+						<abbr title="E-Mail">E:</abbr> <a href="mailto:Courtney.Dolder@osumc.edu"> Courtney.Dolder@osumc.edu</a>
+					</address>
+					<p>In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
 				
 					
 					<hr class="featurette-divider">
