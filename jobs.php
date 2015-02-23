@@ -45,7 +45,7 @@
         	<div class="row">
         	
         		<div class="col-xs-12">
-         			 <h2>Lab Manager. <br><span class="text-muted">3D Printing Core.</span></h2>
+         			 <h2>Lab Manager. <br><span class="text-muted">3D Printing Core.</span></h2> - <a href="downloads/jobs/3D-Printing-Core-Manager_job-description_final_2015.pdf">Download Job Description</a>
          			<h4>Description of the Core</h4>
 					<p>3D Printing Core Lab Manager position available immediately (posted 23 February 2015) in the Department of Plastic Surgery. The 3D Printing Core is a new core at OSU. It uses state of the art 3D Printers and materials to fabricate a broad array of devices for basic research through clinical and industrial applications.  The Core has expertise in 3D image acquisition and Computer Aided Design (CAD) and uses state of the art software to render high quality STL files from CAD or image data such as CT or intra-oral scans. These services are provided to OSU faculty, staff, and practitioners at high quality and low cost.</p>
 					<h4>Description of the Job</h4>
