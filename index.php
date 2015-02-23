@@ -160,14 +160,12 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <?php include("includes/loadlast.php"); ?>
     <script type="text/javascript">
     $(document).ready(function(){
         $('.carousel').carousel();
     });
 	</script>
-    <script type="text/javascript" src="js/holder.js"></script>
   	<script type="text/javascript" src="js/instafeed.min.js"></script>
   	<script type="text/javascript">
 		var feed = new Instafeed({

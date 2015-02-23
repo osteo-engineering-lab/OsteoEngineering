@@ -35,6 +35,19 @@ body {
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+}
+
+.navbar-background {
+	background: rgba(245,245,245);
+	background: rgba(245,245,245,0.8);
+}
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
@@ -110,6 +123,31 @@ body {
 .navbar-default .navbar-nav > .open > a:focus {
   color: #FCFCFC;
   background-color: #7f1200;
+}
+
+/* when hidden it goes up */ 
+nav.invisible {
+-webkit-transform: translate(0,-64px);
+  -moz-transform: translate(0,-64px);
+  -o-transform: translate(0,-64px);
+  transform: translate(0,-64px);
+  -webkit-transition: -webkit-transform .4s;
+  -moz-transition: -moz-transform .4s;
+  -o-transition: -o-transform .4s;
+  transition: transform .4s;
+  opacity: 0;
+}
+
+
+/* when shown & detached position is fixed */
+nav.detached {
+  position: fixed;
+  background: rgba(240,240,240);
+  background: rgba(240,240,240,.95);
+  -webkit-transition: -webkit-transform .4s, height .3s, background .4s, opacity .3s;
+  -moz-transition: -moz-transform .4s, height .3s, background .4s, opacity .3s;
+  -o-transition: -o-transform .4s, height .3s, background .4s, opacity .3s;
+  transition: transform .4s, height .3s, background .4s, opacity .3s;
 }
 
 

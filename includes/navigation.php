@@ -1,6 +1,7 @@
+<nav>
  <div class="navbar-wrapper">
       <div class="container">
-        <div class="navbar navbar-default navbar-static-top" role="navigation">
+        <div id="navbar" class="navbar navbar-default navbar-static-top navbar-background" role="navigation">
           <div class="container">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -79,3 +80,4 @@ echo " class=\"active\""; ?>><a href="http://osteoengineering.com/contact">Conta
         </div>
       </div>
     </div>
+    </nav>
