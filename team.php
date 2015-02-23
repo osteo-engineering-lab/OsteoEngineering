@@ -72,15 +72,15 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->
 		
-		<!-- ==================== Courtney Kuesel ==================================== -->
+		<!-- ==================== Courtney Dolder ==================================== -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
 					<img class="img-circle" src="img/team/kueselc.jpg" >
-					<h2>Courtney Kuesel</h2>
+					<h2>Courtney Dolder</h2>
 					<p>Research Associate</p>
-					<p><a class="btn btn-default" href="team/CourtneyKuesel">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="team/CourtneyDolder">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->

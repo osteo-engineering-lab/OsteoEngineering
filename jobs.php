@@ -80,8 +80,8 @@
 					<h4>Respond</h4>
 					<p>Candidates should send a letter of interest and resume that includes contact information, relevant experiences, career goals, and three references to:</p>
 					<address>
-						<strong>Mrs. Courtney Dolder</strong><br />
-						Lab Manager<br />
+						<strong><a href="team/CourtneyDolder">Mrs. Courtney Dolder</a></strong><br />
+						Manager, Osteo Engineering Lab<br />
 						Department of Plastic Surgery, <br />
 						The Ohio State University <br />
 						460 West 12th Ave., <br />
@@ -89,7 +89,7 @@
 						Columbus, OH 43210 USA <br />
 						<abbr title="Phone">P:</abbr> (614) 688-9043 <br />
 						<abbr title="Fax">F:</abbr> (614) 688-2195 <br />
-						<abbr title="E-Mail">E:</abbr> <a href="mailto:Courtney.Dolder@osumc.edu"> Courtney.Dolder@osumc.edu</a>
+						<abbr title="E-Mail">E:</abbr><a href="mailto:Courtney.Dolder@osumc.edu"> Courtney.Dolder@osumc.edu</a>
 					</address>
 					<p>In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
 				

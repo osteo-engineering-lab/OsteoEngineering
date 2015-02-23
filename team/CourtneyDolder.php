@@ -1,4 +1,4 @@
-<?php $thisPage="Courtney Kuesel"; $sub=1; $dot="cmk1"; ?>
+<?php $thisPage="Courtney Dolder"; $sub=1; $dot="cmk1"; ?>
 <!DOCTYPE html>
 <html lang="en"><head>
 	
@@ -23,17 +23,17 @@
 	<div class="row">
 		
 		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
-			<img src="../img/team/kueselc.jpg" alt="Courtney Kuesel" class="img-responsive">
+			<img src="../img/team/kueselc.jpg" alt="Courtney Kuesel Dolder" class="img-responsive">
 			<address>
   				<br>
-  				<a href="mailto:Courtney.Kuesel@osumc.edu">Courtney.Kuesel@osumc.edu</a>
+  				<a href="mailto:Courtney.Dolder@osumc.edu">courtney.dolder@osumc.edu</a>
 			</address> 
 		</div><!-- /.span -->
 		
 		<div class="col-xs-12 col-sm-8 col-md-9">
       
-			<h3>Courtney Kuesel</h3>
-			<p>Courtney Kuesel is from Powell, Ohio.  She did her undergrad at Ohio State in Biological Engineering and graduated in 2011.  She moved to Cincinnati in 2012 to go to the University of Cincinnati for her Master's of Engineering in Biomedical Engineering and graduated in 2013.  During her Master's, she worked on a project concerning the effects of diabetes on cardiac endothelial cells.  After graduation, she began working at Cincinnati Children's Hospital where she managed and conducted testing using a micropipette aspiration device to test the stiffness of bioprosthetic heart valves and native heart valves from sheep and mice.</p>
+			<h3>Courtney Dolder</h3>
+			<p>Courtney Dolder is from Powell, Ohio.  She did her undergrad at Ohio State in Biological Engineering and graduated in 2011.  She moved to Cincinnati in 2012 to go to the University of Cincinnati for her Master's of Engineering in Biomedical Engineering and graduated in 2013.  During her Master's, she worked on a project concerning the effects of diabetes on cardiac endothelial cells.  After graduation, she began working at Cincinnati Children's Hospital where she managed and conducted testing using a micropipette aspiration device to test the stiffness of bioprosthetic heart valves and native heart valves from sheep and mice.</p>
 			<p>In the lab, she will be leading the project that involves testing the new PPF created by Dr. Becker to see if it can be 3D printed.  If it can, she will be conducting degradation and cell attachment studies as well as looking into functionalization of the new PPF scaffolds.</p>
 			<br>
 			<h4>Recent Publications</h4>
