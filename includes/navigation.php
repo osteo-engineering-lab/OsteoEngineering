@@ -9,8 +9,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="http://osteoengineering.com">Dean Lab</a>
-            </div>
+              	<a class="navbar-brand" href="http://osteoengineering.com">Dean Lab</a>
+            </div><!-- /.navbar-header -->
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li<?php if ($thisPage=="Home") 
@@ -75,9 +75,9 @@ echo " class=\"active\""; ?>><a href="http://osteoengineering.com/media">Media</
                 <li<?php if ($thisPage=="Contact") 
 echo " class=\"active\""; ?>><a href="http://osteoengineering.com/contact">Contact Us</a></li>
               </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container -->
+        </div><!-- /.navbar-default -->
+      </div><!-- /container -->
+    </div><!-- /.navbar-wrapper -->
     </nav>

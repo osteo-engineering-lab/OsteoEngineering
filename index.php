@@ -11,11 +11,13 @@
     <!-- Google Analytics -->
   	<?php include_once("includes/analyticstracking.php") ?>
     
-    <div id="wrap">
-    
-		<!-- NAVBAR
+   	<!-- NAVBAR
 		================================================== -->
 		<?php include("includes/navigation.php"); ?>
+   
+    <div id="wrap">
+    
+	
 
 		<!-- Carousel
 		================================================== -->

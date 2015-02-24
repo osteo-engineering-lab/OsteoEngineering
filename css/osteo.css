@@ -19,8 +19,9 @@ body {
 }
 
 .btn-primary {
-  background-color: #b20014;
-  border-color: #7f1200;
+	background: rgba(178,0,20);
+  	background: rgba(178,0,20,.90);
+  	border-color: #7f1200;
 }
 
 .btn-primary:hover,
@@ -42,11 +43,16 @@ nav {
   left: 0;
   right: 0;
   z-index: 20;
+  height: 51px;
+}
+
+.navbar {
+	background: transparent;
 }
 
 .navbar-background {
-	background: rgba(245,245,245);
-	background: rgba(245,245,245,0.8);
+  background: rgba(178,0,20);
+  background: rgba(178,0,20,.90);
 }
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
@@ -55,7 +61,7 @@ nav {
   top: 0;
   left: 0;
   right: 0;
-  z-index: 20;
+  /*z-index: 20; */
 }
 
 /* Flip around the padding for proper display in narrow viewports */
@@ -69,11 +75,12 @@ nav {
 }
 
 .navbar-default {
-  background-color: #b20014;
+
   border-color: #7f1200;
 }
 
 .navbar-default .navbar-brand {
+
   color: #FFFFFF;
 }
 
@@ -142,8 +149,10 @@ nav.invisible {
 /* when shown & detached position is fixed */
 nav.detached {
   position: fixed;
-  background: rgba(240,240,240);
-  background: rgba(240,240,240,.95);
+  background: rgba(178,0,20);
+  background: rgba(178,0,20,.90);
+  border: 1px solid #7f1200;
+  border-width: 0 0 1px;
   -webkit-transition: -webkit-transform .4s, height .3s, background .4s, opacity .3s;
   -moz-transition: -moz-transform .4s, height .3s, background .4s, opacity .3s;
   -o-transition: -o-transform .4s, height .3s, background .4s, opacity .3s;
@@ -497,6 +506,13 @@ nav.detached {
     border-radius: 4px;
   }
   
+	.navbar-brand {
+		width: 70px;
+		font-size: 16px;
+  		line-height: 17px;
+  		padding: 8px 8px 8px 15px;
+	}
+  
 
   /* Bump up size of carousel content */
   .carousel {
@@ -547,10 +563,21 @@ nav.detached {
 
 @media (min-width: 992px) {
 
+  	nav {
+  		height: 71px;
+	}
+  
   /* Navbar positioning foo */
   .navbar-wrapper {
     margin-top: 20px;
   }
+  
+	.navbar-brand {
+		width: 120px;
+		font-size: 18px;
+  		line-height: 20px;
+  		padding: 15px 15px;
+	}
   
 	/* Declare heights because of positioning of img element */
 	.carousel .item {
