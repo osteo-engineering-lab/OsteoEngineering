@@ -47,7 +47,13 @@
 				<h3>Polymers for Medical Devices</h3>
 				<ul>
 					<li><a href="http://www.sciencedirect.com/science/book/9780323228053" target="_blank">Handbook of Polymer Applications in Medicine and Medical Devices</a></li>
-				</ul>					
+				</ul>
+				
+				<h3>Photopolymerization</h3>
+				<ul>
+					<li><a href="http://www.sciencedirect.com/science/article/pii/S0924203198000708" target="_blank">UV Photopolymerization Kinetics Study including effect of initiator concentration and temperature.</a></li>
+				</ul>
+									
 			</div><!-- /span -->
 		</div><!-- /.row -->
 
