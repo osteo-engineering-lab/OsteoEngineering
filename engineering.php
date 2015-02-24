@@ -52,6 +52,7 @@
 				<h3>Photopolymerization</h3>
 				<ul>
 					<li><a href="http://www.sciencedirect.com/science/article/pii/S0924203198000708" target="_blank">UV Photopolymerization Kinetics Study including effect of initiator concentration and temperature.</a></li>
+					<li><a href="http://www.sciencedirect.com/science/article/pii/S1010603002001727" target="_blank">Effect of UV light source intensity and spectral distribution on the photopolymerisation reactions.</a></li>
 				</ul>
 									
 			</div><!-- /span -->
