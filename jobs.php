@@ -32,8 +32,8 @@
 	 			
 	 			<div class="col-xs-12">
 					<h4>July 2014 Recruitment Presentation</h4>
-					<div class="video-container">
-						<iframe src="//player.vimeo.com/video/94224626?color=ffffff" height="100%" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="//player.vimeo.com/video/94224626?color=ffffff" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 					</div><!-- /.video-container -->
 					<p>This recruitment effort has ended. However, the video is posted here for historical purposes and to provide additional information about the Osteo Engineering Laboratory.</p>
 				</div><!-- /.col-sm-12 -->
@@ -100,9 +100,9 @@
         		<div class="col-xs-12">
          			 <h2>Postdoctoral Researcher<br> or Graduate Research Assistant. <br><span class="text-muted">Bone Tissue Engineering.</span></h2>
          			 <p>Graduate Research Assistant or Postdoctoral Researcher position available July 1, 2015 in the Osteo Engineering Laboratory, Department of Plastic Surgery to STUDY POLYMER- AND CERAMIC-BASED TISSUE ENGINEERING SCAFFOLDS for craniofacial (bone) repair and regeneration. This individual is expected to have experience and strong interest in reconstructive craniofacial surgery and must have preclinical research training and experience involving: animal model surgery, bone marrow aspiration, cell culture, and preparation of histology relevant to bone tissue engineering. Experience with 3D printing, polymer scaffolds, ceramic scaffolds, clinical imaging, biomechanical material testing, and resorbable implant materials is also desirable. Candidates should send a letter of interest and curriculum vitae and have three letters of recommendation sent to David Dean, Ph.D., Department of Plastic Surgery, The Ohio State University, 460 West 12th Ave., 10th Floor, Rm. 1004, Columbus, OH  43210 USA. Fax:(614) 688-2195; E-mail: David.Dean@osumc.edu. In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
-					<div class="video-container">
-						<iframe src="//player.vimeo.com/video/111573256?color=ffffff" height="100%" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-					</div><!-- /.video-container -->
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="//player.vimeo.com/video/111573256?color=ffffff" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					</div><!-- /.embed-responsive -->
 					
 					<hr class="featurette-divider">
         	</div><!-- /.col-sm-12 -->
@@ -113,8 +113,8 @@
      		 <div class="col-sm-12">
           		<h2>Postdoctoral Researcher<br> or Graduate Research Assistant. <br><span class="text-muted">Resorbable (Biodegradable) Polymer Synthesis.</span></h2>
          		<p>Graduate Research Assistant or Postdoctoral Researcher position available June 1, 2015 in the Osteo Engineering Lab of the Department of Plastic Surgery to DESIGN AND SYNTHESIZE 3D PRINTABLE RESORBABLE POLYMERS FOR THE 3D PRINTING OF SCAFFOLDS FOR BONE TISSUE ENGINEERING. This individual is expected to have strong interest in, and training and experience relevant to, bioresorbable polymer: synthesis, characterization, and light-based photocrosslinking chemistry. Experience with 3D printing, cytyotoxicity testing, mechanical material testing, bone tissue engineering, and resorbable implant materials is also desirable. Candidates should send a letter of interest and curriculum vitae and three letters of recommendation to David Dean, Ph.D., Department of Plastic Surgery, The Ohio State University, 460 West 12th Ave., 10th Floor, Rm. 1004, Columbus, OH  43210 USA. Fax:(614) 688-2195; E-mail: David.Dean@osumc.edu. In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
-        		<div class="video-container">
-					<iframe src="//player.vimeo.com/video/111573237?color=ffffff" height="100%" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        		<div class="embed-responsive embed-responsive-16by9">
+					<iframe class="embed-responsive-item" src="//player.vimeo.com/video/111573237?color=ffffff" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         		</div><!-- /.video-container -->		
      		</div><!-- /.col-sm-12 -->
 	  
