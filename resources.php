@@ -9,10 +9,10 @@
   
     <!-- Google Analytics -->
   	<?php include_once("includes/analyticstracking.php") ?>
+  	
+  	<?php include("includes/navigation.php"); ?>
     
     <div id="wrap">
-    
-   <?php include("includes/navigation.php"); ?>
 
 		    <!-- infomation
     ================================================== --> 
