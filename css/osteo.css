@@ -43,25 +43,16 @@ nav {
   left: 0;
   right: 0;
   z-index: 20;
-  height: 51px;
 }
 
 .navbar {
 	background: transparent;
+	margin-bottom: 0px
 }
 
 .navbar-background {
   background: rgba(178,0,20);
   background: rgba(178,0,20,.90);
-}
-
-/* Special class on .container surrounding .navbar, used for positioning it into place. */
-.navbar-wrapper {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  /*z-index: 20; */
 }
 
 /* Flip around the padding for proper display in narrow viewports */
@@ -130,6 +121,10 @@ nav {
 .navbar-default .navbar-nav > .open > a:focus {
   color: #FCFCFC;
   background-color: #7f1200;
+}
+
+.navbar-brand {
+	max-width: 700px;
 }
 
 /* when hidden it goes up */ 
