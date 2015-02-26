@@ -17,8 +17,6 @@
    
     <div id="wrap">
     
-	
-
 		<!-- Carousel
 		================================================== -->
 		<div id="myCarousel" class="carousel slide">
