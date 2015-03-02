@@ -124,6 +124,34 @@
    				 </div><!-- /.collapse -->
 			</div><!-- /.panel -->
 			
+			<!-- ================================ Polymer Properties =========================================== -->	
+			<div class="panel panel-default">
+    			<div class="panel-heading">
+      				<h4 class="panel-title">
+        				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" id="brain_tumors">
+							<strong>Polymer Properties</strong>
+        				</a>
+      				</h4>
+    			</div><!-- /.panel-heading -->
+    
+   				 <div id="collapseOne" class="panel-collapse collapse">
+      				<div class="panel-body">
+      					
+      					<h4>Viscosity</h4>
+      					<ul>
+							<li><a href="http://library.sut.ac.th:8080/ACS/V47N01Y2006/files/124.pdf" target="_blank">Polypropylene fumarate: one example to study the finite length effect on glass transition temperature and polymer dynamics.</a></li>
+						</ul>
+      					
+      					<h4>Glass Transition</h4>
+						<ul>
+							<li><a href="http://library.sut.ac.th:8080/ACS/V47N01Y2006/files/124.pdf" target="_blank">Polypropylene fumarate: one example to study the finite length effect on glass transition temperature and polymer dynamics.</a></li>
+						</ul>
+      					
+      				</div><!-- /.panel-body -->	
+   				 </div><!-- /.collapse -->
+   				 
+			</div><!-- /.panel -->
+			
 			<!-- ================================ Cell Response =========================================== -->	
 			<div class="panel panel-default">
     			<div class="panel-heading">
