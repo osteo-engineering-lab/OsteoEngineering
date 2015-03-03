@@ -128,13 +128,13 @@
 			<div class="panel panel-default">
     			<div class="panel-heading">
       				<h4 class="panel-title">
-        				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" id="brain_tumors">
+        				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" id="brain_tumors">
 							<strong>Polymer Properties</strong>
         				</a>
       				</h4>
     			</div><!-- /.panel-heading -->
     
-   				 <div id="collapseOne" class="panel-collapse collapse">
+   				 <div id="collapseFour" class="panel-collapse collapse">
       				<div class="panel-body">
       					
       					<h4>Viscosity</h4>
@@ -156,13 +156,13 @@
 			<div class="panel panel-default">
     			<div class="panel-heading">
       				<h4 class="panel-title">
-        				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" id="brain_tumors">
+        				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" id="brain_tumors">
 							<strong>Cell Response</strong>
         				</a>
       				</h4>
     			</div><!-- /.panel-heading -->
     
-   				 <div id="collapseFour" class="panel-collapse collapse">
+   				 <div id="collapseFive" class="panel-collapse collapse">
       				
       				<div class="panel-body">
 						<ul>
