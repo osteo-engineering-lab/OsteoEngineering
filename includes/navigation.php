@@ -9,12 +9,12 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              	<a class="navbar-brand" href="http://osteoengineering.com">Dean Lab</a>
+              	<a class="navbar-brand" href="/">Dean Lab</a>
             </div><!-- /.navbar-header -->
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li<?php if ($thisPage=="Home") 
-echo " class=\"active\""; ?>><a href="http://osteoengineering.com">Home</a></li>
+echo " class=\"active\""; ?>><a href="/">Home</a></li>
                 <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">The Team <b class="caret"></b></a>
 					<ul class="dropdown-menu">
 						<li<?php if ($thisPage=="Current Team") 
@@ -70,10 +70,10 @@ echo "../"; ?>resources">Resources</a></li>
 					  </ul>
                 </li>
                 <li<?php if ($thisPage=="Media") 
-echo " class=\"active\""; ?>><a href="http://osteoengineering.com/media">Media</a></li>
+echo " class=\"active\""; ?>><a href="media">Media</a></li>
 
                 <li<?php if ($thisPage=="Contact") 
-echo " class=\"active\""; ?>><a href="http://osteoengineering.com/contact">Contact Us</a></li>
+echo " class=\"active\""; ?>><a href="contact">Contact Us</a></li>
               </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container -->
