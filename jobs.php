@@ -43,7 +43,16 @@
         <div class="col-xs-12 col-md-8">
         
         	<div class="row">
-        	
+        		<div class="col-xs-12">
+         			 <h2>Lab Manager<br><span class="text-muted">Osteo Engineering Laboratory.</span></h2>
+         			 <p>LAB MANAGER (Official Title: Research Associate) position available immediately. A full-time manager is needed to oversee and execute the operations of the Osteo Engineering Laboratory, which includes but is not limited to hiring and training assistants, assisting researchers and clinicians, and scheduling. The ideal candidate is highly flexible in the type of work he or she is doing and has strong technical and communication skills and excels in leadership roles. Strong attention to detail and organization are musts. A background including work experience and a Masters Degree in a relevant field of biology and/or engineering is preferred. The Osteo Engineering Lab Manager participates in the planning, designing and control of research projects investigating BONE TISSUE ENGINEERING AND 3D PRINTING; participates in the development and implementation of new and/or revised research methodologies and protocols including criteria for evaluating controls, test samples and performance standards, including cell culture and cytotoxicity testing; designs and executes complex laboratory experiments; performs advanced techniques and in vitro and/or animal model experiments to understand the PRODUCTION AND PERFORMANCE OF TISSUE ENGINEERING CONSTRUCTS; reviews protocols; compiles, analyzes and interprets technical data and results for research papers, manuscripts, reports, proposals and/or presentations; maintains integrity of data; collaborates with the Principal Investigator to write manuscripts, research papers and abstracts for publication and presentation at workshops and conferences; attends and presents at scientific meetings; performs critical analyses of literature relevant to research undertaken; supervises Graduate, Medical, and Undergraduate student Research Assistants in the laboratory; prioritizes lab workload and implements measures to ensure goals are met; maintains lab safety; assists with maintenance of equipment, lab inventory and overall lab organization including the lab website; handles the purchasing of laboratory materials and supplies. Candidates should send a letter of interest and curriculum vitae and have three letters of recommendation sent to David Dean, Ph.D., Department of Plastic Surgery, The Ohio State University, 460 West 12th Ave., 10th Floor, Rm. 1004, Columbus, OH 43210 USA. Fax:(614) 688-2195; E-mail: David.Dean@osumc.edu. In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="//player.vimeo.com/video/111573256?color=ffffff" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					</div><!-- /.embed-responsive -->
+					
+					<hr class="featurette-divider">
+				</div><!-- /.col-sm-12 -->
+			
         		<div class="col-xs-12">
          			 <h2>Lab Manager. <br><span class="text-muted">3D Printing Core.</span></h2> - <a href="downloads/jobs/3D-Printing-Core-Manager_job-description_final_2015.pdf">Download Job Description</a>
          			<h4>Description of the Core</h4>
@@ -80,16 +89,16 @@
 					<h4>Respond</h4>
 					<p>Candidates should send a letter of interest and resume that includes contact information, relevant experiences, career goals, and three references to:</p>
 					<address>
-						<strong><a href="team/CourtneyDolder">Mrs. Courtney Dolder</a></strong><br />
-						Manager, Osteo Engineering Lab<br />
+						<strong><a href="team/DavidDean">David Dean, Ph.D.</a></strong><br />
+						Associate Professor<br />
 						Department of Plastic Surgery, <br />
 						The Ohio State University <br />
 						460 West 12th Ave., <br />
-						10th Floor, Rm. 1009 <br />
+						10th Floor, Rm. 1004 <br />
 						Columbus, OH 43210 USA <br />
-						<abbr title="Phone">P:</abbr> (614) 688-9043 <br />
+						<abbr title="Phone">P:</abbr> (614) 688-9044 <br />
 						<abbr title="Fax">F:</abbr> (614) 688-2195 <br />
-						<abbr title="E-Mail">E:</abbr><a href="mailto:Courtney.Dolder@osumc.edu"> Courtney.Dolder@osumc.edu</a>
+						<abbr title="E-Mail">E:</abbr><a href="mailto:David.Dean@osumc.edu"> David.Dean@osumc.edu</a>
 					</address>
 					<p>In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
 				
@@ -105,7 +114,7 @@
 					</div><!-- /.embed-responsive -->
 					
 					<hr class="featurette-divider">
-        	</div><!-- /.col-sm-12 -->
+				</div><!-- /.col-sm-12 -->
 
 
      		
